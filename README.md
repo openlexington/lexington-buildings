@@ -1,9 +1,9 @@
 Beginnings of an import of New Orleans address and building data.
 
-Requirements:
+mtoups new stuff
+================
 
-* Python 2.7
-* cElementTree (makes it go faster)
-* make
-
-To get going, run `make` to process the original converted OSM files.
+* chunk.py added (thanks dcbuildings/nycbuildings)
+* use NOPD districts shapefile (NOPD.shp) to split up data
+* fix projection using ogr2ogr
+* convert.py modified: handle NOLA.gov's shapefile quirks, etc
