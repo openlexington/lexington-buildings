@@ -23,7 +23,8 @@ def convert(buildingIn, addressIn, osmOut):
         for address in input:
             shape = asShape(address['geometry'])
             shape.original = address
-            addresses.append(shape)
+            if address['properties']['STATUS'] != 'RETIRED': # only import active addresses
+                addresses.append(shape)
 
     # Load and index all buildings.
     buildingIdx = index.Index()
@@ -175,9 +176,6 @@ def convert(buildingIn, addressIn, osmOut):
         appendBuilding(building, address, osmXml)
     if (len(addresses) > 0):
         for address in addresses:
-            if address['properties']['STATUS'] == 'RETIRED':
-                print "... skipping retired address at " + str(address['properties']['HOUSE_NUMB']) + " " + address['properties']['STREET']
-                continue
             node = appendNewNode(address['geometry']['coordinates'], osmXml)
             appendAddress(address, node)
     with open(osmOut, 'w') as outFile:
