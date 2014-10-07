@@ -183,11 +183,11 @@ def convert(buildingIn, addressIn, osmOut):
         print "Exported " + osmOut
 
 def convertTown(buildingFile):
-    matches = re.match('^.*-(\d+)\.shp$', buildingFile).groups(0)
+    matches = re.match('^.*-(\d+)-(.*)\.shp$', buildingFile).groups(0) # precincts may or may not contain letters
     convert(
         buildingFile,
-        'chunks/addresses-%s.shp' % matches[0],
-        'osm/buildings-addresses-%s.osm' % matches[0])
+        'chunks/addresses-%s-%s.shp' % (matches[0], matches[1] ),
+        'osm/buildings-addresses-%s-%s.osm' % (matches[0], matches[1] ))
 
 
 if __name__ == '__main__':
