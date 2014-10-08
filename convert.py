@@ -40,8 +40,10 @@ def convert(buildingIn, addressIn, osmOut):
     # Map addresses to buildings.
     for address in addresses:
         for i in buildingIdx.intersection(address.bounds):
-#            if buildings[i]['shape'].contains(address):
-            if address.within(buildings[i]['shape']):
+            # unfortunately the address data is somewhat inaccurate, so sometimes the point falls
+            # outside of the corresponding building. buffer() gives us a bit of wiggle room.
+            # this is less than one meter, but fixes a lot of cases in the NOLA shapefile
+            if address.buffer(0.000006).intersects(buildings[i]['shape']):
                 buildings[i]['properties']['addresses'].append(address.original)
 
     # Generates a new osm id.
