@@ -19,7 +19,6 @@ New_Orleans_Voting_Precincts.zip:
 New_Orleans_Voting_Precincts: New_Orleans_Voting_Precincts.zip
 	rm -rf New_Orleans_Voting_Precincts
 	unzip New_Orleans_Voting_Precincts.zip -d New_Orleans_Voting_Precincts
-	ogr2ogr -t_srs EPSG:4236 New_Orleans_Voting_Precincts/New_Orleans_Voting_Precincts.shp New_Orleans_Voting_Precincts/VotingPrecinct.shp
 
 BuildingOutlines2013.zip:
 	curl -L "https://data.nola.gov/download/t3vb-bbwe/application/zip" -o BuildingOutlines2013.zip
@@ -32,8 +31,8 @@ BuildingOutlines2013: BuildingOutlines2013.zip
 
 chunks: directories
 	rm -f chunks/*
-	python chunk.py BuildingOutlines2013/buildings.shp New_Orleans_Voting_Precincts/New_Orleans_Voting_Precincts.shp chunks/buildings-%s.shp PRECINCTID
-	python chunk.py NOLA_Addresses_20140221/addresses.shp New_Orleans_Voting_Precincts/New_Orleans_Voting_Precincts.shp chunks/addresses-%s.shp PRECINCTID
+	python chunk.py BuildingOutlines2013/buildings.shp New_Orleans_Voting_Precincts/VotingPrecinct.shp chunks/buildings-%s.shp PRECINCTID
+	python chunk.py NOLA_Addresses_20140221/addresses.shp New_Orleans_Voting_Precincts/VotingPrecinct.shp chunks/addresses-%s.shp PRECINCTID
 
 osm: directories
 	rm -f osm/*
