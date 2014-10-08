@@ -11,6 +11,7 @@ import re
 from pprint import pprint
 from decimal import Decimal, getcontext
 from multiprocessing import Pool
+import expansions # for streets etc
 
 getcontext().prec = 16
 
@@ -64,6 +65,12 @@ def convert(buildingIn, addressIn, osmOut):
             else:
                 return ''
 
+        def streettype(t):
+            if t in expansions.road_types:
+                return expansions.road_types[t]
+            else:
+                return t
+
         if all (k in address for k in ('HOUSE_NUMB', 'STREET', 'TYPE', 'DIR' )):
             result['addr:housenumber'] = str(address['HOUSE_NUMB'])
             if address['HOUSE_ALPH']: # alpha-suffix to address
@@ -80,9 +87,9 @@ def convert(buildingIn, addressIn, osmOut):
                 result['addr:street'] = "%s%s %s" % \
                     (direction(address['DIR']),
                     streetname,
-                    address['TYPE'].title() ) # TODO: expand TYPE, see expansions.py
-            else:
-                result['addr:street'] = "%s %s" % (direction(address['DIR']), streetname)
+                    streettype(address['TYPE']) )
+            else: # small number of streets have no type
+                result['addr:street'] = "%s%s" % (direction(address['DIR']), streetname)
         return result
 
     # Appends new node or returns existing if exists.
