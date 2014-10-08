@@ -163,11 +163,8 @@ def convert(buildingIn, addressIn, osmOut):
             osmXml.append(relation)
             way = relation
         way.append(etree.Element('tag', k='building', v='yes'))
-        if 'GIS_ID' in building['properties']:
-            way.append(etree.Element('tag', k='dcgis:gis_id', v=str(building['properties']['GIS_ID'])))
-        if 'FLOORS' in building['properties'] and building['properties']['FLOORS'] != None:
-            floors = building['properties']['FLOORS'].split(' ')[0]
-            way.append(etree.Element('tag', k='building:levels', v=str(floors)))
+        if 'OBJECTID' in building['properties']:
+            way.append(etree.Element('tag', k='nola:gis_id', v=str(building['properties']['OBJECTID'])))
         if address: appendAddress(address, way)
 
     # Export buildings & addresses. Only export address with building if there is exactly
