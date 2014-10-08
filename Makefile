@@ -32,10 +32,10 @@ chunks: directories
 	chunk_addrs
 	chunk_bldgs
 
-chunk_addrs: directories
+chunk_addrs: directories NOLA_Addresses_20140221 New_Orleans_Voting_Precincts
 	python chunk.py NOLA_Addresses_20140221/addresses.shp New_Orleans_Voting_Precincts/precincts.shp chunks/addresses-%s.shp PRECINCTID
 
-chunk_bldgs: directories
+chunk_bldgs: directories BuildingOutlines2013 New_Orleans_Voting_Precincts
 	python chunk.py BuildingOutlines2013/buildings.shp New_Orleans_Voting_Precincts/precincts.shp chunks/buildings-%s.shp PRECINCTID
 
 osm: directories chunk_addrs chunk_bldgs
