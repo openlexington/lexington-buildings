@@ -33,7 +33,6 @@ def convert(buildingIn, addressIn, osmOut):
     with collection(buildingIn, "r") as input:
         for building in input:
             building['shape'] = asShape(building['geometry'])
-#            if building['properties']['DESCRIPTIO'] != 'Void':
             building['properties']['addresses'] = []
             buildings.append(building)
             buildingIdx.add(len(buildings) - 1, building['shape'].bounds)
@@ -41,9 +40,9 @@ def convert(buildingIn, addressIn, osmOut):
     # Map addresses to buildings.
     for address in addresses:
         for i in buildingIdx.intersection(address.bounds):
-            if buildings[i]['shape'].contains(address):
-                buildings[i]['properties']['addresses'].append(
-                    address.original)
+#            if buildings[i]['shape'].contains(address):
+            if address.within(buildings[i]['shape']):
+                buildings[i]['properties']['addresses'].append(address.original)
 
     # Generates a new osm id.
     osmIds = dict(node = -1, way = -1, rel = -1)
@@ -174,9 +173,24 @@ def convert(buildingIn, addressIn, osmOut):
     for building in buildings:
         address = None
         if len(building['properties']['addresses']) == 1:
-            address = building['properties']['addresses'][0]
-        else:
-            addresses.extend(building['properties']['addresses'])
+            address = building['properties']['addresses'][0] # simple case, only one address
+        else: # there are more addresses. check to see if they're in the same location.
+            if len(building['properties']['addresses']) > 1:
+                seen = set()
+                keepers = []
+                for a in building['properties']['addresses']:
+                    rounded_a = round( a['geometry']['coordinates'][0] , 7 ) , round ( a['geometry']['coordinates'][1] , 7 )
+                    # data.nola.gov has noise, round off to 7 decimal places (good enough for JOSM)
+                    if rounded_a in seen:
+                        if a['properties']['ADDR_TYPE'] == 'P':
+                            keepers[0] = a # give priority to the primary address
+                    else: # another point within the building, but not the same exact coords
+                        seen.add( rounded_a )
+                        keepers.append(a)
+                if len(keepers) == 1: # after filtering out dupes, are we down to 1 address?
+                    address = keepers[0]
+                else: # if there are multiple points in seperate locations, then we want individual nodes
+                    addresses.extend(keepers)
         appendBuilding(building, address, osmXml)
     if (len(addresses) > 0):
         for address in addresses:
