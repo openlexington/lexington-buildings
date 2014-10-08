@@ -57,9 +57,9 @@ def convert(buildingIn, addressIn, osmOut):
         def direction(d):
             directions = dict()
             directions['N'] = 'North '
-            directions['E'] = 'East' # very few of these, but some
+            directions['E'] = 'East '
             directions['S'] = 'South '
-            directions['W'] = 'West'
+            directions['W'] = 'West '
             if d in directions:
                 return directions[d]
             else:
