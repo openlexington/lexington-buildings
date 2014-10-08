@@ -1,9 +1,6 @@
-#PYTHON=python
+MAKEFLAGS+="-j 2" # chunking is slow, do this in parallel jobs
 
-#NOLA_Addresses_tulane_processed.osm: NOLA_Addresses_tulane.osm
-#	$(PYTHON) process_addresses.py < $< > $@
-
-all: NOLA_Addresses_20140221 BuildingOutlines2013 New_Orleans_Voting_Precincts directories chunks osm
+all: NOLA_Addresses_20140221 BuildingOutlines2013 New_Orleans_Voting_Precincts directories chunk_addrs chunk_bldgs osm
 
 NOLA_Addresses_20140221.zip:
 	curl -L "https://data.nola.gov/download/div8-5v7i/application/zip" -o NOLA_Addresses_20140221.zip
@@ -32,10 +29,16 @@ BuildingOutlines2013: BuildingOutlines2013.zip
 
 chunks: directories
 	rm -f chunks/*
-	python chunk.py BuildingOutlines2013/buildings.shp New_Orleans_Voting_Precincts/precincts.shp chunks/buildings-%s.shp PRECINCTID
+	chunk_addrs
+	chunk_bldgs
+
+chunk_addrs: directories
 	python chunk.py NOLA_Addresses_20140221/addresses.shp New_Orleans_Voting_Precincts/precincts.shp chunks/addresses-%s.shp PRECINCTID
 
-osm: directories
+chunk_bldgs: directories
+	python chunk.py BuildingOutlines2013/buildings.shp New_Orleans_Voting_Precincts/precincts.shp chunks/buildings-%s.shp PRECINCTID
+
+osm: directories chunk_addrs chunk_bldgs
 	rm -f osm/*
 	python convert.py
 
