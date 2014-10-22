@@ -8,7 +8,7 @@ NOLA_Addresses_20140221.zip:
 NOLA_Addresses_20140221: NOLA_Addresses_20140221.zip
 	rm -rf NOLA_Addresses_20140221
 	unzip NOLA_Addresses_20140221.zip -d NOLA_Addresses_20140221
-	ogr2ogr -t_srs EPSG:4326 -overwrite NOLA_Addresses_20140221/addresses.shp NOLA_Addresses_20140221/NOLA_Addresses_20140221.shp
+	ogr2ogr -t_srs EPSG:4326 -overwrite NOLA_Addresses_20140221/addresses.shp NOLA_Addresses_20140221/NOLA_Addresses.shp
 
 New_Orleans_Voting_Precincts.zip:
 	curl -L "https://data.nola.gov/api/geospatial/vycb-i8x3?method=export&format=Shapefile" -o New_Orleans_Voting_Precincts.zip
