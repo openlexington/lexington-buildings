@@ -164,8 +164,9 @@ def convert(buildingIn, addressIn, osmOut):
             osmXml.append(relation)
             way = relation
         way.append(etree.Element('tag', k='building', v='yes'))
-        if 'OBJECTID' in building['properties']:
-            way.append(etree.Element('tag', k='nola:gis_id', v=str(building['properties']['OBJECTID'])))
+# Below: we've decided against adding the nola:gid_id tag which may not be useful
+#        if 'OBJECTID' in building['properties']:
+#            way.append(etree.Element('tag', k='nola:gis_id', v=str(building['properties']['OBJECTID'])))
         if address: appendAddress(address, way)
 
     # Export buildings & addresses. Only export address with building if there is exactly
