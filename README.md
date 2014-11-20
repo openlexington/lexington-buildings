@@ -1,4 +1,6 @@
-Scripts for import of New Orleans address and building data.
+# OSM Import of New Orleans address and building data.
+
+These scripts pre-process shapefile data from [data.nola.gov](https://data.nola.gov) and put it into a format suitable to be imported into OpenStreetMap.
 
 To use, run:
 
@@ -11,6 +13,8 @@ And if everything works you should get output in the `osm/` directory.
 You don't need to be able to run this to participate in the import. This is available for those who are curious or would like to improve the process.
 
 ## Prerequisites
+
+You will need at least a few GB of RAM for this to work well. We also attempt to do work in parallel, so more CPU cores will be helpful.
 
 Python modules needed include:
 * fiona
