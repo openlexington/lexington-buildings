@@ -16,6 +16,7 @@ On Linux (Debian/Ubuntu) you should make sure the following packages are install
 * libspatialindex-dev
 
 Then you can build/install fiona with:
+
     sudo pip install fiona
 
 ## Credits
@@ -23,3 +24,7 @@ Then you can build/install fiona with:
 Based on [dcbuildings](https://github.com/osmlab/dcbuildings) and [nycbuildings](https://github.com/osmlab/nycbuildings).
 
 Adapted for New Orleans by Matt Toups.
+
+## More info
+
+See https://wiki.openstreetmap.org/wiki/New_Orleans,_Louisiana/Building_Outlines_Import
