@@ -416,7 +416,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-1-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-1-1.osm",
     "name": "ward-precinct 1-1",
     "Shape_Area": 15044652.052,
     "Shape_Leng": 14923.313283,
@@ -646,7 +646,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-1-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-1-2.osm",
     "name": "ward-precinct 1-2",
     "Shape_Area": 1747578.25822,
     "Shape_Leng": 6197.494368,
@@ -936,7 +936,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-1-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-1-5.osm",
     "name": "ward-precinct 1-5",
     "Shape_Area": 2742830.5236,
     "Shape_Leng": 6893.187245,
@@ -1218,7 +1218,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-1-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-1-6.osm",
     "name": "ward-precinct 1-6",
     "Shape_Area": 2564672.92576,
     "Shape_Leng": 6768.458235,
@@ -1600,7 +1600,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-10-11.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-10-11.osm",
     "name": "ward-precinct 10-11",
     "Shape_Area": 2584487.58719,
     "Shape_Leng": 6875.693953,
@@ -2074,7 +2074,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-10-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-10-12.osm",
     "name": "ward-precinct 10-12",
     "Shape_Area": 2213932.99702,
     "Shape_Leng": 6424.194125,
@@ -2452,7 +2452,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-10-13.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-10-13.osm",
     "name": "ward-precinct 10-13",
     "Shape_Area": 2083473.4771,
     "Shape_Leng": 6163.038643,
@@ -2958,7 +2958,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-10-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-10-14.osm",
     "name": "ward-precinct 10-14",
     "Shape_Area": 4466227.39023,
     "Shape_Leng": 12717.024996,
@@ -3280,7 +3280,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-10-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-10-3.osm",
     "name": "ward-precinct 10-3",
     "Shape_Area": 9288700.49178,
     "Shape_Leng": 14750.798502,
@@ -3494,7 +3494,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-10-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-10-6.osm",
     "name": "ward-precinct 10-6",
     "Shape_Area": 2076605.71385,
     "Shape_Leng": 5770.385959,
@@ -3696,7 +3696,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-10-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-10-7.osm",
     "name": "ward-precinct 10-7",
     "Shape_Area": 1415946.20775,
     "Shape_Leng": 4781.035716,
@@ -3958,7 +3958,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-10-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-10-8.osm",
     "name": "ward-precinct 10-8",
     "Shape_Area": 1872473.63729,
     "Shape_Leng": 5478.255056,
@@ -4204,7 +4204,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-10-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-10-9.osm",
     "name": "ward-precinct 10-9",
     "Shape_Area": 2173820.88486,
     "Shape_Leng": 6343.948553,
@@ -4430,7 +4430,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-10.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-10.osm",
     "name": "ward-precinct 11-10",
     "Shape_Area": 2034929.38134,
     "Shape_Leng": 6980.215088,
@@ -4676,7 +4676,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-11.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-11.osm",
     "name": "ward-precinct 11-11",
     "Shape_Area": 1842277.49388,
     "Shape_Leng": 6658.080723,
@@ -4914,7 +4914,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-12.osm",
     "name": "ward-precinct 11-12",
     "Shape_Area": 1759709.98346,
     "Shape_Leng": 6425.70647,
@@ -5156,7 +5156,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-13.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-13.osm",
     "name": "ward-precinct 11-13",
     "Shape_Area": 1740824.21799,
     "Shape_Leng": 6267.747797,
@@ -5538,7 +5538,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-14.osm",
     "name": "ward-precinct 11-14",
     "Shape_Area": 3951989.54937,
     "Shape_Leng": 8431.054327,
@@ -5864,7 +5864,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-17.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-17.osm",
     "name": "ward-precinct 11-17",
     "Shape_Area": 5064765.1644,
     "Shape_Leng": 10904.962918,
@@ -6058,7 +6058,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-3.osm",
     "name": "ward-precinct 11-3",
     "Shape_Area": 1196342.70332,
     "Shape_Leng": 4734.128053,
@@ -6268,7 +6268,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-5.osm",
     "name": "ward-precinct 11-5",
     "Shape_Area": 2705796.39047,
     "Shape_Leng": 6622.296674,
@@ -6446,7 +6446,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-8.osm",
     "name": "ward-precinct 11-8",
     "Shape_Area": 1568095.95002,
     "Shape_Leng": 5024.278757,
@@ -6716,7 +6716,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-9.osm",
     "name": "ward-precinct 11-9",
     "Shape_Area": 4207496.33516,
     "Shape_Leng": 8314.842068,
@@ -6958,7 +6958,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-1.osm",
     "name": "ward-precinct 12-1",
     "Shape_Area": 1936901.85071,
     "Shape_Leng": 5780.09555,
@@ -7140,7 +7140,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-10.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-10.osm",
     "name": "ward-precinct 12-10",
     "Shape_Area": 1883527.83874,
     "Shape_Leng": 5639.113355,
@@ -7338,7 +7338,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-12.osm",
     "name": "ward-precinct 12-12",
     "Shape_Area": 1673701.9619,
     "Shape_Leng": 6168.704323,
@@ -7544,7 +7544,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-13.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-13.osm",
     "name": "ward-precinct 12-13",
     "Shape_Area": 1509226.03197,
     "Shape_Leng": 5899.764337,
@@ -7810,7 +7810,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-14.osm",
     "name": "ward-precinct 12-14",
     "Shape_Area": 2656859.8987,
     "Shape_Leng": 7652.179306,
@@ -8124,7 +8124,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-16.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-16.osm",
     "name": "ward-precinct 12-16",
     "Shape_Area": 2518737.44128,
     "Shape_Leng": 6967.610798,
@@ -8534,7 +8534,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-17.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-17.osm",
     "name": "ward-precinct 12-17",
     "Shape_Area": 3919142.74325,
     "Shape_Leng": 10910.375132,
@@ -8772,7 +8772,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-19.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-19.osm",
     "name": "ward-precinct 12-19",
     "Shape_Area": 2431540.46533,
     "Shape_Leng": 7424.300921,
@@ -8966,7 +8966,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-2.osm",
     "name": "ward-precinct 12-2",
     "Shape_Area": 1787244.20325,
     "Shape_Leng": 5421.640175,
@@ -9128,7 +9128,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-3.osm",
     "name": "ward-precinct 12-3",
     "Shape_Area": 1773748.81706,
     "Shape_Leng": 5369.433,
@@ -9414,7 +9414,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-4.osm",
     "name": "ward-precinct 12-4",
     "Shape_Area": 12064158.2269,
     "Shape_Leng": 17344.71359,
@@ -9704,7 +9704,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-5.osm",
     "name": "ward-precinct 12-5",
     "Shape_Area": 2440630.71886,
     "Shape_Leng": 6760.053339,
@@ -9898,7 +9898,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-6.osm",
     "name": "ward-precinct 12-6",
     "Shape_Area": 2078476.99816,
     "Shape_Leng": 6081.20162,
@@ -10236,7 +10236,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-7.osm",
     "name": "ward-precinct 12-7",
     "Shape_Area": 2033268.41948,
     "Shape_Leng": 9177.152021,
@@ -10534,7 +10534,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-8.osm",
     "name": "ward-precinct 12-8",
     "Shape_Area": 2079381.49269,
     "Shape_Leng": 8929.307563,
@@ -10768,7 +10768,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-9.osm",
     "name": "ward-precinct 12-9",
     "Shape_Area": 2210591.01423,
     "Shape_Leng": 6147.34383,
@@ -11042,7 +11042,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-1.osm",
     "name": "ward-precinct 13-1",
     "Shape_Area": 18753122.4529,
     "Shape_Leng": 19324.906358,
@@ -11252,7 +11252,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-10.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-10.osm",
     "name": "ward-precinct 13-10",
     "Shape_Area": 1761896.50296,
     "Shape_Leng": 5604.044844,
@@ -11446,7 +11446,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-11.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-11.osm",
     "name": "ward-precinct 13-11",
     "Shape_Area": 2129756.76736,
     "Shape_Leng": 5851.433751,
@@ -11668,7 +11668,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-12.osm",
     "name": "ward-precinct 13-12",
     "Shape_Area": 2061382.97946,
     "Shape_Leng": 5744.581301,
@@ -11890,7 +11890,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-13.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-13.osm",
     "name": "ward-precinct 13-13",
     "Shape_Area": 1839708.90912,
     "Shape_Leng": 6649.278266,
@@ -12132,7 +12132,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-14.osm",
     "name": "ward-precinct 13-14",
     "Shape_Area": 3593169.69991,
     "Shape_Leng": 8059.833937,
@@ -12362,7 +12362,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-15.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-15.osm",
     "name": "ward-precinct 13-15",
     "Shape_Area": 2191973.32714,
     "Shape_Leng": 5992.246636,
@@ -12804,7 +12804,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-16.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-16.osm",
     "name": "ward-precinct 13-16",
     "Shape_Area": 2292033.12389,
     "Shape_Leng": 7026.859114,
@@ -12986,7 +12986,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-2.osm",
     "name": "ward-precinct 13-2",
     "Shape_Area": 2328362.98649,
     "Shape_Leng": 6877.888207,
@@ -13212,7 +13212,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-3.osm",
     "name": "ward-precinct 13-3",
     "Shape_Area": 1574175.29613,
     "Shape_Leng": 5728.217479,
@@ -13426,7 +13426,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-4.osm",
     "name": "ward-precinct 13-4",
     "Shape_Area": 2343160.19407,
     "Shape_Leng": 6209.325785,
@@ -13636,7 +13636,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-5.osm",
     "name": "ward-precinct 13-5",
     "Shape_Area": 2081095.2133,
     "Shape_Leng": 6093.146774,
@@ -13806,7 +13806,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-6.osm",
     "name": "ward-precinct 13-6",
     "Shape_Area": 1718415.79804,
     "Shape_Leng": 5629.982372,
@@ -14016,7 +14016,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-7.osm",
     "name": "ward-precinct 13-7",
     "Shape_Area": 1933159.0234,
     "Shape_Leng": 5855.828217,
@@ -14266,7 +14266,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-8.osm",
     "name": "ward-precinct 13-8",
     "Shape_Area": 2784221.325,
     "Shape_Leng": 6815.658714,
@@ -14456,7 +14456,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-13-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-13-9.osm",
     "name": "ward-precinct 13-9",
     "Shape_Area": 2454906.53952,
     "Shape_Leng": 6265.222851,
@@ -14606,7 +14606,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-1.osm",
     "name": "ward-precinct 14-1",
     "Shape_Area": 2196867.57478,
     "Shape_Leng": 6056.026381,
@@ -14868,7 +14868,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-10.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-10.osm",
     "name": "ward-precinct 14-10",
     "Shape_Area": 23997087.5484,
     "Shape_Leng": 22121.543732,
@@ -15122,7 +15122,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-11.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-11.osm",
     "name": "ward-precinct 14-11",
     "Shape_Area": 2339242.33403,
     "Shape_Leng": 6344.05409,
@@ -15388,7 +15388,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-12.osm",
     "name": "ward-precinct 14-12",
     "Shape_Area": 2289486.59443,
     "Shape_Leng": 8996.746571,
@@ -15694,7 +15694,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-13A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-13A.osm",
     "name": "ward-precinct 14-13A",
     "Shape_Area": 6600865.73609,
     "Shape_Leng": 10471.967934,
@@ -15952,7 +15952,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-14.osm",
     "name": "ward-precinct 14-14",
     "Shape_Area": 2844732.21656,
     "Shape_Leng": 6935.24801,
@@ -16146,7 +16146,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-15.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-15.osm",
     "name": "ward-precinct 14-15",
     "Shape_Area": 2718227.58897,
     "Shape_Leng": 7031.659271,
@@ -16384,7 +16384,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-16.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-16.osm",
     "name": "ward-precinct 14-16",
     "Shape_Area": 3106838.68527,
     "Shape_Leng": 7395.991478,
@@ -16670,7 +16670,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-17.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-17.osm",
     "name": "ward-precinct 14-17",
     "Shape_Area": 2865067.48129,
     "Shape_Leng": 7633.768558,
@@ -16936,7 +16936,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-18A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-18A.osm",
     "name": "ward-precinct 14-18A",
     "Shape_Area": 4538079.82774,
     "Shape_Leng": 9161.508643,
@@ -17234,7 +17234,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-19.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-19.osm",
     "name": "ward-precinct 14-19",
     "Shape_Area": 2149041.71853,
     "Shape_Leng": 8556.887248,
@@ -17424,7 +17424,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-2.osm",
     "name": "ward-precinct 14-2",
     "Shape_Area": 4444614.45641,
     "Shape_Leng": 10411.47282,
@@ -17902,7 +17902,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-20.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-20.osm",
     "name": "ward-precinct 14-20",
     "Shape_Area": 4307641.06979,
     "Shape_Leng": 9911.614489,
@@ -18256,7 +18256,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-21.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-21.osm",
     "name": "ward-precinct 14-21",
     "Shape_Area": 3090252.38686,
     "Shape_Leng": 7955.12556,
@@ -18450,7 +18450,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-23.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-23.osm",
     "name": "ward-precinct 14-23",
     "Shape_Area": 2176297.14085,
     "Shape_Leng": 5930.828051,
@@ -18760,7 +18760,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-24A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-24A.osm",
     "name": "ward-precinct 14-24A",
     "Shape_Area": 3553861.76359,
     "Shape_Leng": 7847.851107,
@@ -19158,7 +19158,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-25.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-25.osm",
     "name": "ward-precinct 14-25",
     "Shape_Area": 1597725.92042,
     "Shape_Leng": 5857.738557,
@@ -19560,7 +19560,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-26.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-26.osm",
     "name": "ward-precinct 14-26",
     "Shape_Area": 4214243.62497,
     "Shape_Leng": 11317.240132,
@@ -19722,7 +19722,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-3.osm",
     "name": "ward-precinct 14-3",
     "Shape_Area": 7234427.86936,
     "Shape_Leng": 11603.525904,
@@ -19900,7 +19900,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-4.osm",
     "name": "ward-precinct 14-4",
     "Shape_Area": 1568412.50054,
     "Shape_Leng": 5604.060947,
@@ -20094,7 +20094,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-5.osm",
     "name": "ward-precinct 14-5",
     "Shape_Area": 1970405.42231,
     "Shape_Leng": 6222.125711,
@@ -20332,7 +20332,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-6.osm",
     "name": "ward-precinct 14-6",
     "Shape_Area": 2316240.96108,
     "Shape_Leng": 6876.171964,
@@ -20542,7 +20542,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-7.osm",
     "name": "ward-precinct 14-7",
     "Shape_Area": 2605251.1337,
     "Shape_Leng": 6718.619184,
@@ -20760,7 +20760,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-8.osm",
     "name": "ward-precinct 14-8",
     "Shape_Area": 2695027.93367,
     "Shape_Leng": 6572.890733,
@@ -20958,7 +20958,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-14-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-14-9.osm",
     "name": "ward-precinct 14-9",
     "Shape_Area": 2660587.33232,
     "Shape_Leng": 6636.446607,
@@ -21120,7 +21120,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-1.osm",
     "name": "ward-precinct 15-1",
     "Shape_Area": 6824684.85764,
     "Shape_Leng": 10384.779552,
@@ -21514,7 +21514,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-10.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-10.osm",
     "name": "ward-precinct 15-10",
     "Shape_Area": 6713842.81391,
     "Shape_Leng": 10687.270919,
@@ -21784,7 +21784,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-11.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-11.osm",
     "name": "ward-precinct 15-11",
     "Shape_Area": 7992625.7565,
     "Shape_Leng": 12200.91748,
@@ -22058,7 +22058,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-12.osm",
     "name": "ward-precinct 15-12",
     "Shape_Area": 2613936.92266,
     "Shape_Leng": 6350.021063,
@@ -22372,7 +22372,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-12A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-12A.osm",
     "name": "ward-precinct 15-12A",
     "Shape_Area": 5217699.84935,
     "Shape_Leng": 10427.415573,
@@ -22634,7 +22634,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-13.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-13.osm",
     "name": "ward-precinct 15-13",
     "Shape_Area": 7026295.08503,
     "Shape_Leng": 11036.061082,
@@ -23572,7 +23572,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-13A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-13A.osm",
     "name": "ward-precinct 15-13A",
     "Shape_Area": 16623364.4047,
     "Shape_Leng": 19610.49838,
@@ -24258,7 +24258,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-13B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-13B.osm",
     "name": "ward-precinct 15-13B",
     "Shape_Area": 5595986.20369,
     "Shape_Leng": 10937.555294,
@@ -24624,7 +24624,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-14.osm",
     "name": "ward-precinct 15-14",
     "Shape_Area": 6996796.09513,
     "Shape_Leng": 14571.819815,
@@ -25018,7 +25018,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-14A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-14A.osm",
     "name": "ward-precinct 15-14A",
     "Shape_Area": 2633482.03754,
     "Shape_Leng": 6904.9889,
@@ -25300,7 +25300,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-14B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-14B.osm",
     "name": "ward-precinct 15-14B",
     "Shape_Area": 3032365.89158,
     "Shape_Leng": 7264.495065,
@@ -25638,7 +25638,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-14C.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-14C.osm",
     "name": "ward-precinct 15-14C",
     "Shape_Area": 4111438.45356,
     "Shape_Leng": 11534.77668,
@@ -25904,7 +25904,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-14D.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-14D.osm",
     "name": "ward-precinct 15-14D",
     "Shape_Area": 3701017.07291,
     "Shape_Leng": 8140.720783,
@@ -26370,7 +26370,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-14E.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-14E.osm",
     "name": "ward-precinct 15-14E",
     "Shape_Area": 7471612.04571,
     "Shape_Leng": 14364.252714,
@@ -26760,7 +26760,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-14F.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-14F.osm",
     "name": "ward-precinct 15-14F",
     "Shape_Area": 2525153.99154,
     "Shape_Leng": 6842.58255,
@@ -27098,7 +27098,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-14G.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-14G.osm",
     "name": "ward-precinct 15-14G",
     "Shape_Area": 24751076.5308,
     "Shape_Leng": 21941.895684,
@@ -27500,7 +27500,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-15.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-15.osm",
     "name": "ward-precinct 15-15",
     "Shape_Area": 24216470.4694,
     "Shape_Leng": 21480.830159,
@@ -27966,7 +27966,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-15A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-15A.osm",
     "name": "ward-precinct 15-15A",
     "Shape_Area": 15101399.502,
     "Shape_Leng": 16758.953884,
@@ -28404,7 +28404,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-15B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-15B.osm",
     "name": "ward-precinct 15-15B",
     "Shape_Area": 13111149.8785,
     "Shape_Leng": 15413.583416,
@@ -28810,7 +28810,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-16.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-16.osm",
     "name": "ward-precinct 15-16",
     "Shape_Area": 10921414.4883,
     "Shape_Leng": 13966.476298,
@@ -29176,7 +29176,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-17.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-17.osm",
     "name": "ward-precinct 15-17",
     "Shape_Area": 4135535.05259,
     "Shape_Leng": 8236.251031,
@@ -29534,7 +29534,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-17A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-17A.osm",
     "name": "ward-precinct 15-17A",
     "Shape_Area": 3753161.25333,
     "Shape_Leng": 8253.181238,
@@ -30116,7 +30116,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-17B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-17B.osm",
     "name": "ward-precinct 15-17B",
     "Shape_Area": 4192210.6955,
     "Shape_Leng": 9078.494082,
@@ -30330,7 +30330,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-18.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-18.osm",
     "name": "ward-precinct 15-18",
     "Shape_Area": 4368426.66449,
     "Shape_Leng": 8313.884599,
@@ -30648,7 +30648,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-18A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-18A.osm",
     "name": "ward-precinct 15-18A",
     "Shape_Area": 3694469.8043,
     "Shape_Leng": 8025.238894,
@@ -31110,7 +31110,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-18B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-18B.osm",
     "name": "ward-precinct 15-18B",
     "Shape_Area": 7026158.98942,
     "Shape_Leng": 11540.885864,
@@ -31652,7 +31652,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-18C.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-18C.osm",
     "name": "ward-precinct 15-18C",
     "Shape_Area": 7043066.13666,
     "Shape_Leng": 13968.556999,
@@ -32290,7 +32290,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-18D.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-18D.osm",
     "name": "ward-precinct 15-18D",
     "Shape_Area": 20075890.1329,
     "Shape_Leng": 22563.841073,
@@ -32472,7 +32472,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-18E.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-18E.osm",
     "name": "ward-precinct 15-18E",
     "Shape_Area": 28421461.3515,
     "Shape_Leng": 24363.260965,
@@ -32882,7 +32882,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-18F.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-18F.osm",
     "name": "ward-precinct 15-18F",
     "Shape_Area": 5603593.00306,
     "Shape_Leng": 12333.350444,
@@ -33160,7 +33160,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-19.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-19.osm",
     "name": "ward-precinct 15-19",
     "Shape_Area": 6476207.07953,
     "Shape_Leng": 11949.68583,
@@ -33426,7 +33426,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-19A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-19A.osm",
     "name": "ward-precinct 15-19A",
     "Shape_Area": 239608472.526,
     "Shape_Leng": 74851.263675,
@@ -33664,7 +33664,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-19B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-19B.osm",
     "name": "ward-precinct 15-19B",
     "Shape_Area": 4326450.19814,
     "Shape_Leng": 10204.453863,
@@ -33986,7 +33986,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-19C.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-19C.osm",
     "name": "ward-precinct 15-19C",
     "Shape_Area": 22765765.4264,
     "Shape_Leng": 25950.997394,
@@ -34156,7 +34156,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-3.osm",
     "name": "ward-precinct 15-3",
     "Shape_Area": 4854243.87706,
     "Shape_Leng": 8891.185836,
@@ -34394,7 +34394,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-5.osm",
     "name": "ward-precinct 15-5",
     "Shape_Area": 5861323.08447,
     "Shape_Leng": 10346.18393,
@@ -34828,7 +34828,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-6.osm",
     "name": "ward-precinct 15-6",
     "Shape_Area": 6137660.59095,
     "Shape_Leng": 10405.999407,
@@ -35194,7 +35194,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-8.osm",
     "name": "ward-precinct 15-8",
     "Shape_Area": 7412250.04258,
     "Shape_Leng": 12756.948563,
@@ -35440,7 +35440,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-9.osm",
     "name": "ward-precinct 15-9",
     "Shape_Area": 5336168.12036,
     "Shape_Leng": 11343.157121,
@@ -35658,7 +35658,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-16-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-16-1.osm",
     "name": "ward-precinct 16-1",
     "Shape_Area": 4497956.27336,
     "Shape_Leng": 12578.149635,
@@ -35860,7 +35860,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-16-1A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-16-1A.osm",
     "name": "ward-precinct 16-1A",
     "Shape_Area": 6095233.44645,
     "Shape_Leng": 11620.545205,
@@ -36162,7 +36162,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-16-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-16-2.osm",
     "name": "ward-precinct 16-2",
     "Shape_Area": 2668187.53336,
     "Shape_Leng": 7322.075724,
@@ -36444,7 +36444,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-16-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-16-3.osm",
     "name": "ward-precinct 16-3",
     "Shape_Area": 2496616.76036,
     "Shape_Leng": 6861.872971,
@@ -36694,7 +36694,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-16-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-16-4.osm",
     "name": "ward-precinct 16-4",
     "Shape_Area": 2330989.18365,
     "Shape_Leng": 6537.2613,
@@ -36924,7 +36924,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-16-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-16-5.osm",
     "name": "ward-precinct 16-5",
     "Shape_Area": 2363704.42947,
     "Shape_Leng": 6899.137913,
@@ -37142,7 +37142,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-16-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-16-6.osm",
     "name": "ward-precinct 16-6",
     "Shape_Area": 2437881.04524,
     "Shape_Leng": 6514.182393,
@@ -37344,7 +37344,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-16-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-16-7.osm",
     "name": "ward-precinct 16-7",
     "Shape_Area": 1874537.76978,
     "Shape_Leng": 5601.720216,
@@ -37570,7 +37570,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-16-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-16-8.osm",
     "name": "ward-precinct 16-8",
     "Shape_Area": 2254485.24023,
     "Shape_Leng": 6515.350708,
@@ -37840,7 +37840,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-16-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-16-9.osm",
     "name": "ward-precinct 16-9",
     "Shape_Area": 4802552.41103,
     "Shape_Leng": 9642.008942,
@@ -38026,7 +38026,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-1.osm",
     "name": "ward-precinct 17-1",
     "Shape_Area": 7642502.11426,
     "Shape_Leng": 12130.712157,
@@ -38228,7 +38228,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-11.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-11.osm",
     "name": "ward-precinct 17-11",
     "Shape_Area": 3158515.66196,
     "Shape_Leng": 8141.722326,
@@ -38478,7 +38478,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-12.osm",
     "name": "ward-precinct 17-12",
     "Shape_Area": 3896326.62761,
     "Shape_Leng": 7908.062657,
@@ -38648,7 +38648,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-13.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-13.osm",
     "name": "ward-precinct 17-13",
     "Shape_Area": 2451283.69267,
     "Shape_Leng": 6300.552919,
@@ -38794,7 +38794,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-13A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-13A.osm",
     "name": "ward-precinct 17-13A",
     "Shape_Area": 3040629.56054,
     "Shape_Leng": 6820.761529,
@@ -39164,7 +39164,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-14.osm",
     "name": "ward-precinct 17-14",
     "Shape_Area": 5545406.87844,
     "Shape_Leng": 11404.393763,
@@ -39310,7 +39310,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-15.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-15.osm",
     "name": "ward-precinct 17-15",
     "Shape_Area": 2496326.36227,
     "Shape_Leng": 7361.775737,
@@ -39712,7 +39712,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-16.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-16.osm",
     "name": "ward-precinct 17-16",
     "Shape_Area": 4244693.26132,
     "Shape_Leng": 10395.205577,
@@ -40082,7 +40082,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-17.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-17.osm",
     "name": "ward-precinct 17-17",
     "Shape_Area": 14934718.0646,
     "Shape_Leng": 16499.135725,
@@ -40252,7 +40252,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-18.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-18.osm",
     "name": "ward-precinct 17-18",
     "Shape_Area": 6531088.75103,
     "Shape_Leng": 10434.413644,
@@ -40586,7 +40586,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-18A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-18A.osm",
     "name": "ward-precinct 17-18A",
     "Shape_Area": 6729344.97031,
     "Shape_Leng": 11634.705706,
@@ -40788,7 +40788,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-19.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-19.osm",
     "name": "ward-precinct 17-19",
     "Shape_Area": 5901641.10531,
     "Shape_Leng": 10556.643072,
@@ -41058,7 +41058,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-2.osm",
     "name": "ward-precinct 17-2",
     "Shape_Area": 2190813.33293,
     "Shape_Leng": 7672.095356,
@@ -41528,7 +41528,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-20.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-20.osm",
     "name": "ward-precinct 17-20",
     "Shape_Area": 12960781.0859,
     "Shape_Leng": 16959.21493,
@@ -41794,7 +41794,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-3.osm",
     "name": "ward-precinct 17-3",
     "Shape_Area": 2335203.52026,
     "Shape_Leng": 8087.274521,
@@ -41956,7 +41956,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-4.osm",
     "name": "ward-precinct 17-4",
     "Shape_Area": 1304345.65763,
     "Shape_Leng": 5119.147537,
@@ -42126,7 +42126,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-5.osm",
     "name": "ward-precinct 17-5",
     "Shape_Area": 1956607.1326,
     "Shape_Leng": 5816.24524,
@@ -42308,7 +42308,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-6.osm",
     "name": "ward-precinct 17-6",
     "Shape_Area": 3219744.50624,
     "Shape_Leng": 7247.951001,
@@ -42530,7 +42530,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-7.osm",
     "name": "ward-precinct 17-7",
     "Shape_Area": 6116601.00941,
     "Shape_Leng": 11313.645672,
@@ -42716,7 +42716,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-8.osm",
     "name": "ward-precinct 17-8",
     "Shape_Area": 2072332.88086,
     "Shape_Leng": 5946.055145,
@@ -42886,7 +42886,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-9.osm",
     "name": "ward-precinct 17-9",
     "Shape_Area": 3001786.7422,
     "Shape_Leng": 7668.278904,
@@ -43404,7 +43404,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-2-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-2-1.osm",
     "name": "ward-precinct 2-1",
     "Shape_Area": 10018333.1904,
     "Shape_Leng": 13468.275246,
@@ -43758,7 +43758,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-2-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-2-2.osm",
     "name": "ward-precinct 2-2",
     "Shape_Area": 2268457.73991,
     "Shape_Leng": 6788.954914,
@@ -44180,7 +44180,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-2-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-2-3.osm",
     "name": "ward-precinct 2-3",
     "Shape_Area": 3239275.00424,
     "Shape_Leng": 7577.837829,
@@ -44682,7 +44682,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-2-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-2-4.osm",
     "name": "ward-precinct 2-4",
     "Shape_Area": 8064589.13377,
     "Shape_Leng": 17836.381637,
@@ -44836,7 +44836,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-2-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-2-6.osm",
     "name": "ward-precinct 2-6",
     "Shape_Area": 2324522.11491,
     "Shape_Leng": 6181.92232,
@@ -44986,7 +44986,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-2-6A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-2-6A.osm",
     "name": "ward-precinct 2-6A",
     "Shape_Area": 2630254.1994,
     "Shape_Leng": 6633.0181,
@@ -45300,7 +45300,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-2-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-2-7.osm",
     "name": "ward-precinct 2-7",
     "Shape_Area": 10680989.341,
     "Shape_Leng": 15625.867115,
@@ -45862,7 +45862,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-3-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-3-1.osm",
     "name": "ward-precinct 3-1",
     "Shape_Area": 21380358.6927,
     "Shape_Leng": 20399.101596,
@@ -46176,7 +46176,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-3-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-3-12.osm",
     "name": "ward-precinct 3-12",
     "Shape_Area": 6128452.72767,
     "Shape_Leng": 11199.282385,
@@ -46350,7 +46350,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-3-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-3-14.osm",
     "name": "ward-precinct 3-14",
     "Shape_Area": 1309830.7674,
     "Shape_Leng": 4592.003941,
@@ -46560,7 +46560,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-3-15.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-3-15.osm",
     "name": "ward-precinct 3-15",
     "Shape_Area": 2412405.35667,
     "Shape_Leng": 6613.040711,
@@ -46934,7 +46934,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-3-18.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-3-18.osm",
     "name": "ward-precinct 3-18",
     "Shape_Area": 4329222.85531,
     "Shape_Leng": 10829.113931,
@@ -47188,7 +47188,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-3-19.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-3-19.osm",
     "name": "ward-precinct 3-19",
     "Shape_Area": 3506187.50893,
     "Shape_Leng": 9382.606609,
@@ -47430,7 +47430,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-3-20.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-3-20.osm",
     "name": "ward-precinct 3-20",
     "Shape_Area": 3933727.22423,
     "Shape_Leng": 9433.277264,
@@ -47744,7 +47744,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-3-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-3-3.osm",
     "name": "ward-precinct 3-3",
     "Shape_Area": 6509802.15946,
     "Shape_Leng": 11174.467324,
@@ -47922,7 +47922,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-3-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-3-5.osm",
     "name": "ward-precinct 3-5",
     "Shape_Area": 3129757.88528,
     "Shape_Leng": 7178.567433,
@@ -48172,7 +48172,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-3-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-3-8.osm",
     "name": "ward-precinct 3-8",
     "Shape_Area": 8455678.20507,
     "Shape_Leng": 13119.879642,
@@ -48382,7 +48382,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-3-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-3-9.osm",
     "name": "ward-precinct 3-9",
     "Shape_Area": 2983832.21013,
     "Shape_Leng": 6956.456926,
@@ -48752,7 +48752,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-2.osm",
     "name": "ward-precinct 4-2",
     "Shape_Area": 11821924.8684,
     "Shape_Leng": 19234.663434,
@@ -49042,7 +49042,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-11.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-11.osm",
     "name": "ward-precinct 4-11",
     "Shape_Area": 9206187.06778,
     "Shape_Leng": 13397.728123,
@@ -49192,7 +49192,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-14.osm",
     "name": "ward-precinct 4-14",
     "Shape_Area": 8688499.25009,
     "Shape_Leng": 11894.915284,
@@ -49618,7 +49618,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-15.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-15.osm",
     "name": "ward-precinct 4-15",
     "Shape_Area": 8214244.381,
     "Shape_Leng": 11766.883168,
@@ -50108,7 +50108,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-17.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-17.osm",
     "name": "ward-precinct 4-17",
     "Shape_Area": 7115262.13686,
     "Shape_Leng": 12853.153464,
@@ -50382,7 +50382,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-18.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-18.osm",
     "name": "ward-precinct 4-18",
     "Shape_Area": 6744613.43286,
     "Shape_Leng": 10393.853848,
@@ -50688,7 +50688,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-20.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-20.osm",
     "name": "ward-precinct 4-20",
     "Shape_Area": 4978968.03821,
     "Shape_Leng": 9179.801795,
@@ -50990,7 +50990,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-21.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-21.osm",
     "name": "ward-precinct 4-21",
     "Shape_Area": 5429661.87004,
     "Shape_Leng": 9398.877033,
@@ -51312,7 +51312,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-22.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-22.osm",
     "name": "ward-precinct 4-22",
     "Shape_Area": 7253218.92807,
     "Shape_Leng": 12266.130421,
@@ -51678,7 +51678,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-23.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-23.osm",
     "name": "ward-precinct 4-23",
     "Shape_Area": 7945269.46767,
     "Shape_Leng": 12168.159007,
@@ -52016,7 +52016,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-3.osm",
     "name": "ward-precinct 4-3",
     "Shape_Area": 3718935.45095,
     "Shape_Leng": 7993.344361,
@@ -52342,7 +52342,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-4.osm",
     "name": "ward-precinct 4-4",
     "Shape_Area": 3333311.38812,
     "Shape_Leng": 7492.758915,
@@ -52544,7 +52544,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-5.osm",
     "name": "ward-precinct 4-5",
     "Shape_Area": 2170032.54549,
     "Shape_Leng": 5931.365236,
@@ -52702,7 +52702,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-6.osm",
     "name": "ward-precinct 4-6",
     "Shape_Area": 2607820.16584,
     "Shape_Leng": 6597.784639,
@@ -52984,7 +52984,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-7.osm",
     "name": "ward-precinct 4-7",
     "Shape_Area": 3860092.60306,
     "Shape_Leng": 8195.470629,
@@ -53234,7 +53234,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-8.osm",
     "name": "ward-precinct 4-8",
     "Shape_Area": 3672099.31846,
     "Shape_Leng": 8145.085064,
@@ -53660,7 +53660,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-9.osm",
     "name": "ward-precinct 4-9",
     "Shape_Area": 10394120.5811,
     "Shape_Leng": 13718.837589,
@@ -53850,7 +53850,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-1.osm",
     "name": "ward-precinct 5-1",
     "Shape_Area": 4322471.71423,
     "Shape_Leng": 8830.716648,
@@ -54068,7 +54068,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-10.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-10.osm",
     "name": "ward-precinct 5-10",
     "Shape_Area": 1319302.22351,
     "Shape_Leng": 5507.219753,
@@ -54306,7 +54306,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-11.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-11.osm",
     "name": "ward-precinct 5-11",
     "Shape_Area": 1709759.95278,
     "Shape_Leng": 5835.256831,
@@ -54536,7 +54536,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-12.osm",
     "name": "ward-precinct 5-12",
     "Shape_Area": 3322631.62271,
     "Shape_Leng": 7793.865919,
@@ -54746,7 +54746,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-13.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-13.osm",
     "name": "ward-precinct 5-13",
     "Shape_Area": 2148445.27743,
     "Shape_Leng": 6009.755565,
@@ -55032,7 +55032,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-15.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-15.osm",
     "name": "ward-precinct 5-15",
     "Shape_Area": 3888402.08707,
     "Shape_Leng": 9630.713961,
@@ -56142,7 +56142,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-16.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-16.osm",
     "name": "ward-precinct 5-16",
     "Shape_Area": 62656809.527,
     "Shape_Leng": 40551.446818,
@@ -56784,7 +56784,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-17.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-17.osm",
     "name": "ward-precinct 5-17",
     "Shape_Area": 8534589.01918,
     "Shape_Leng": 13532.95142,
@@ -57390,7 +57390,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-18.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-18.osm",
     "name": "ward-precinct 5-18",
     "Shape_Area": 7874442.17315,
     "Shape_Leng": 14564.102875,
@@ -57672,7 +57672,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-20.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-20.osm",
     "name": "ward-precinct 7-20",
     "Shape_Area": 4525417.70783,
     "Shape_Leng": 8704.231568,
@@ -57986,7 +57986,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-21.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-21.osm",
     "name": "ward-precinct 7-21",
     "Shape_Area": 3605168.59188,
     "Shape_Leng": 9169.434398,
@@ -58372,7 +58372,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-23.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-23.osm",
     "name": "ward-precinct 7-23",
     "Shape_Area": 8572525.34355,
     "Shape_Leng": 14220.280758,
@@ -58654,7 +58654,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-24.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-24.osm",
     "name": "ward-precinct 7-24",
     "Shape_Area": 6552788.48166,
     "Shape_Leng": 10673.239388,
@@ -58804,7 +58804,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-25.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-25.osm",
     "name": "ward-precinct 7-25",
     "Shape_Area": 3939607.05149,
     "Shape_Leng": 8723.349639,
@@ -58994,7 +58994,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-25A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-25A.osm",
     "name": "ward-precinct 7-25A",
     "Shape_Area": 3392117.45547,
     "Shape_Leng": 7518.819628,
@@ -59320,7 +59320,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-26.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-26.osm",
     "name": "ward-precinct 7-26",
     "Shape_Area": 5159872.81689,
     "Shape_Leng": 11794.994504,
@@ -59494,7 +59494,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-27.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-27.osm",
     "name": "ward-precinct 7-27",
     "Shape_Area": 2142580.2358,
     "Shape_Leng": 6174.497187,
@@ -59692,7 +59692,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-27B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-27B.osm",
     "name": "ward-precinct 7-27B",
     "Shape_Area": 2392739.14785,
     "Shape_Leng": 6588.996224,
@@ -60242,7 +60242,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-28.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-28.osm",
     "name": "ward-precinct 7-28",
     "Shape_Area": 2914749.70383,
     "Shape_Leng": 10386.202868,
@@ -60460,7 +60460,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-28A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-28A.osm",
     "name": "ward-precinct 7-28A",
     "Shape_Area": 2589329.93657,
     "Shape_Leng": 6811.271845,
@@ -60626,7 +60626,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-29.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-29.osm",
     "name": "ward-precinct 7-29",
     "Shape_Area": 5633837.57302,
     "Shape_Leng": 11153.800099,
@@ -61112,7 +61112,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-30.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-30.osm",
     "name": "ward-precinct 7-30",
     "Shape_Area": 9006205.18345,
     "Shape_Leng": 13270.949788,
@@ -61410,7 +61410,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-32.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-32.osm",
     "name": "ward-precinct 7-32",
     "Shape_Area": 5063904.43596,
     "Shape_Leng": 10150.811244,
@@ -61576,7 +61576,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-33.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-33.osm",
     "name": "ward-precinct 7-33",
     "Shape_Area": 3350358.09727,
     "Shape_Leng": 7415.339848,
@@ -61678,7 +61678,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-34.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-34.osm",
     "name": "ward-precinct 7-34",
     "Shape_Area": 2414030.66761,
     "Shape_Leng": 6212.600458,
@@ -61916,7 +61916,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-35.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-35.osm",
     "name": "ward-precinct 7-35",
     "Shape_Area": 7068095.90378,
     "Shape_Leng": 12321.305488,
@@ -62150,7 +62150,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-37.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-37.osm",
     "name": "ward-precinct 7-37",
     "Shape_Area": 5836936.81615,
     "Shape_Leng": 9904.822654,
@@ -62920,7 +62920,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-37A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-37A.osm",
     "name": "ward-precinct 7-37A",
     "Shape_Area": 14415817.6309,
     "Shape_Leng": 16666.934581,
@@ -63102,7 +63102,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-4.osm",
     "name": "ward-precinct 7-4",
     "Shape_Area": 1682671.29105,
     "Shape_Leng": 5235.929607,
@@ -63388,7 +63388,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-40.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-40.osm",
     "name": "ward-precinct 7-40",
     "Shape_Area": 10501231.5816,
     "Shape_Leng": 12826.479075,
@@ -64058,7 +64058,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-41.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-41.osm",
     "name": "ward-precinct 7-41",
     "Shape_Area": 6109103.05536,
     "Shape_Leng": 13042.751061,
@@ -64464,7 +64464,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-42.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-42.osm",
     "name": "ward-precinct 7-42",
     "Shape_Area": 5247631.5785,
     "Shape_Leng": 10275.236305,
@@ -64814,7 +64814,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-5.osm",
     "name": "ward-precinct 7-5",
     "Shape_Area": 4441046.16011,
     "Shape_Leng": 9781.26552,
@@ -65100,7 +65100,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-6.osm",
     "name": "ward-precinct 7-6",
     "Shape_Area": 2769741.29636,
     "Shape_Leng": 6924.811604,
@@ -65378,7 +65378,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-7.osm",
     "name": "ward-precinct 7-7",
     "Shape_Area": 2493035.16698,
     "Shape_Leng": 6705.559903,
@@ -65716,7 +65716,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-8.osm",
     "name": "ward-precinct 7-8",
     "Shape_Area": 4654107.95831,
     "Shape_Leng": 9922.953021,
@@ -65930,7 +65930,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-9A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-9A.osm",
     "name": "ward-precinct 7-9A",
     "Shape_Area": 1897551.50367,
     "Shape_Leng": 5772.496687,
@@ -66160,7 +66160,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-1.osm",
     "name": "ward-precinct 8-1",
     "Shape_Area": 3640407.26383,
     "Shape_Leng": 8610.632342,
@@ -66742,7 +66742,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-12.osm",
     "name": "ward-precinct 8-12",
     "Shape_Area": 9022100.78243,
     "Shape_Leng": 14932.505256,
@@ -67036,7 +67036,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-13.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-13.osm",
     "name": "ward-precinct 8-13",
     "Shape_Area": 4931718.51455,
     "Shape_Leng": 9959.296792,
@@ -67554,7 +67554,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-14.osm",
     "name": "ward-precinct 8-14",
     "Shape_Area": 8320872.81312,
     "Shape_Leng": 14410.585843,
@@ -67872,7 +67872,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-15.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-15.osm",
     "name": "ward-precinct 8-15",
     "Shape_Area": 6165674.84453,
     "Shape_Leng": 12614.681024,
@@ -68374,7 +68374,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-19.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-19.osm",
     "name": "ward-precinct 8-19",
     "Shape_Area": 4665405.78248,
     "Shape_Leng": 11912.156913,
@@ -68596,7 +68596,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-2.osm",
     "name": "ward-precinct 8-2",
     "Shape_Area": 2176272.9682,
     "Shape_Leng": 6175.316546,
@@ -69018,7 +69018,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-20.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-20.osm",
     "name": "ward-precinct 8-20",
     "Shape_Area": 2809941.28471,
     "Shape_Leng": 8110.641275,
@@ -69516,7 +69516,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-21.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-21.osm",
     "name": "ward-precinct 8-21",
     "Shape_Area": 4329906.33657,
     "Shape_Leng": 12026.490965,
@@ -69730,7 +69730,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-22.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-22.osm",
     "name": "ward-precinct 8-22",
     "Shape_Area": 2730814.44414,
     "Shape_Leng": 6675.391621,
@@ -69940,7 +69940,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-23.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-23.osm",
     "name": "ward-precinct 8-23",
     "Shape_Area": 2912144.68909,
     "Shape_Leng": 6878.910534,
@@ -70178,7 +70178,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-24.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-24.osm",
     "name": "ward-precinct 8-24",
     "Shape_Area": 2652899.92912,
     "Shape_Leng": 6606.882123,
@@ -70660,7 +70660,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-25.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-25.osm",
     "name": "ward-precinct 8-25",
     "Shape_Area": 4329563.01649,
     "Shape_Leng": 10516.342138,
@@ -71090,7 +71090,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-26.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-26.osm",
     "name": "ward-precinct 8-26",
     "Shape_Area": 6360356.82409,
     "Shape_Leng": 11806.260194,
@@ -71432,7 +71432,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-27.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-27.osm",
     "name": "ward-precinct 8-27",
     "Shape_Area": 4961843.99247,
     "Shape_Leng": 10937.263077,
@@ -71890,7 +71890,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-28.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-28.osm",
     "name": "ward-precinct 8-28",
     "Shape_Area": 5588874.01407,
     "Shape_Leng": 10779.927672,
@@ -73200,7 +73200,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-30.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-30.osm",
     "name": "ward-precinct 8-30",
     "Shape_Area": 22579306.6809,
     "Shape_Leng": 28573.840041,
@@ -73370,7 +73370,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-4.osm",
     "name": "ward-precinct 8-4",
     "Shape_Area": 1551626.62115,
     "Shape_Leng": 5858.734031,
@@ -73604,7 +73604,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-6.osm",
     "name": "ward-precinct 8-6",
     "Shape_Area": 2794743.88834,
     "Shape_Leng": 7316.143626,
@@ -73890,7 +73890,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-7.osm",
     "name": "ward-precinct 8-7",
     "Shape_Area": 2092681.47692,
     "Shape_Leng": 7196.206328,
@@ -74220,7 +74220,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-8.osm",
     "name": "ward-precinct 8-8",
     "Shape_Area": 2273823.45379,
     "Shape_Leng": 7661.325439,
@@ -74594,7 +74594,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-8-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-8-9.osm",
     "name": "ward-precinct 8-9",
     "Shape_Area": 5298260.25469,
     "Shape_Leng": 9572.395666,
@@ -74872,7 +74872,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-1.osm",
     "name": "ward-precinct 9-1",
     "Shape_Area": 17236683.8452,
     "Shape_Leng": 18734.241215,
@@ -75278,7 +75278,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-10.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-10.osm",
     "name": "ward-precinct 9-10",
     "Shape_Area": 16122067.3043,
     "Shape_Leng": 20326.835517,
@@ -75424,7 +75424,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-2.osm",
     "name": "ward-precinct 5-2",
     "Shape_Area": 1355046.79267,
     "Shape_Leng": 4789.80808,
@@ -75578,7 +75578,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-3.osm",
     "name": "ward-precinct 5-3",
     "Shape_Area": 1394291.18873,
     "Shape_Leng": 4842.516905,
@@ -75864,7 +75864,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-4.osm",
     "name": "ward-precinct 5-4",
     "Shape_Area": 3833763.09452,
     "Shape_Leng": 7837.400771,
@@ -76170,7 +76170,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-5.osm",
     "name": "ward-precinct 5-5",
     "Shape_Area": 3412004.27706,
     "Shape_Leng": 7390.156239,
@@ -76464,7 +76464,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-7.osm",
     "name": "ward-precinct 5-7",
     "Shape_Area": 2909350.19135,
     "Shape_Leng": 6873.519195,
@@ -76794,7 +76794,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-8.osm",
     "name": "ward-precinct 5-8",
     "Shape_Area": 2906968.60783,
     "Shape_Leng": 6993.061015,
@@ -77032,7 +77032,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-5-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-5-9.osm",
     "name": "ward-precinct 5-9",
     "Shape_Area": 1410950.86979,
     "Shape_Leng": 5521.038509,
@@ -77214,7 +77214,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-6-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-6-1.osm",
     "name": "ward-precinct 6-1",
     "Shape_Area": 3238782.16061,
     "Shape_Leng": 7475.945849,
@@ -77440,7 +77440,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-6-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-6-2.osm",
     "name": "ward-precinct 6-2",
     "Shape_Area": 2064378.85512,
     "Shape_Leng": 5765.17073,
@@ -77646,7 +77646,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-6-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-6-4.osm",
     "name": "ward-precinct 6-4",
     "Shape_Area": 1691545.89268,
     "Shape_Leng": 5258.908503,
@@ -77956,7 +77956,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-6-6.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-6-6.osm",
     "name": "ward-precinct 6-6",
     "Shape_Area": 3887218.36742,
     "Shape_Leng": 8443.565752,
@@ -78138,7 +78138,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-6-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-6-7.osm",
     "name": "ward-precinct 6-7",
     "Shape_Area": 1899634.65563,
     "Shape_Leng": 5514.275375,
@@ -78356,7 +78356,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-6-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-6-8.osm",
     "name": "ward-precinct 6-8",
     "Shape_Area": 1991230.05152,
     "Shape_Leng": 5727.891167,
@@ -78662,7 +78662,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-6-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-6-9.osm",
     "name": "ward-precinct 6-9",
     "Shape_Area": 3163023.21657,
     "Shape_Leng": 8659.244385,
@@ -78920,7 +78920,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-1.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-1.osm",
     "name": "ward-precinct 7-1",
     "Shape_Area": 2621272.79837,
     "Shape_Leng": 7097.924799,
@@ -79134,7 +79134,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-10.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-10.osm",
     "name": "ward-precinct 7-10",
     "Shape_Area": 2210443.78214,
     "Shape_Leng": 6238.803525,
@@ -79352,7 +79352,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-11.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-11.osm",
     "name": "ward-precinct 7-11",
     "Shape_Area": 2241570.69099,
     "Shape_Leng": 6475.227169,
@@ -79722,7 +79722,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-12.osm",
     "name": "ward-precinct 7-12",
     "Shape_Area": 3034289.31874,
     "Shape_Leng": 10193.081866,
@@ -79956,7 +79956,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-13.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-13.osm",
     "name": "ward-precinct 7-13",
     "Shape_Area": 1705665.9119,
     "Shape_Leng": 5297.144348,
@@ -80182,7 +80182,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-14.osm",
     "name": "ward-precinct 7-14",
     "Shape_Area": 2088500.73272,
     "Shape_Leng": 6428.834294,
@@ -80548,7 +80548,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-15.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-15.osm",
     "name": "ward-precinct 7-15",
     "Shape_Area": 2387495.36652,
     "Shape_Leng": 7083.804579,
@@ -80766,7 +80766,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-16.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-16.osm",
     "name": "ward-precinct 7-16",
     "Shape_Area": 2016208.06387,
     "Shape_Leng": 5999.846768,
@@ -81016,7 +81016,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-17.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-17.osm",
     "name": "ward-precinct 7-17",
     "Shape_Area": 6272971.68114,
     "Shape_Leng": 9858.699421,
@@ -81362,7 +81362,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-18.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-18.osm",
     "name": "ward-precinct 7-18",
     "Shape_Area": 5387240.49762,
     "Shape_Leng": 12833.375131,
@@ -81772,7 +81772,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-19.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-19.osm",
     "name": "ward-precinct 7-19",
     "Shape_Area": 9124021.6145,
     "Shape_Leng": 13226.604931,
@@ -82082,7 +82082,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-7-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-7-2.osm",
     "name": "ward-precinct 7-2",
     "Shape_Area": 2116875.02258,
     "Shape_Leng": 6054.434862,
@@ -82216,7 +82216,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-11.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-11.osm",
     "name": "ward-precinct 9-11",
     "Shape_Area": 3563222.70269,
     "Shape_Leng": 7868.007449,
@@ -82354,7 +82354,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-12.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-12.osm",
     "name": "ward-precinct 9-12",
     "Shape_Area": 4502573.81,
     "Shape_Leng": 8631.780309,
@@ -82584,7 +82584,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-13.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-13.osm",
     "name": "ward-precinct 9-13",
     "Shape_Area": 5496973.11802,
     "Shape_Leng": 9722.381051,
@@ -82838,7 +82838,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-14.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-14.osm",
     "name": "ward-precinct 9-14",
     "Shape_Area": 2282725.81142,
     "Shape_Leng": 6298.27198,
@@ -83056,7 +83056,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-15.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-15.osm",
     "name": "ward-precinct 9-15",
     "Shape_Area": 2074936.81109,
     "Shape_Leng": 5883.141167,
@@ -83274,7 +83274,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-16.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-16.osm",
     "name": "ward-precinct 9-16",
     "Shape_Area": 2396435.01339,
     "Shape_Leng": 6432.255467,
@@ -83432,7 +83432,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-17.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-17.osm",
     "name": "ward-precinct 9-17",
     "Shape_Area": 2435763.91365,
     "Shape_Leng": 6400.049478,
@@ -83750,7 +83750,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-19.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-19.osm",
     "name": "ward-precinct 9-19",
     "Shape_Area": 4923463.7171,
     "Shape_Leng": 10652.389466,
@@ -84060,7 +84060,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-21.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-21.osm",
     "name": "ward-precinct 9-21",
     "Shape_Area": 4319135.02567,
     "Shape_Leng": 11015.821839,
@@ -84322,7 +84322,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-23.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-23.osm",
     "name": "ward-precinct 9-23",
     "Shape_Area": 2743289.87441,
     "Shape_Leng": 7026.608988,
@@ -84672,7 +84672,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-25.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-25.osm",
     "name": "ward-precinct 9-25",
     "Shape_Area": 7062538.78729,
     "Shape_Leng": 12437.004451,
@@ -84954,7 +84954,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-26.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-26.osm",
     "name": "ward-precinct 9-26",
     "Shape_Area": 3799077.9606,
     "Shape_Leng": 9030.363294,
@@ -85560,7 +85560,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-28.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-28.osm",
     "name": "ward-precinct 9-28",
     "Shape_Area": 37525527.6931,
     "Shape_Leng": 34407.940504,
@@ -85818,7 +85818,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-28C.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-28C.osm",
     "name": "ward-precinct 9-28C",
     "Shape_Area": 3461710.90924,
     "Shape_Leng": 7865.54245,
@@ -86232,7 +86232,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-28E.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-28E.osm",
     "name": "ward-precinct 9-28E",
     "Shape_Area": 8746598.26446,
     "Shape_Leng": 16658.196337,
@@ -86590,7 +86590,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-29.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-29.osm",
     "name": "ward-precinct 9-29",
     "Shape_Area": 7699270.06202,
     "Shape_Leng": 16940.66075,
@@ -86752,7 +86752,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-3.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-3.osm",
     "name": "ward-precinct 9-3",
     "Shape_Area": 6594201.55165,
     "Shape_Leng": 11084.252231,
@@ -87158,7 +87158,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-30.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-30.osm",
     "name": "ward-precinct 9-30",
     "Shape_Area": 6194567.50449,
     "Shape_Leng": 10019.849418,
@@ -87492,7 +87492,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-30A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-30A.osm",
     "name": "ward-precinct 9-30A",
     "Shape_Area": 4290308.72935,
     "Shape_Leng": 8501.157885,
@@ -87806,7 +87806,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-31.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-31.osm",
     "name": "ward-precinct 9-31",
     "Shape_Area": 7076332.47816,
     "Shape_Leng": 12824.221848,
@@ -88344,7 +88344,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-31A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-31A.osm",
     "name": "ward-precinct 9-31A",
     "Shape_Area": 5864637.84212,
     "Shape_Leng": 10791.380655,
@@ -88814,7 +88814,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-31B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-31B.osm",
     "name": "ward-precinct 9-31B",
     "Shape_Area": 3532024.84235,
     "Shape_Leng": 8372.589491,
@@ -89740,7 +89740,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-31D.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-31D.osm",
     "name": "ward-precinct 9-31D",
     "Shape_Area": 21515459.8349,
     "Shape_Leng": 21685.532739,
@@ -91354,7 +91354,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-32.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-32.osm",
     "name": "ward-precinct 9-32",
     "Shape_Area": 325217208.541,
     "Shape_Leng": 88612.995148,
@@ -91628,7 +91628,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-33.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-33.osm",
     "name": "ward-precinct 9-33",
     "Shape_Area": 15676254.1177,
     "Shape_Leng": 16437.969367,
@@ -92338,7 +92338,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-34A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-34A.osm",
     "name": "ward-precinct 9-34A",
     "Shape_Area": 7126647.62533,
     "Shape_Leng": 16991.581718,
@@ -92964,7 +92964,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-35.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-35.osm",
     "name": "ward-precinct 9-35",
     "Shape_Area": 6774155.82728,
     "Shape_Leng": 13398.970255,
@@ -93438,7 +93438,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-35A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-35A.osm",
     "name": "ward-precinct 9-35A",
     "Shape_Area": 3887019.60243,
     "Shape_Leng": 10404.850302,
@@ -93660,7 +93660,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-36.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-36.osm",
     "name": "ward-precinct 9-36",
     "Shape_Area": 6916740.81623,
     "Shape_Leng": 11155.383592,
@@ -94042,7 +94042,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-36B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-36B.osm",
     "name": "ward-precinct 9-36B",
     "Shape_Area": 8859698.07761,
     "Shape_Leng": 12794.490381,
@@ -94216,7 +94216,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-37.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-37.osm",
     "name": "ward-precinct 9-37",
     "Shape_Area": 6078818.50802,
     "Shape_Leng": 10595.001339,
@@ -94538,7 +94538,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-38.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-38.osm",
     "name": "ward-precinct 9-38",
     "Shape_Area": 2992674.01229,
     "Shape_Leng": 9158.041892,
@@ -94704,7 +94704,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-38A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-38A.osm",
     "name": "ward-precinct 9-38A",
     "Shape_Area": 4190475.73898,
     "Shape_Leng": 9143.206742,
@@ -95006,7 +95006,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-39.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-39.osm",
     "name": "ward-precinct 9-39",
     "Shape_Area": 7744383.25599,
     "Shape_Leng": 11784.471303,
@@ -95184,7 +95184,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-39B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-39B.osm",
     "name": "ward-precinct 9-39B",
     "Shape_Area": 2775150.33392,
     "Shape_Leng": 7861.432289,
@@ -95322,7 +95322,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-3A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-3A.osm",
     "name": "ward-precinct 9-3A",
     "Shape_Area": 4021417.21269,
     "Shape_Leng": 8106.371621,
@@ -95560,7 +95560,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-4.osm",
     "name": "ward-precinct 9-4",
     "Shape_Area": 3110593.44368,
     "Shape_Leng": 7096.250002,
@@ -95746,7 +95746,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-40.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-40.osm",
     "name": "ward-precinct 9-40",
     "Shape_Area": 3346067.52731,
     "Shape_Leng": 8176.170977,
@@ -96188,7 +96188,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-40A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-40A.osm",
     "name": "ward-precinct 9-40A",
     "Shape_Area": 6682724.55075,
     "Shape_Leng": 14410.066098,
@@ -96722,7 +96722,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-40C.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-40C.osm",
     "name": "ward-precinct 9-40C",
     "Shape_Area": 9175383.96848,
     "Shape_Leng": 16979.873603,
@@ -97244,7 +97244,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-41.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-41.osm",
     "name": "ward-precinct 9-41",
     "Shape_Area": 48551327.021,
     "Shape_Leng": 46767.791088,
@@ -97422,7 +97422,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-41A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-41A.osm",
     "name": "ward-precinct 9-41A",
     "Shape_Area": 4067724.74168,
     "Shape_Leng": 8812.357514,
@@ -97972,7 +97972,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-41B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-41B.osm",
     "name": "ward-precinct 9-41B",
     "Shape_Area": 113251707.629,
     "Shape_Leng": 44326.462949,
@@ -99070,7 +99070,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-41C.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-41C.osm",
     "name": "ward-precinct 9-41C",
     "Shape_Area": 52847380.9402,
     "Shape_Leng": 46741.33202,
@@ -99260,7 +99260,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-41D.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-41D.osm",
     "name": "ward-precinct 9-41D",
     "Shape_Area": 4089979.57014,
     "Shape_Leng": 8762.006796,
@@ -100098,7 +100098,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-42.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-42.osm",
     "name": "ward-precinct 9-42",
     "Shape_Area": 23400475.1575,
     "Shape_Leng": 21420.865999,
@@ -101912,7 +101912,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-42C.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-42C.osm",
     "name": "ward-precinct 9-42C",
     "Shape_Area": 28497859.5179,
     "Shape_Leng": 38331.392835,
@@ -102182,7 +102182,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43A.osm",
     "name": "ward-precinct 9-43A",
     "Shape_Area": 10146913.317,
     "Shape_Leng": 14437.4504,
@@ -102440,7 +102440,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43B.osm",
     "name": "ward-precinct 9-43B",
     "Shape_Area": 6457409.55425,
     "Shape_Leng": 10323.203515,
@@ -102850,7 +102850,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43C.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43C.osm",
     "name": "ward-precinct 9-43C",
     "Shape_Area": 12639978.517,
     "Shape_Leng": 18075.209245,
@@ -102960,7 +102960,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43E.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43E.osm",
     "name": "ward-precinct 9-43E",
     "Shape_Area": 3360307.60796,
     "Shape_Leng": 7517.176441,
@@ -103186,7 +103186,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43F.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43F.osm",
     "name": "ward-precinct 9-43F",
     "Shape_Area": 4182755.09856,
     "Shape_Leng": 8661.298999,
@@ -103548,7 +103548,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43G.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43G.osm",
     "name": "ward-precinct 9-43G",
     "Shape_Area": 4130425.49926,
     "Shape_Leng": 9119.864067,
@@ -103758,7 +103758,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43H.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43H.osm",
     "name": "ward-precinct 9-43H",
     "Shape_Area": 5554887.07491,
     "Shape_Leng": 11996.092193,
@@ -104212,7 +104212,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43I.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43I.osm",
     "name": "ward-precinct 9-43I",
     "Shape_Area": 3775374.73074,
     "Shape_Leng": 9547.31187,
@@ -104594,7 +104594,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43J.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43J.osm",
     "name": "ward-precinct 9-43J",
     "Shape_Area": 3375944.00111,
     "Shape_Leng": 8189.298409,
@@ -104912,7 +104912,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43K.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43K.osm",
     "name": "ward-precinct 9-43K",
     "Shape_Area": 4532776.29036,
     "Shape_Leng": 8961.825652,
@@ -105006,7 +105006,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43L.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43L.osm",
     "name": "ward-precinct 9-43L",
     "Shape_Area": 3377054.3958,
     "Shape_Leng": 8015.657641,
@@ -105104,7 +105104,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43M.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43M.osm",
     "name": "ward-precinct 9-43M",
     "Shape_Area": 6638914.78792,
     "Shape_Leng": 10447.497483,
@@ -105506,7 +105506,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-43N.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-43N.osm",
     "name": "ward-precinct 9-43N",
     "Shape_Area": 6246485.5756,
     "Shape_Leng": 12196.92786,
@@ -105640,7 +105640,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44.osm",
     "name": "ward-precinct 9-44",
     "Shape_Area": 8041091.084,
     "Shape_Leng": 11306.950683,
@@ -105790,7 +105790,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44A.osm",
     "name": "ward-precinct 9-44A",
     "Shape_Area": 3104181.18266,
     "Shape_Leng": 11642.614396,
@@ -105984,7 +105984,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44B.osm",
     "name": "ward-precinct 9-44B",
     "Shape_Area": 5511928.87075,
     "Shape_Leng": 9981.259027,
@@ -106162,7 +106162,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44D.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44D.osm",
     "name": "ward-precinct 9-44D",
     "Shape_Area": 5204215.44269,
     "Shape_Leng": 9314.590514,
@@ -106396,7 +106396,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44E.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44E.osm",
     "name": "ward-precinct 9-44E",
     "Shape_Area": 11269036.9228,
     "Shape_Leng": 13732.498353,
@@ -106702,7 +106702,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44F.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44F.osm",
     "name": "ward-precinct 9-44F",
     "Shape_Area": 7294415.60466,
     "Shape_Leng": 11582.644585,
@@ -107268,7 +107268,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44G.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44G.osm",
     "name": "ward-precinct 9-44G",
     "Shape_Area": 6454369.33226,
     "Shape_Leng": 12013.035723,
@@ -107586,7 +107586,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44I.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44I.osm",
     "name": "ward-precinct 9-44I",
     "Shape_Area": 13197957.114,
     "Shape_Leng": 15256.97931,
@@ -108068,7 +108068,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44J.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44J.osm",
     "name": "ward-precinct 9-44J",
     "Shape_Area": 6205023.67619,
     "Shape_Leng": 10497.223258,
@@ -108166,7 +108166,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44L.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44L.osm",
     "name": "ward-precinct 9-44L",
     "Shape_Area": 6974944.89835,
     "Shape_Leng": 10681.321444,
@@ -108580,7 +108580,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44M.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44M.osm",
     "name": "ward-precinct 9-44M",
     "Shape_Area": 31684416.2019,
     "Shape_Leng": 26708.615421,
@@ -108770,7 +108770,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44N.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44N.osm",
     "name": "ward-precinct 9-44N",
     "Shape_Area": 13124529.0463,
     "Shape_Leng": 15758.47028,
@@ -109304,7 +109304,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44O.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44O.osm",
     "name": "ward-precinct 9-44O",
     "Shape_Area": 5149434.80407,
     "Shape_Leng": 9744.709447,
@@ -109826,7 +109826,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44P.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44P.osm",
     "name": "ward-precinct 9-44P",
     "Shape_Area": 50861161.0366,
     "Shape_Leng": 35983.227498,
@@ -109924,7 +109924,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-44Q.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-44Q.osm",
     "name": "ward-precinct 9-44Q",
     "Shape_Area": 6262447.22088,
     "Shape_Leng": 10018.142598,
@@ -121362,7 +121362,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-45.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-45.osm",
     "name": "ward-precinct 9-45",
     "Shape_Area": 1671241705.9,
     "Shape_Leng": 304326.381286,
@@ -132524,7 +132524,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-45A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-45A.osm",
     "name": "ward-precinct 9-45A",
     "Shape_Area": 1285179898.63,
     "Shape_Leng": 212924.633987,
@@ -132686,7 +132686,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-5.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-5.osm",
     "name": "ward-precinct 9-5",
     "Shape_Area": 2982575.49987,
     "Shape_Leng": 6927.466102,
@@ -132848,7 +132848,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-5A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-5A.osm",
     "name": "ward-precinct 9-5A",
     "Shape_Area": 3315295.65418,
     "Shape_Leng": 7284.508342,
@@ -133114,7 +133114,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-6B.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-6B.osm",
     "name": "ward-precinct 9-6B",
     "Shape_Area": 4860773.07731,
     "Shape_Leng": 9030.132497,
@@ -133328,7 +133328,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-6C.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-6C.osm",
     "name": "ward-precinct 9-6C",
     "Shape_Area": 3140792.33123,
     "Shape_Leng": 7154.888924,
@@ -133490,7 +133490,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-6D.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-6D.osm",
     "name": "ward-precinct 9-6D",
     "Shape_Area": 2926564.64983,
     "Shape_Leng": 6850.243805,
@@ -133700,7 +133700,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-6E.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-6E.osm",
     "name": "ward-precinct 9-6E",
     "Shape_Area": 2559510.26187,
     "Shape_Leng": 6714.449808,
@@ -133870,7 +133870,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-6F.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-6F.osm",
     "name": "ward-precinct 9-6F",
     "Shape_Area": 2951245.47851,
     "Shape_Leng": 6872.966283,
@@ -134040,7 +134040,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-7.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-7.osm",
     "name": "ward-precinct 9-7",
     "Shape_Area": 6389876.01972,
     "Shape_Leng": 12239.630466,
@@ -134206,7 +134206,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-8.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-8.osm",
     "name": "ward-precinct 9-8",
     "Shape_Area": 3715191.96032,
     "Shape_Leng": 7758.986994,
@@ -134520,7 +134520,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-8A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-8A.osm",
     "name": "ward-precinct 9-8A",
     "Shape_Area": 8527838.52102,
     "Shape_Leng": 12832.862248,
@@ -134650,7 +134650,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-9-9.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-9-9.osm",
     "name": "ward-precinct 9-9",
     "Shape_Area": 8935457.31363,
     "Shape_Leng": 13830.20527,
@@ -135020,7 +135020,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-15-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-15-2.osm",
     "name": "ward-precinct 15-2",
     "Shape_Area": 5992085.38631,
     "Shape_Leng": 15205.966116,
@@ -135206,7 +135206,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-4.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-4.osm",
     "name": "ward-precinct 11-4",
     "Shape_Area": 1266779.7165,
     "Shape_Leng": 4943.011779,
@@ -135476,7 +135476,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-11-2.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-11-2.osm",
     "name": "ward-precinct 11-2",
     "Shape_Area": 8017847.29393,
     "Shape_Leng": 12571.864211,
@@ -135794,7 +135794,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-12-11.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-12-11.osm",
     "name": "ward-precinct 12-11",
     "Shape_Area": 2390423.5169,
     "Shape_Leng": 8189.551583,
@@ -136104,7 +136104,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-4-17A.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-4-17A.osm",
     "name": "ward-precinct 4-17A",
     "Shape_Area": 3335532.71653,
     "Shape_Leng": 7696.200244,
@@ -136278,7 +136278,7 @@
     "type": "Polygon"
   },
   "properties": {
-    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.1/buildings-addresses-17-10.osm",
+    "import_url": "https://github.com/mtoupsUNO/nola-buildings/releases/download/v1.2/buildings-addresses-17-10.osm",
     "name": "ward-precinct 17-10",
     "Shape_Area": 1954958.26107,
     "Shape_Leng": 5820.807149,
