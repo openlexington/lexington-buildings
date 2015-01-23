@@ -43,4 +43,4 @@ Adapted for New Orleans by Matt Toups.
 
 See https://wiki.openstreetmap.org/wiki/New_Orleans,_Louisiana/Building_Outlines_Import
 
-Tracking the progress of this import at: http://tasks.openstreetmap.us/job/32
+Track the progress of this import at: http://tasks.openstreetmap.us/job/41
