@@ -12,6 +12,14 @@ And if everything works you should get output in the `osm/` directory.
 
 You don't need to be able to run this to participate in the import. This is available for those who are curious or would like to improve the process.
 
+## Update
+
+Updates to the addresses file on data.nola.gov January 2015 removed the ADDR\_TYPE field from the shapefile. This causes convert.py to fail, and we depend on ADDR\_TYPE to solve cases where two address points are in the exact same location.
+
+So convert.py no longer works. For now, you can download the October 2014 shapefile from data.nola.gov by going to "more views" on the left side of this page:
+
+    https://data.nola.gov/Geographic-Reference/NOLA-Addresses/div8-5v7i
+
 ## Prerequisites
 
 You will need at least a few GB of RAM for this to work well. We also attempt to do work in parallel, so more CPU cores will be helpful.
