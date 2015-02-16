@@ -12,6 +12,7 @@ from pprint import pprint
 from decimal import Decimal, getcontext
 from multiprocessing import Pool
 import expansions # for streets etc
+import os.path
 
 getcontext().prec = 16
 
@@ -71,16 +72,15 @@ def convert(buildingIn, addressIn, osmOut):
             else:
                 return t
 
-        if all (k in address for k in ('HOUSENO', 'STRNAME', 'TYPE', 'DIR' )):
-            result['addr:housenumber'] = str(address['HOUSE_NUMB'])
-            if address['HOUSE_ALPH']: # alpha-suffix to address
-                result['addr:housenumber'] = "%s %s" % \
-                    (result['addr:housenumber'], address['HOUSE_ALPH'].title())
-            if re.match('^(\d+)\w\w$', address['STREET']): # Test for 2ND, 14TH, 21ST
-                streetname = address['STREET'].lower()
+        if all (k in address for k in ('HOUSENO', 'APT', 'STRNAME', 'TYPE', 'DIR' )):
+            result['addr:housenumber'] = str(address['HOUSENO'])
+            if address['APT']: # alpha-suffix to address
+                result['addr:unit'] = str(address['APT'])
+            if re.match('^(\d+)\w\w$', address['STRNAME']): # Test for 2ND, 14TH, 21ST
+                streetname = address['STRNAME'].lower()
             else:
-                if address['STREET']: # check if it exists
-                    streetname = address['STREET'].title()
+                if address['STRNAME']: # check if it exists
+                    streetname = address['STRNAME'].title()
                 else:
                     return result
             if address['TYPE']: # again check for existence
@@ -147,28 +147,38 @@ def convert(buildingIn, addressIn, osmOut):
     def appendBuilding(building, address, osmXml):
         # Check for intersecting buildings
         intersects = []
-        for i in buildingIdx.intersection(building['shape'].bounds):
-            for c in buildings[i]['shape'].exterior.coords:
-                if Point(c[0], c[1]).intersects(building['shape']):
-                    intersects.append(c)
-        # Export building, create multipolygon if there are interior shapes.
-        way = appendNewWay(list(building['shape'].exterior.coords), intersects, osmXml)
-        interiors = []
-        for interior in building['shape'].interiors:
-            interiors.append(appendNewWay(list(interior.coords), [], osmXml))
-        if len(interiors) > 0:
-            relation = etree.Element('relation', visible='true', id=str(newOsmId('way')))
-            relation.append(etree.Element('member', type='way', role='outer', ref=way.get('id')))
-            for interior in interiors:
-                relation.append(etree.Element('member', type='way', role='inner', ref=interior.get('id')))
-            relation.append(etree.Element('tag', k='type', v='multipolygon'))
-            osmXml.append(relation)
-            way = relation
-        way.append(etree.Element('tag', k='building', v='yes'))
-# Below: we've decided against adding the nola:gid_id tag which may not be useful
-#        if 'OBJECTID' in building['properties']:
-#            way.append(etree.Element('tag', k='nola:gis_id', v=str(building['properties']['OBJECTID'])))
-        if address: appendAddress(address, way)
+        try:
+            for i in buildingIdx.intersection(building['shape'].bounds):
+                for c in buildings[i]['shape'].exterior.coords:
+                    if Point(c[0], c[1]).intersects(building['shape']):
+                        intersects.append(c)
+            # Export building, create multipolygon if there are interior shapes.
+            way = appendNewWay(list(building['shape'].exterior.coords), intersects, osmXml)
+            interiors = []
+            for interior in building['shape'].interiors:
+                interiors.append(appendNewWay(list(interior.coords), [], osmXml))
+            if len(interiors) > 0:
+                relation = etree.Element('relation', visible='true', id=str(newOsmId('way')))
+                relation.append(etree.Element('member', type='way', role='outer', ref=way.get('id')))
+                for interior in interiors:
+                    relation.append(etree.Element('member', type='way', role='inner', ref=interior.get('id')))
+                relation.append(etree.Element('tag', k='type', v='multipolygon'))
+                osmXml.append(relation)
+                way = relation
+            way.append(etree.Element('tag', k='building', v='yes'))
+    # lojic:bgnum tag for building identifier
+            if 'BG_NUM' in building['properties']:
+                way.append(etree.Element('tag', k='lojic:bgnum', v=str(int(building['properties']['BG_NUM']))))
+##            bg_elev is rooftop elevation in feet, not building height
+#            if 'BG_ELEV' in building['properties']:
+#                height = round(((building['properties']['BG_ELEV'] * 12) * 0.0254), 1)
+#                if height > 0:
+#                    way.append(etree.Element('tag', k='height', v=str(height)))
+            if address: appendAddress(address, way)
+        # a few buildings have messy polygons
+        except AttributeError as e:
+            print "An attribute error in " + osmOut
+
 
     # Export buildings & addresses. Only export address with building if there is exactly
     # one address per building. Export remaining addresses as individual nodes.
@@ -183,14 +193,16 @@ def convert(buildingIn, addressIn, osmOut):
                 seen = set()
                 keepers = []
                 for a in building['properties']['addresses']:
-                    rounded_a = round( a['geometry']['coordinates'][0] , 7 ) , round ( a['geometry']['coordinates'][1] , 7 )
+                    rounded_a = a['geometry']['coordinates'][0] , a['geometry']['coordinates'][1]
+                    seen.add( rounded_a )
+                    keepers.append(a)
                     # data.nola.gov has noise, round off to 7 decimal places (good enough for JOSM)
-                    if rounded_a in seen:
-                        if a['properties']['ADDR_TYPE'] == 'P':
-                            keepers[0] = a # give priority to the primary address
-                    else: # another point within the building, but not the same exact coords
-                        seen.add( rounded_a )
-                        keepers.append(a)
+                    #if rounded_a in seen:
+                        #lojic datta has not primary address property
+#                        if a['properties']['ADDR_TYPE'] == 'P':
+#                            keepers[0] = a # give priority to the primary address
+#                    else: # another point within the building, but not the same exact coords
+                        
                 if len(keepers) == 1: # after filtering out dupes, are we down to 1 address?
                     address = keepers[0]
                 else: # if there are multiple points in seperate locations, then we want individual nodes
@@ -205,11 +217,15 @@ def convert(buildingIn, addressIn, osmOut):
         print "Exported " + osmOut
 
 def convertTown(buildingFile):
-    matches = re.match('^.*-(\d+)-(.*)\.shp$', buildingFile).groups(0) # precincts may or may not contain letters
-    convert(
-        buildingFile,
-        'chunks/addresses-%s-%s.shp' % (matches[0], matches[1] ),
-        'osm/buildings-addresses-%s-%s.osm' % (matches[0], matches[1] ))
+    matches = re.match('^.*-(.*)\.shp$', buildingFile).groups(0) # precincts may or may not contain letters
+    osmPath = 'osm/buildings-addresses-%s.osm' % (matches[0])
+    #print os.path.exists(osmPath)
+    if os.path.exists(osmPath) == False:
+        print "doing file " + 'osm/buildings-addresses-%s.osm' % (matches[0])
+        convert(
+            buildingFile,
+            'chunks/addresses-%s.shp' % (matches[0]),
+            'osm/buildings-addresses-%s.osm' % (matches[0]))
 
 
 if __name__ == '__main__':
