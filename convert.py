@@ -24,8 +24,7 @@ def convert(buildingIn, addressIn, osmOut):
         for address in input:
             shape = asShape(address['geometry'])
             shape.original = address
-            if address['properties']['STATUS'] != 'RETIRED': # only import active addresses
-                addresses.append(shape)
+            addresses.append(shape)
 
     # Load and index all buildings.
     buildingIdx = index.Index()
@@ -72,7 +71,7 @@ def convert(buildingIn, addressIn, osmOut):
             else:
                 return t
 
-        if all (k in address for k in ('HOUSE_NUMB', 'STREET', 'TYPE', 'DIR' )):
+        if all (k in address for k in ('HOUSENO', 'STRNAME', 'TYPE', 'DIR' )):
             result['addr:housenumber'] = str(address['HOUSE_NUMB'])
             if address['HOUSE_ALPH']: # alpha-suffix to address
                 result['addr:housenumber'] = "%s %s" % \
@@ -91,6 +90,8 @@ def convert(buildingIn, addressIn, osmOut):
                     streettype(address['TYPE']) )
             else: # small number of streets have no type
                 result['addr:street'] = "%s%s" % (direction(address['DIR']), streetname)
+            if address['ZIPCODE']:
+                result['addr:postcode'] = str(int(address['ZIPCODE']))
         return result
 
     # Appends new node or returns existing if exists.

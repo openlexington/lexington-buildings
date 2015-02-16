@@ -1,46 +1,45 @@
 MAKEFLAGS+="-j 2" # chunking is slow, do this in parallel jobs
 
-all: NOLA_Addresses_20140221 BuildingOutlines2013 New_Orleans_Voting_Precincts directories chunk_addrs chunk_bldgs osm
+all: addresses BuildingOutlines2012 censustracts directories chunk_addrs chunk_bldgs osm
 
-NOLA_Addresses_20140221.zip:
-	curl -L "https://data.nola.gov/download/div8-5v7i/application/zip" -o NOLA_Addresses_20140221.zip
+addresses.zip:
+	curl -L "ftp://ftp.lojic.org/pub/federal/Address%20Sites.zip" -o addresses.zip
 
-NOLA_Addresses_20140221: NOLA_Addresses_20140221.zip
-	rm -rf NOLA_Addresses_20140221
-	unzip NOLA_Addresses_20140221.zip -d NOLA_Addresses_20140221
-	ogr2ogr -t_srs EPSG:4326 -overwrite NOLA_Addresses_20140221/addresses.shp NOLA_Addresses_20140221/NOLA_Addresses.shp
+addresses: addresses.zip
+	rm -rf addresses
+	unzip addresses.zip -d addresses
+	ogr2ogr -t_srs EPSG:4326 -overwrite addresses/addresses.shp addresses/Address\ Sites.shp
 
-New_Orleans_Voting_Precincts.zip:
-	curl -L "https://data.nola.gov/api/geospatial/vycb-i8x3?method=export&format=Shapefile" -o New_Orleans_Voting_Precincts.zip
+censustracts.zip:
+	curl -L "http://api.censusreporter.org/1.0/data/download/latest?table_ids=B01001&geo_ids=140|05000US21111&format=shp" -o censustracts.zip
 
-New_Orleans_Voting_Precincts: New_Orleans_Voting_Precincts.zip
-	rm -rf New_Orleans_Voting_Precincts
-	unzip New_Orleans_Voting_Precincts.zip -d New_Orleans_Voting_Precincts
-	ogr2ogr -t_srs EPSG:4326 -overwrite New_Orleans_Voting_Precincts/precincts.shp New_Orleans_Voting_Precincts/VotingPrecinct.shp
+censustracts: censustracts.zip
+	rm -rf censustracts
+	unzip censustracts.zip -d censustracts
+	ogr2ogr -t_srs EPSG:4326 -overwrite censustracts/tracts.shp censustracts/acs2013_5yr_B01001_14000US21111011102/acs2013_5yr_B01001_14000US21111011102.shp
 
-BuildingOutlines2013.zip:
-	curl -L "https://data.nola.gov/download/t3vb-bbwe/application/zip" -o BuildingOutlines2013.zip
+BuildingOutlines2012.zip:
+	curl -L "http://api.louisvilleky.gov/api/File/DownloadFile?fileName=Buildings_Shapefile.zip" -o BuildingOutlines2012.zip
 
-BuildingOutlines2013: BuildingOutlines2013.zip
-	rm -rf BuildingOutlines2013
-	unzip BuildingOutlines2013.zip -d BuildingOutlines2013
-#	ogr2ogr -simplify 0.2 -t_srs EPSG:4326 -overwrite BuildingOutlines2013/buildings.shp BuildingOutlines2013/BuildingOutlines2013.shp
-	ogr2ogr -t_srs EPSG:4326 -overwrite BuildingOutlines2013/buildings.shp BuildingOutlines2013/BuildingOutlines2013.shp
+BuildingOutlines2012: BuildingOutlines2012.zip
+	rm -rf BuildingOutlines2012
+	unzip BuildingOutlines2012.zip -d BuildingOutlines2012
+	ogr2ogr -t_srs EPSG:4326 -overwrite BuildingOutlines2012/buildings4326.shp BuildingOutlines2012/Buildings.shp
 
 chunks: directories
 	rm -f chunks/*
 	chunk_addrs
 	chunk_bldgs
 
-chunk_addrs: directories NOLA_Addresses_20140221 New_Orleans_Voting_Precincts
-	python chunk.py NOLA_Addresses_20140221/addresses.shp New_Orleans_Voting_Precincts/precincts.shp chunks/addresses-%s.shp PRECINCTID
+chunk_addrs: directories addresses censustracts
+	python chunk.py addresses/addresses.shp censustracts/tracts.shp chunks/addresses-%s.shp geoid
 
-chunk_bldgs: directories BuildingOutlines2013 New_Orleans_Voting_Precincts
-	python chunk.py BuildingOutlines2013/buildings.shp New_Orleans_Voting_Precincts/precincts.shp chunks/buildings-%s.shp PRECINCTID
+chunk_bldgs: directories BuildingOutlines2012 censustracts
+	python chunk.py BuildingOutlines2012/buildings4326.shp censustracts/tracts.shp chunks/buildings-%s.shp geoid
 
 osm: directories chunk_addrs chunk_bldgs
 	rm -f osm/*
-	python convert.py
+#	python convert.py
 
 directories:
 	mkdir -p chunks
