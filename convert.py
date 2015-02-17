@@ -21,6 +21,7 @@ getcontext().prec = 16
 def convert(buildingIn, addressIn, osmOut):
     # Load all addresses.
     addresses = []
+    addressesWithoutBuilding = []
     with collection(addressIn, "r") as input:
         for address in input:
             shape = asShape(address['geometry'])
@@ -39,12 +40,16 @@ def convert(buildingIn, addressIn, osmOut):
 
     # Map addresses to buildings.
     for address in addresses:
+        match = False
         for i in buildingIdx.intersection(address.bounds):
             # unfortunately the address data is somewhat inaccurate, so sometimes the point falls
             # outside of the corresponding building. buffer() gives us a bit of wiggle room.
             # this is less than one meter, but fixes a lot of cases in the NOLA shapefile
             if address.buffer(0.000006).intersects(buildings[i]['shape']):
                 buildings[i]['properties']['addresses'].append(address.original)
+                match = True
+        if match == False:
+            addressesWithoutBuilding.append(address.original)
 
     # Generates a new osm id.
     osmIds = dict(node = -1, way = -1, rel = -1)
@@ -72,7 +77,7 @@ def convert(buildingIn, addressIn, osmOut):
             else:
                 return t
 
-        if all (k in address for k in ('HOUSENO', 'APT', 'STRNAME', 'TYPE', 'DIR' )):
+        if all (k in address for k in ('HOUSENO', 'APT', 'STRNAME', 'TYPE', 'DIR')):
             result['addr:housenumber'] = str(address['HOUSENO'])
             if address['APT']: # alpha-suffix to address
                 result['addr:unit'] = str(address['APT'])
@@ -92,6 +97,9 @@ def convert(buildingIn, addressIn, osmOut):
                 result['addr:street'] = "%s%s" % (direction(address['DIR']), streetname)
             if address['ZIPCODE']:
                 result['addr:postcode'] = str(int(address['ZIPCODE']))
+            if address['MUNI_NAME']:
+                result['addr:city'] = str(address['MUNI_NAME']).title()
+            result['addr:state'] = "KY"
         return result
 
     # Appends new node or returns existing if exists.
@@ -198,7 +206,7 @@ def convert(buildingIn, addressIn, osmOut):
                     keepers.append(a)
                     # data.nola.gov has noise, round off to 7 decimal places (good enough for JOSM)
                     #if rounded_a in seen:
-                        #lojic datta has not primary address property
+                        #lojic data has not\ primary address property
 #                        if a['properties']['ADDR_TYPE'] == 'P':
 #                            keepers[0] = a # give priority to the primary address
 #                    else: # another point within the building, but not the same exact coords
@@ -212,6 +220,12 @@ def convert(buildingIn, addressIn, osmOut):
         for address in addresses:
             node = appendNewNode(address['geometry']['coordinates'], osmXml)
             appendAddress(address, node)
+            
+    ## write all the addresses without buildings
+    for address in addressesWithoutBuilding:
+        node = appendNewNode(address['geometry']['coordinates'], osmXml)
+        appendAddress(address, node)
+    
     with open(osmOut, 'w') as outFile:
         outFile.writelines(tostring(osmXml, pretty_print=True, xml_declaration=True, encoding='UTF-8'))
         print "Exported " + osmOut
