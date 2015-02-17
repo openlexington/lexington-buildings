@@ -26,7 +26,7 @@ def chunk(featureFileName, sectionFileName, pattern, key = None):
             for section in sectionFile:
                 fileName = pattern % i
                 if key:
-                    fileName = pattern % section['properties'][key]
+                    fileName = pattern % section['properties'][key][-7:] # use only last 7 chars of key for legibility
                     properties = {}
                     try:
                         with collection(fileName, 'w', 'ESRI Shapefile',
