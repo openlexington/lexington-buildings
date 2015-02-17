@@ -48,4 +48,4 @@ Adapted for New Orleans by Matt Toups.  Adpated for Louisville, KY by Michael Sc
 
 See http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import
 
-Track the progress of this import at: http://tasks.openstreetmap.us/job/48
+Track the progress of this import at: http://tasks.openstreetmap.us/job/50
