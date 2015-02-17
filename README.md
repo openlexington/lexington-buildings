@@ -1,6 +1,6 @@
-# OSM Import of New Orleans address and building data.
+# OSM Import of Louisville, KY address and building data.
 
-These scripts pre-process shapefile data from [data.nola.gov](https://data.nola.gov) and put it into a format suitable to be imported into OpenStreetMap.
+These scripts pre-process shapefile data from [data.louisvilleky.gov](https://data.louisvilleky.gov) and put it into a format suitable to be imported into OpenStreetMap.
 
 To use, run:
 
@@ -16,9 +16,6 @@ You don't need to be able to run this to participate in the import. This is avai
 
 Updates to the addresses file on data.nola.gov January 2015 removed the ADDR\_TYPE field from the shapefile. This causes convert.py to fail, and we depend on ADDR\_TYPE to solve cases where two address points are in the exact same location.
 
-So convert.py no longer works. For now, you can download the October 2014 shapefile from data.nola.gov by going to "more views" on the left side of this page:
-
-    https://data.nola.gov/Geographic-Reference/NOLA-Addresses/div8-5v7i
 
 ## Prerequisites
 
@@ -45,10 +42,10 @@ Then you can build/install fiona with:
 
 Based on [dcbuildings](https://github.com/osmlab/dcbuildings) and [nycbuildings](https://github.com/osmlab/nycbuildings).
 
-Adapted for New Orleans by Matt Toups.
+Adapted for New Orleans by Matt Toups.  Adpated for Louisville, KY by Michael Schnuerle and Ate Poorthuis.
 
 ## More info
 
-See https://wiki.openstreetmap.org/wiki/New_Orleans,_Louisiana/Building_Outlines_Import
+See http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import
 
-Track the progress of this import at: http://tasks.openstreetmap.us/job/41
+Track the progress of this import at: http://tasks.openstreetmap.us/job/48
