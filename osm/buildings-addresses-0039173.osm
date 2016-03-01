@@ -1,0 +1,3484 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm generator="mtoups" version="0.6">
+  <node id="-2" visible="true" lon="-84.40779542476626" lat="38.03139944707971"/>
+  <node id="-3" visible="true" lon="-84.40782038683521" lat="38.03141599862843"/>
+  <node id="-4" visible="true" lon="-84.40778733469595" lat="38.03144718502647"/>
+  <node id="-5" visible="true" lon="-84.40776233639777" lat="38.03143060491510"/>
+  <way id="-2" visible="true">
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-2"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-6" visible="true" lon="-84.40707255111018" lat="38.02946006213617"/>
+  <node id="-7" visible="true" lon="-84.40710095285240" lat="38.02947683088595"/>
+  <node id="-8" visible="true" lon="-84.40707123340663" lat="38.02950828433238"/>
+  <node id="-9" visible="true" lon="-84.40704283392303" lat="38.02949151736011"/>
+  <way id="-3" visible="true">
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-6"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-10" visible="true" lon="-84.40693445170426" lat="38.02775987604017"/>
+  <node id="-11" visible="true" lon="-84.40693495789233" lat="38.02775983602642"/>
+  <node id="-12" visible="true" lon="-84.40693546409587" lat="38.02775980316385"/>
+  <node id="-13" visible="true" lon="-84.40693597031859" lat="38.02775977924021"/>
+  <node id="-14" visible="true" lon="-84.40693647881301" lat="38.02775976067694"/>
+  <node id="-15" visible="true" lon="-84.40693698506270" lat="38.02775974926784"/>
+  <node id="-16" visible="true" lon="-84.40693749358796" lat="38.02775974500685"/>
+  <node id="-17" visible="true" lon="-84.40693800212860" lat="38.02775974789706"/>
+  <node id="-18" visible="true" lon="-84.40693850842455" lat="38.02775975794144"/>
+  <node id="-19" visible="true" lon="-84.40693901699601" lat="38.02775977513392"/>
+  <node id="-20" visible="true" lon="-84.40693952331885" lat="38.02775979769284"/>
+  <node id="-21" visible="true" lon="-84.40694002966096" lat="38.02775982919071"/>
+  <node id="-22" visible="true" lon="-84.40694053601852" lat="38.02775986783975"/>
+  <node id="-23" visible="true" lon="-84.40694104012744" lat="38.02775991185516"/>
+  <node id="-24" visible="true" lon="-84.40694154425179" lat="38.02775996302179"/>
+  <node id="-25" visible="true" lon="-84.40694204613141" lat="38.02776002134260"/>
+  <node id="-26" visible="true" lon="-84.40694254577008" lat="38.02776008860538"/>
+  <node id="-27" visible="true" lon="-84.40694304767665" lat="38.02776015944073"/>
+  <node id="-28" visible="true" lon="-84.40694354508219" lat="38.02776023922110"/>
+  <node id="-29" visible="true" lon="-84.40694404024298" lat="38.02776032615563"/>
+  <node id="-30" visible="true" lon="-84.40694453541917" lat="38.02776042024142"/>
+  <node id="-31" visible="true" lon="-84.40694502608663" lat="38.02776051969660"/>
+  <node id="-32" visible="true" lon="-84.40694551676947" lat="38.02776062630296"/>
+  <node id="-33" visible="true" lon="-84.40694600294748" lat="38.02776074006660"/>
+  <node id="-34" visible="true" lon="-84.40694648687683" lat="38.02776085919660"/>
+  <node id="-35" visible="true" lon="-84.40694696856532" lat="38.02776098726861"/>
+  <node id="-36" visible="true" lon="-84.40694744800140" lat="38.02776111891929"/>
+  <node id="-37" visible="true" lon="-84.40694792293642" lat="38.02776125951497"/>
+  <node id="-38" visible="true" lon="-84.40694839788301" lat="38.02776140547405"/>
+  <node id="-39" visible="true" lon="-84.40694886606838" lat="38.02776156038120"/>
+  <node id="-40" visible="true" lon="-84.40694933200130" lat="38.02776171886696"/>
+  <node id="-41" visible="true" lon="-84.40694979568954" lat="38.02776188450694"/>
+  <node id="-42" visible="true" lon="-84.40695025261269" lat="38.02776205730724"/>
+  <node id="-43" visible="true" lon="-84.40695070728728" lat="38.02776223547394"/>
+  <node id="-44" visible="true" lon="-84.40695115971715" lat="38.02776242079484"/>
+  <node id="-45" visible="true" lon="-84.40695160763829" lat="38.02776261148517"/>
+  <node id="-46" visible="true" lon="-84.40695204879435" lat="38.02776280933585"/>
+  <node id="-47" visible="true" lon="-84.40695248770184" lat="38.02776301255293"/>
+  <node id="-48" visible="true" lon="-84.40695291984044" lat="38.02776322114251"/>
+  <node id="-49" visible="true" lon="-84.40695334973432" lat="38.02776343688633"/>
+  <node id="-50" visible="true" lon="-84.40695377285934" lat="38.02776365800264"/>
+  <node id="-51" visible="true" lon="-84.40695419147556" lat="38.02776388448839"/>
+  <node id="-52" visible="true" lon="-84.40695460558692" lat="38.02776411813145"/>
+  <node id="-53" visible="true" lon="-84.40695501518573" lat="38.02776435535609"/>
+  <node id="-54" visible="true" lon="-84.40695541801944" lat="38.02776459974111"/>
+  <node id="-55" visible="true" lon="-84.40695581634449" lat="38.02776484949558"/>
+  <node id="-56" visible="true" lon="-84.40695620790058" lat="38.02776510462252"/>
+  <node id="-57" visible="true" lon="-84.40695659494800" lat="38.02776536511897"/>
+  <node id="-58" visible="true" lon="-84.40695697522651" lat="38.02776563098789"/>
+  <node id="-59" visible="true" lon="-84.40695735099629" lat="38.02776590222629"/>
+  <node id="-60" visible="true" lon="-84.40695771999331" lat="38.02776617704943"/>
+  <node id="-61" visible="true" lon="-84.40695808222534" lat="38.02776645903283"/>
+  <node id="-62" visible="true" lon="-84.40695843994475" lat="38.02776674459793"/>
+  <node id="-63" visible="true" lon="-84.40695878863515" lat="38.02776703553860"/>
+  <node id="-64" visible="true" lon="-84.40695913281296" lat="38.02776733006092"/>
+  <node id="-65" visible="true" lon="-84.40695947022576" lat="38.02776763174350"/>
+  <node id="-66" visible="true" lon="-84.40695980086578" lat="38.02776793701084"/>
+  <node id="-67" visible="true" lon="-84.40696012473306" lat="38.02776824586297"/>
+  <node id="-68" visible="true" lon="-84.40696044183154" lat="38.02776856008749"/>
+  <node id="-69" visible="true" lon="-84.40696075215719" lat="38.02776887789679"/>
+  <node id="-70" visible="true" lon="-84.40696105345388" lat="38.02776920108162"/>
+  <node id="-71" visible="true" lon="-84.40696135023795" lat="38.02776952784817"/>
+  <node id="-72" visible="true" lon="-84.40696163798916" lat="38.02776985820247"/>
+  <node id="-73" visible="true" lon="-84.40696191896758" lat="38.02777019214146"/>
+  <node id="-74" visible="true" lon="-84.40696219317716" lat="38.02777053145297"/>
+  <node id="-75" visible="true" lon="-84.40696245835001" lat="38.02777087256446"/>
+  <node id="-76" visible="true" lon="-84.40696271675398" lat="38.02777121904852"/>
+  <node id="-77" visible="true" lon="-84.40696296838135" lat="38.02777156732944"/>
+  <node id="-78" visible="true" lon="-84.40696321097968" lat="38.02777192098593"/>
+  <node id="-79" visible="true" lon="-84.40696344680531" lat="38.02777227822713"/>
+  <node id="-80" visible="true" lon="-84.40696367359416" lat="38.02777263726831"/>
+  <node id="-81" visible="true" lon="-84.40696389360647" lat="38.02777299810647"/>
+  <node id="-82" visible="true" lon="-84.40696410458970" lat="38.02777336432010"/>
+  <node id="-83" visible="true" lon="-84.40696430653624" lat="38.02777373233379"/>
+  <node id="-84" visible="true" lon="-84.40696450397017" lat="38.02777410392908"/>
+  <node id="-85" visible="true" lon="-84.40696469010341" lat="38.02777447553967"/>
+  <node id="-86" visible="true" lon="-84.40696486720756" lat="38.02777485252579"/>
+  <node id="-87" visible="true" lon="-84.40696503753129" lat="38.02777522952105"/>
+  <node id="-88" visible="true" lon="-84.40696520108615" lat="38.02777561188883"/>
+  <node id="-89" visible="true" lon="-84.40696535334028" lat="38.02777599427184"/>
+  <node id="-90" visible="true" lon="-84.40696549881778" lat="38.02777637845177"/>
+  <node id="-91" visible="true" lon="-84.40696563526244" lat="38.02777676621948"/>
+  <node id="-92" visible="true" lon="-84.40696576266653" lat="38.02777715399935"/>
+  <node id="-93" visible="true" lon="-84.40696588329784" lat="38.02777754536396"/>
+  <node id="-94" visible="true" lon="-84.40696599488858" lat="38.02777793674076"/>
+  <node id="-95" visible="true" lon="-84.40696609744644" lat="38.02777833170536"/>
+  <node id="-96" visible="true" lon="-84.40696618869970" lat="38.02777872489732"/>
+  <node id="-97" visible="true" lon="-84.40696627544040" lat="38.02777912167101"/>
+  <node id="-98" visible="true" lon="-84.40696634862017" lat="38.02777951846297"/>
+  <node id="-99" visible="true" lon="-84.40696641728354" lat="38.02777991704886"/>
+  <node id="-100" visible="true" lon="-84.40696647464617" lat="38.02778031564994"/>
+  <node id="-101" visible="true" lon="-84.40696652523216" lat="38.02778071604796"/>
+  <node id="-102" visible="true" lon="-84.40696656677763" lat="38.02778111645813"/>
+  <node id="-103" visible="true" lon="-84.40696659702233" lat="38.02778151688359"/>
+  <node id="-104" visible="true" lon="-84.40696662049046" lat="38.02778191910595"/>
+  <node id="-105" visible="true" lon="-84.40696663491416" lat="38.02778231955271"/>
+  <node id="-106" visible="true" lon="-84.40696664030108" lat="38.02778272179945"/>
+  <node id="-107" visible="true" lon="-84.40696663664747" lat="38.02778312405835"/>
+  <node id="-108" visible="true" lon="-84.40696662394939" lat="38.02778352454167"/>
+  <node id="-109" visible="true" lon="-84.40696660221455" lat="38.02778392682497"/>
+  <node id="-110" visible="true" lon="-84.40696657369539" lat="38.02778432732963"/>
+  <node id="-111" visible="true" lon="-84.40696653387556" lat="38.02778472784951"/>
+  <node id="-112" visible="true" lon="-84.40696648501513" lat="38.02778512838157"/>
+  <node id="-113" visible="true" lon="-84.40696642937040" lat="38.02778552713500"/>
+  <node id="-114" visible="true" lon="-84.40696636242491" lat="38.02778592590368"/>
+  <node id="-115" visible="true" lon="-84.40696629095531" lat="38.02778632289063"/>
+  <node id="-116" visible="true" lon="-84.40696620592476" lat="38.02778671989586"/>
+  <node id="-117" visible="true" lon="-84.40696611636631" lat="38.02778711333158"/>
+  <node id="-118" visible="true" lon="-84.40696601551092" lat="38.02778750857039"/>
+  <node id="-119" visible="true" lon="-84.40696590560721" lat="38.02778790024577"/>
+  <node id="-120" visible="true" lon="-84.40696578666297" lat="38.02778829193335"/>
+  <node id="-121" visible="true" lon="-84.40696566093050" lat="38.02778868005443"/>
+  <node id="-122" visible="true" lon="-84.40696552615366" lat="38.02778906639997"/>
+  <node id="-123" visible="true" lon="-84.40696538233624" lat="38.02778945275767"/>
+  <node id="-124" visible="true" lon="-84.40696523173062" lat="38.02778983554896"/>
+  <node id="-125" visible="true" lon="-84.40696506982043" lat="38.02779021656767"/>
+  <node id="-126" visible="true" lon="-84.40696490112592" lat="38.02779059580773"/>
+  <node id="-127" visible="true" lon="-84.40696472564714" lat="38.02779097326916"/>
+  <node id="-128" visible="true" lon="-84.40696454112005" lat="38.02779134716717"/>
+  <node id="-129" visible="true" lon="-84.40696434528454" lat="38.02779171750484"/>
+  <node id="-130" visible="true" lon="-84.40696414492487" lat="38.02779208606082"/>
+  <node id="-131" visible="true" lon="-84.40696393552078" lat="38.02779245284118"/>
+  <node id="-132" visible="true" lon="-84.40696371706835" lat="38.02779281605817"/>
+  <node id="-133" visible="true" lon="-84.40696349182782" lat="38.02779317570873"/>
+  <node id="-134" visible="true" lon="-84.40696325753895" lat="38.02779353179583"/>
+  <node id="-135" visible="true" lon="-84.40696301646196" lat="38.02779388431657"/>
+  <node id="-136" visible="true" lon="-84.40696276634051" lat="38.02779423506162"/>
+  <node id="-137" visible="true" lon="-84.40696250942707" lat="38.02779458045249"/>
+  <node id="-138" visible="true" lon="-84.40696224572933" lat="38.02779492406471"/>
+  <node id="-139" visible="true" lon="-84.40696197297940" lat="38.02779526232574"/>
+  <node id="-140" visible="true" lon="-84.40696169344525" lat="38.02779559880810"/>
+  <node id="-141" visible="true" lon="-84.40696140711904" lat="38.02779592993627"/>
+  <node id="-142" visible="true" lon="-84.40696111174459" lat="38.02779625750102"/>
+  <node id="-143" visible="true" lon="-84.40696081184211" lat="38.02779658149626"/>
+  <node id="-144" visible="true" lon="-84.40696050288749" lat="38.02779690014035"/>
+  <node id="-145" visible="true" lon="-84.40696018714466" lat="38.02779721521797"/>
+  <node id="-146" visible="true" lon="-84.40695986460992" lat="38.02779752494140"/>
+  <node id="-147" visible="true" lon="-84.40695953528700" lat="38.02779783109838"/>
+  <node id="-148" visible="true" lon="-84.40695919917205" lat="38.02779813190111"/>
+  <node id="-149" visible="true" lon="-84.40695885626899" lat="38.02779842913736"/>
+  <node id="-150" visible="true" lon="-84.40695850883402" lat="38.02779872101640"/>
+  <node id="-151" visible="true" lon="-84.40695815234696" lat="38.02779900754421"/>
+  <node id="-152" visible="true" lon="-84.40695779133188" lat="38.02779929050254"/>
+  <node id="-153" visible="true" lon="-84.40695742352098" lat="38.02779956631887"/>
+  <node id="-154" visible="true" lon="-84.40695704892187" lat="38.02779983856871"/>
+  <node id="-155" visible="true" lon="-84.40695666979094" lat="38.02780010546130"/>
+  <node id="-156" visible="true" lon="-84.40695628386800" lat="38.02780036699968"/>
+  <node id="-157" visible="true" lon="-84.40695589341323" lat="38.02780062318075"/>
+  <node id="-158" visible="true" lon="-84.40695549616643" lat="38.02780087400759"/>
+  <node id="-159" visible="true" lon="-84.40695509438781" lat="38.02780111947719"/>
+  <node id="-160" visible="true" lon="-84.40695468581330" lat="38.02780135780471"/>
+  <node id="-161" visible="true" lon="-84.40695427271082" lat="38.02780159256279"/>
+  <node id="-162" visible="true" lon="-84.40695385507264" lat="38.02780182017572"/>
+  <node id="-163" visible="true" lon="-84.40695343290257" lat="38.02780204243145"/>
+  <node id="-164" visible="true" lon="-84.40695300394049" lat="38.02780225933292"/>
+  <node id="-165" visible="true" lon="-84.40695257270291" lat="38.02780246908632"/>
+  <node id="-166" visible="true" lon="-84.40695213467332" lat="38.02780267348540"/>
+  <node id="-167" visible="true" lon="-84.40695169437200" lat="38.02780287252423"/>
+  <node id="-168" visible="true" lon="-84.40695124727483" lat="38.02780306442099"/>
+  <node id="-169" visible="true" lon="-84.40695079564580" lat="38.02780325096046"/>
+  <node id="-170" visible="true" lon="-84.40695034174122" lat="38.02780343035184"/>
+  <node id="-171" visible="true" lon="-84.40694988556500" lat="38.02780360438291"/>
+  <node id="-172" visible="true" lon="-84.40694942259283" lat="38.02780377127194"/>
+  <node id="-173" visible="true" lon="-84.40694895734904" lat="38.02780393280063"/>
+  <node id="-174" visible="true" lon="-84.40694848982578" lat="38.02780408539342"/>
+  <node id="-175" visible="true" lon="-84.40694801551442" lat="38.02780423441977"/>
+  <node id="-176" visible="true" lon="-84.40694754118762" lat="38.02780437629495"/>
+  <node id="-177" visible="true" lon="-84.40694706232510" lat="38.02780451102507"/>
+  <node id="-178" visible="true" lon="-84.40694658118704" lat="38.02780463860707"/>
+  <node id="-179" visible="true" lon="-84.40694609777348" lat="38.02780475904093"/>
+  <node id="-180" visible="true" lon="-84.40694561208814" lat="38.02780487411449"/>
+  <node id="-181" visible="true" lon="-84.40694512186715" lat="38.02780498204297"/>
+  <node id="-182" visible="true" lon="-84.40694463163457" lat="38.02780508460809"/>
+  <node id="-183" visible="true" lon="-84.40694413686245" lat="38.02780517824038"/>
+  <node id="-184" visible="true" lon="-84.40694364207877" lat="38.02780526650920"/>
+  <node id="-185" visible="true" lon="-84.40694314501570" lat="38.02780534584219"/>
+  <node id="-186" visible="true" lon="-84.40694264342078" lat="38.02780541981788"/>
+  <node id="-187" visible="true" lon="-84.40694214407446" lat="38.02780548842712"/>
+  <node id="-188" visible="true" lon="-84.40694164244871" lat="38.02780554810049"/>
+  <node id="-189" visible="true" lon="-84.40694113854740" lat="38.02780560062575"/>
+  <node id="-190" visible="true" lon="-84.40694063463459" lat="38.02780564778761"/>
+  <node id="-191" visible="true" lon="-84.40694012844232" lat="38.02780568601357"/>
+  <node id="-192" visible="true" lon="-84.40693962223851" lat="38.02780571887615"/>
+  <node id="-193" visible="true" lon="-84.40693911601932" lat="38.02780574458757"/>
+  <node id="-194" visible="true" lon="-84.40693860752071" lat="38.02780576136310"/>
+  <node id="-195" visible="true" lon="-84.40693810127067" lat="38.02780577277219"/>
+  <node id="-196" visible="true" lon="-84.40693759274508" lat="38.02780577703320"/>
+  <node id="-197" visible="true" lon="-84.40693708420410" lat="38.02780577414300"/>
+  <node id="-198" visible="true" lon="-84.40693657790790" lat="38.02780576409859"/>
+  <node id="-199" visible="true" lon="-84.40693606933998" lat="38.02780574869386"/>
+  <node id="-200" visible="true" lon="-84.40693556301296" lat="38.02780572434718"/>
+  <node id="-201" visible="true" lon="-84.40693505667049" lat="38.02780569284929"/>
+  <node id="-202" visible="true" lon="-84.40693455031649" lat="38.02780565598803"/>
+  <node id="-203" visible="true" lon="-84.40693404620339" lat="38.02780561018478"/>
+  <node id="-204" visible="true" lon="-84.40693354207878" lat="38.02780555901811"/>
+  <node id="-205" visible="true" lon="-84.40693304019885" lat="38.02780550069727"/>
+  <node id="-206" visible="true" lon="-84.40693253829969" lat="38.02780543343749"/>
+  <node id="-207" visible="true" lon="-84.40693204090927" lat="38.02780536080825"/>
+  <node id="-208" visible="true" lon="-84.40693154124716" lat="38.02780528281863"/>
+  <node id="-209" visible="true" lon="-84.40693104608607" lat="38.02780519588404"/>
+  <node id="-210" visible="true" lon="-84.40693055317355" lat="38.02780510358296"/>
+  <node id="-211" visible="true" lon="-84.40693006024185" lat="38.02780500234297"/>
+  <node id="-212" visible="true" lon="-84.40692957181886" lat="38.02780489573348"/>
+  <node id="-213" visible="true" lon="-84.40692908338046" lat="38.02780478197285"/>
+  <node id="-214" visible="true" lon="-84.40692859945079" lat="38.02780466284275"/>
+  <node id="-215" visible="true" lon="-84.40692811776591" lat="38.02780453655843"/>
+  <node id="-216" visible="true" lon="-84.40692763832577" lat="38.02780440311990"/>
+  <node id="-217" visible="true" lon="-84.40692716113035" lat="38.02780426252720"/>
+  <node id="-218" visible="true" lon="-84.40692668843985" lat="38.02780411477718"/>
+  <node id="-219" visible="true" lon="-84.40692622026194" lat="38.02780396344556"/>
+  <node id="-220" visible="true" lon="-84.40692575206478" lat="38.02780380317495"/>
+  <node id="-221" visible="true" lon="-84.40692529063649" lat="38.02780363753183"/>
+  <node id="-222" visible="true" lon="-84.40692483145295" lat="38.02780346473449"/>
+  <node id="-223" visible="true" lon="-84.40692437677821" lat="38.02780328656766"/>
+  <node id="-224" visible="true" lon="-84.40692392660829" lat="38.02780310124363"/>
+  <node id="-225" visible="true" lon="-84.40692348094716" lat="38.02780291055011"/>
+  <node id="-226" visible="true" lon="-84.40692303753075" lat="38.02780271270239"/>
+  <node id="-227" visible="true" lon="-84.40692260088323" lat="38.02780250948216"/>
+  <node id="-228" visible="true" lon="-84.40692216648434" lat="38.02780230089550"/>
+  <node id="-229" visible="true" lon="-84.40692173659036" lat="38.02780208515157"/>
+  <node id="-230" visible="true" lon="-84.40692131346523" lat="38.02780186403515"/>
+  <node id="-231" visible="true" lon="-84.40692089484887" lat="38.02780163754930"/>
+  <node id="-232" visible="true" lon="-84.40692048073740" lat="38.02780140390610"/>
+  <node id="-233" visible="true" lon="-84.40692007113852" lat="38.02780116668131"/>
+  <node id="-234" visible="true" lon="-84.40691966830465" lat="38.02780092229619"/>
+  <node id="-235" visible="true" lon="-84.40691926997960" lat="38.02780067254161"/>
+  <node id="-236" visible="true" lon="-84.40691887842341" lat="38.02780041741452"/>
+  <node id="-237" visible="true" lon="-84.40691849137596" lat="38.02780015691797"/>
+  <node id="-238" visible="true" lon="-84.40691811109743" lat="38.02779989104894"/>
+  <node id="-239" visible="true" lon="-84.40691773532760" lat="38.02779961981041"/>
+  <node id="-240" visible="true" lon="-84.40691736633053" lat="38.02779934498716"/>
+  <node id="-241" visible="true" lon="-84.40691700409855" lat="38.02779906300362"/>
+  <node id="-242" visible="true" lon="-84.40691664637907" lat="38.02779877743839"/>
+  <node id="-243" visible="true" lon="-84.40691629542857" lat="38.02779848650063"/>
+  <node id="-244" visible="true" lon="-84.40691595350707" lat="38.02779819018738"/>
+  <node id="-245" visible="true" lon="-84.40691561609820" lat="38.02779789029242"/>
+  <node id="-246" visible="true" lon="-84.40691528545821" lat="38.02779758502496"/>
+  <node id="-247" visible="true" lon="-84.40691496159094" lat="38.02779727617273"/>
+  <node id="-248" visible="true" lon="-84.40691464449260" lat="38.02779696194806"/>
+  <node id="-249" visible="true" lon="-84.40691433642712" lat="38.02779664413557"/>
+  <node id="-250" visible="true" lon="-84.40691403061027" lat="38.02779632095673"/>
+  <node id="-251" visible="true" lon="-84.40691373608648" lat="38.02779599418703"/>
+  <node id="-252" visible="true" lon="-84.40691344833539" lat="38.02779566383261"/>
+  <node id="-253" visible="true" lon="-84.40691316735318" lat="38.02779532810571"/>
+  <node id="-254" visible="true" lon="-84.40691289314761" lat="38.02779499058187"/>
+  <node id="-255" visible="true" lon="-84.40691262797107" lat="38.02779464768245"/>
+  <node id="-256" visible="true" lon="-84.40691236957112" lat="38.02779430298612"/>
+  <node id="-257" visible="true" lon="-84.40691211794005" lat="38.02779395291731"/>
+  <node id="-258" visible="true" lon="-84.40691187534570" lat="38.02779360104847"/>
+  <node id="-259" visible="true" lon="-84.40691163952413" lat="38.02779324559498"/>
+  <node id="-260" visible="true" lon="-84.40691141273545" lat="38.02779288655367"/>
+  <node id="-261" visible="true" lon="-84.40691119271952" lat="38.02779252392764"/>
+  <node id="-262" visible="true" lon="-84.40691098173649" lat="38.02779215771389"/>
+  <node id="-263" visible="true" lon="-84.40691077753003" lat="38.02779178970317"/>
+  <node id="-264" visible="true" lon="-84.40691058462046" lat="38.02779141988945"/>
+  <node id="-265" visible="true" lon="-84.40691039622348" lat="38.02779104649407"/>
+  <node id="-266" visible="true" lon="-84.40691021685939" lat="38.02779066951086"/>
+  <node id="-267" visible="true" lon="-84.40691004653206" lat="38.02779029072777"/>
+  <node id="-268" visible="true" lon="-84.40690988524149" lat="38.02778991014468"/>
+  <node id="-269" visible="true" lon="-84.40690973298761" lat="38.02778952776157"/>
+  <node id="-270" visible="true" lon="-84.40690958750648" lat="38.02778914179378"/>
+  <node id="-271" visible="true" lon="-84.40690945106597" lat="38.02778875581381"/>
+  <node id="-272" visible="true" lon="-84.40690932140203" lat="38.02778836803692"/>
+  <node id="-273" visible="true" lon="-84.40690920303116" lat="38.02778797666921"/>
+  <node id="-274" visible="true" lon="-84.40690909144071" lat="38.02778758529235"/>
+  <node id="-275" visible="true" lon="-84.40690899114331" lat="38.02778719032466"/>
+  <node id="-276" visible="true" lon="-84.40690889537005" lat="38.02778679713872"/>
+  <node id="-277" visible="true" lon="-84.40690881314997" lat="38.02778640035892"/>
+  <node id="-278" visible="true" lon="-84.40690873545016" lat="38.02778600357300"/>
+  <node id="-279" visible="true" lon="-84.40690866904727" lat="38.02778560498407"/>
+  <node id="-280" visible="true" lon="-84.40690860942479" lat="38.02778520638599"/>
+  <node id="-281" visible="true" lon="-84.40690856109920" lat="38.02778480598492"/>
+  <node id="-282" visible="true" lon="-84.40690852181424" lat="38.02778440557164"/>
+  <node id="-283" visible="true" lon="-84.40690848704956" lat="38.02778400515226"/>
+  <node id="-284" visible="true" lon="-84.40690846584191" lat="38.02778360292686"/>
+  <node id="-285" visible="true" lon="-84.40690845141854" lat="38.02778320248011"/>
+  <node id="-286" visible="true" lon="-84.40690844603193" lat="38.02778280023338"/>
+  <node id="-287" visible="true" lon="-84.40690844968590" lat="38.02778239797441"/>
+  <node id="-288" visible="true" lon="-84.40690846238428" lat="38.02778199749113"/>
+  <node id="-289" visible="true" lon="-84.40690848185929" lat="38.02778159521087"/>
+  <node id="-290" visible="true" lon="-84.40690851489902" lat="38.02778119470011"/>
+  <node id="-291" visible="true" lon="-84.40690855245903" lat="38.02778079418332"/>
+  <node id="-292" visible="true" lon="-84.40690859905963" lat="38.02778039365433"/>
+  <node id="-293" visible="true" lon="-84.40690865696487" lat="38.02777999489789"/>
+  <node id="-294" visible="true" lon="-84.40690872165048" lat="38.02777959613231"/>
+  <node id="-295" visible="true" lon="-84.40690879764071" lat="38.02777919913928"/>
+  <node id="-296" visible="true" lon="-84.40690888041134" lat="38.02777880213715"/>
+  <node id="-297" visible="true" lon="-84.40690897223031" lat="38.02777840869841"/>
+  <node id="-298" visible="true" lon="-84.40690907082586" lat="38.02777801346268"/>
+  <node id="-299" visible="true" lon="-84.40690918072985" lat="38.02777762178738"/>
+  <node id="-300" visible="true" lon="-84.40690929741422" lat="38.02777723010291"/>
+  <node id="-301" visible="true" lon="-84.40690942540706" lat="38.02777684197883"/>
+  <node id="-302" visible="true" lon="-84.40690956018034" lat="38.02777645384556"/>
+  <node id="-303" visible="true" lon="-84.40690970400195" lat="38.02777606927572"/>
+  <node id="-304" visible="true" lon="-84.40690985460783" lat="38.02777568648453"/>
+  <node id="-305" visible="true" lon="-84.40691001425428" lat="38.02777530368112"/>
+  <node id="-306" visible="true" lon="-84.40691018295284" lat="38.02777492622896"/>
+  <node id="-307" visible="true" lon="-84.40691036069205" lat="38.02777454876455"/>
+  <node id="-308" visible="true" lon="-84.40691054748333" lat="38.02777417665136"/>
+  <node id="-309" visible="true" lon="-84.40691073879496" lat="38.02777380453212"/>
+  <node id="-310" visible="true" lon="-84.40691094141499" lat="38.02777343597317"/>
+  <node id="-311" visible="true" lon="-84.40691115081931" lat="38.02777306919290"/>
+  <node id="-312" visible="true" lon="-84.40691136927575" lat="38.02777270776379"/>
+  <node id="-313" visible="true" lon="-84.40691159451652" lat="38.02777234811337"/>
+  <node id="-314" visible="true" lon="-84.40691182880168" lat="38.02777199023856"/>
+  <node id="-315" visible="true" lon="-84.40691206987505" lat="38.02777163593018"/>
+  <node id="-316" visible="true" lon="-84.40691232000052" lat="38.02777128697299"/>
+  <node id="-317" visible="true" lon="-84.40691257691024" lat="38.02777093979440"/>
+  <node id="-318" visible="true" lon="-84.40691284061197" lat="38.02777059797009"/>
+  <node id="-319" visible="true" lon="-84.40691311335813" lat="38.02777025792140"/>
+  <node id="-320" visible="true" lon="-84.40691339289631" lat="38.02776992322694"/>
+  <node id="-321" visible="true" lon="-84.40691367922263" lat="38.02776959209889"/>
+  <node id="-322" visible="true" lon="-84.40691397233701" lat="38.02776926453729"/>
+  <node id="-323" visible="true" lon="-84.40691427675991" lat="38.02776894053611"/>
+  <node id="-324" visible="true" lon="-84.40691458345449" lat="38.02776862189518"/>
+  <node id="-325" visible="true" lon="-84.40691489919732" lat="38.02776830681768"/>
+  <node id="-326" visible="true" lon="-84.40691522173221" lat="38.02776799709437"/>
+  <node id="-327" visible="true" lon="-84.40691555105518" lat="38.02776769093753"/>
+  <node id="-328" visible="true" lon="-84.40691588716625" lat="38.02776738834718"/>
+  <node id="-329" visible="true" lon="-84.40691623007325" lat="38.02776709289879"/>
+  <node id="-330" visible="true" lon="-84.40691657750817" lat="38.02776680101988"/>
+  <node id="-331" visible="true" lon="-84.40691693399528" lat="38.02776651449220"/>
+  <node id="-332" visible="true" lon="-84.40691729501032" lat="38.02776623153399"/>
+  <node id="-333" visible="true" lon="-84.40691766282124" lat="38.02776595571779"/>
+  <node id="-334" visible="true" lon="-84.40691803742034" lat="38.02776568346807"/>
+  <node id="-335" visible="true" lon="-84.40691841655124" lat="38.02776541657561"/>
+  <node id="-336" visible="true" lon="-84.40691880247412" lat="38.02776515503735"/>
+  <node id="-337" visible="true" lon="-84.40691919292883" lat="38.02776489885640"/>
+  <node id="-338" visible="true" lon="-84.40691959017553" lat="38.02776464802970"/>
+  <node id="-339" visible="true" lon="-84.40691999195408" lat="38.02776440256022"/>
+  <node id="-340" visible="true" lon="-84.40692040052851" lat="38.02776416423282"/>
+  <node id="-341" visible="true" lon="-84.40692081363090" lat="38.02776392947486"/>
+  <node id="-342" visible="true" lon="-84.40692123126897" lat="38.02776370186204"/>
+  <node id="-343" visible="true" lon="-84.40692165343891" lat="38.02776347960644"/>
+  <node id="-344" visible="true" lon="-84.40692208240080" lat="38.02776326270504"/>
+  <node id="-345" visible="true" lon="-84.40692251589840" lat="38.02776305294875"/>
+  <node id="-346" visible="true" lon="-84.40692295166772" lat="38.02776284855280"/>
+  <node id="-347" visible="true" lon="-84.40692339422903" lat="38.02776264951106"/>
+  <node id="-348" visible="true" lon="-84.40692383906585" lat="38.02776245761745"/>
+  <node id="-349" visible="true" lon="-84.40692428843457" lat="38.02776227108113"/>
+  <node id="-350" visible="true" lon="-84.40692474233893" lat="38.02776209168983"/>
+  <node id="-351" visible="true" lon="-84.40692520077513" lat="38.02776191765583"/>
+  <node id="-352" visible="true" lon="-84.40692566148689" lat="38.02776175076996"/>
+  <node id="-353" visible="true" lon="-84.40692612899451" lat="38.02776159102611"/>
+  <node id="-354" visible="true" lon="-84.40692659650983" lat="38.02776143485780"/>
+  <node id="-355" visible="true" lon="-84.40692706856467" lat="38.02776128762238"/>
+  <node id="-356" visible="true" lon="-84.40692754515139" lat="38.02776114574425"/>
+  <node id="-357" visible="true" lon="-84.40692802401745" lat="38.02776101280197"/>
+  <node id="-358" visible="true" lon="-84.40692850515140" lat="38.02776088343226"/>
+  <node id="-359" visible="true" lon="-84.40692898856476" lat="38.02776076299848"/>
+  <node id="-360" visible="true" lon="-84.40692947650993" lat="38.02776064792196"/>
+  <node id="-361" visible="true" lon="-84.40692996447052" lat="38.02776053999656"/>
+  <node id="-362" visible="true" lon="-84.40693045696680" lat="38.02776043921629"/>
+  <node id="-363" visible="true" lon="-84.40693094947464" lat="38.02776034379933"/>
+  <node id="-364" visible="true" lon="-84.40693144425805" lat="38.02776025553052"/>
+  <node id="-365" visible="true" lon="-84.40693194357711" lat="38.02776017440677"/>
+  <node id="-366" visible="true" lon="-84.40693244065530" lat="38.02776010222502"/>
+  <node id="-367" visible="true" lon="-84.40693294226148" lat="38.02776003361274"/>
+  <node id="-368" visible="true" lon="-84.40693344388690" lat="38.02775997393942"/>
+  <node id="-369" visible="true" lon="-84.40693394778786" lat="38.02775992141419"/>
+  <node id="-370" visible="true" lon="-84.40693423476870" lat="38.02775989421046"/>
+  <way id="-4" visible="true">
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-23"/>
+    <nd ref="-24"/>
+    <nd ref="-25"/>
+    <nd ref="-26"/>
+    <nd ref="-27"/>
+    <nd ref="-28"/>
+    <nd ref="-29"/>
+    <nd ref="-30"/>
+    <nd ref="-31"/>
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-36"/>
+    <nd ref="-37"/>
+    <nd ref="-38"/>
+    <nd ref="-39"/>
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-42"/>
+    <nd ref="-43"/>
+    <nd ref="-44"/>
+    <nd ref="-45"/>
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-48"/>
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-55"/>
+    <nd ref="-56"/>
+    <nd ref="-57"/>
+    <nd ref="-58"/>
+    <nd ref="-59"/>
+    <nd ref="-60"/>
+    <nd ref="-61"/>
+    <nd ref="-62"/>
+    <nd ref="-63"/>
+    <nd ref="-64"/>
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-68"/>
+    <nd ref="-69"/>
+    <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-72"/>
+    <nd ref="-73"/>
+    <nd ref="-74"/>
+    <nd ref="-75"/>
+    <nd ref="-76"/>
+    <nd ref="-77"/>
+    <nd ref="-78"/>
+    <nd ref="-79"/>
+    <nd ref="-80"/>
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-84"/>
+    <nd ref="-85"/>
+    <nd ref="-86"/>
+    <nd ref="-87"/>
+    <nd ref="-88"/>
+    <nd ref="-89"/>
+    <nd ref="-90"/>
+    <nd ref="-91"/>
+    <nd ref="-92"/>
+    <nd ref="-93"/>
+    <nd ref="-94"/>
+    <nd ref="-95"/>
+    <nd ref="-96"/>
+    <nd ref="-97"/>
+    <nd ref="-98"/>
+    <nd ref="-99"/>
+    <nd ref="-100"/>
+    <nd ref="-101"/>
+    <nd ref="-102"/>
+    <nd ref="-103"/>
+    <nd ref="-104"/>
+    <nd ref="-105"/>
+    <nd ref="-106"/>
+    <nd ref="-107"/>
+    <nd ref="-108"/>
+    <nd ref="-109"/>
+    <nd ref="-110"/>
+    <nd ref="-111"/>
+    <nd ref="-112"/>
+    <nd ref="-113"/>
+    <nd ref="-114"/>
+    <nd ref="-115"/>
+    <nd ref="-116"/>
+    <nd ref="-117"/>
+    <nd ref="-118"/>
+    <nd ref="-119"/>
+    <nd ref="-120"/>
+    <nd ref="-121"/>
+    <nd ref="-122"/>
+    <nd ref="-123"/>
+    <nd ref="-124"/>
+    <nd ref="-125"/>
+    <nd ref="-126"/>
+    <nd ref="-127"/>
+    <nd ref="-128"/>
+    <nd ref="-129"/>
+    <nd ref="-130"/>
+    <nd ref="-131"/>
+    <nd ref="-132"/>
+    <nd ref="-133"/>
+    <nd ref="-134"/>
+    <nd ref="-135"/>
+    <nd ref="-136"/>
+    <nd ref="-137"/>
+    <nd ref="-138"/>
+    <nd ref="-139"/>
+    <nd ref="-140"/>
+    <nd ref="-141"/>
+    <nd ref="-142"/>
+    <nd ref="-143"/>
+    <nd ref="-144"/>
+    <nd ref="-145"/>
+    <nd ref="-146"/>
+    <nd ref="-147"/>
+    <nd ref="-148"/>
+    <nd ref="-149"/>
+    <nd ref="-150"/>
+    <nd ref="-151"/>
+    <nd ref="-152"/>
+    <nd ref="-153"/>
+    <nd ref="-154"/>
+    <nd ref="-155"/>
+    <nd ref="-156"/>
+    <nd ref="-157"/>
+    <nd ref="-158"/>
+    <nd ref="-159"/>
+    <nd ref="-160"/>
+    <nd ref="-161"/>
+    <nd ref="-162"/>
+    <nd ref="-163"/>
+    <nd ref="-164"/>
+    <nd ref="-165"/>
+    <nd ref="-166"/>
+    <nd ref="-167"/>
+    <nd ref="-168"/>
+    <nd ref="-169"/>
+    <nd ref="-170"/>
+    <nd ref="-171"/>
+    <nd ref="-172"/>
+    <nd ref="-173"/>
+    <nd ref="-174"/>
+    <nd ref="-175"/>
+    <nd ref="-176"/>
+    <nd ref="-177"/>
+    <nd ref="-178"/>
+    <nd ref="-179"/>
+    <nd ref="-180"/>
+    <nd ref="-181"/>
+    <nd ref="-182"/>
+    <nd ref="-183"/>
+    <nd ref="-184"/>
+    <nd ref="-185"/>
+    <nd ref="-186"/>
+    <nd ref="-187"/>
+    <nd ref="-188"/>
+    <nd ref="-189"/>
+    <nd ref="-190"/>
+    <nd ref="-191"/>
+    <nd ref="-192"/>
+    <nd ref="-193"/>
+    <nd ref="-194"/>
+    <nd ref="-195"/>
+    <nd ref="-196"/>
+    <nd ref="-197"/>
+    <nd ref="-198"/>
+    <nd ref="-199"/>
+    <nd ref="-200"/>
+    <nd ref="-201"/>
+    <nd ref="-202"/>
+    <nd ref="-203"/>
+    <nd ref="-204"/>
+    <nd ref="-205"/>
+    <nd ref="-206"/>
+    <nd ref="-207"/>
+    <nd ref="-208"/>
+    <nd ref="-209"/>
+    <nd ref="-210"/>
+    <nd ref="-211"/>
+    <nd ref="-212"/>
+    <nd ref="-213"/>
+    <nd ref="-214"/>
+    <nd ref="-215"/>
+    <nd ref="-216"/>
+    <nd ref="-217"/>
+    <nd ref="-218"/>
+    <nd ref="-219"/>
+    <nd ref="-220"/>
+    <nd ref="-221"/>
+    <nd ref="-222"/>
+    <nd ref="-223"/>
+    <nd ref="-224"/>
+    <nd ref="-225"/>
+    <nd ref="-226"/>
+    <nd ref="-227"/>
+    <nd ref="-228"/>
+    <nd ref="-229"/>
+    <nd ref="-230"/>
+    <nd ref="-231"/>
+    <nd ref="-232"/>
+    <nd ref="-233"/>
+    <nd ref="-234"/>
+    <nd ref="-235"/>
+    <nd ref="-236"/>
+    <nd ref="-237"/>
+    <nd ref="-238"/>
+    <nd ref="-239"/>
+    <nd ref="-240"/>
+    <nd ref="-241"/>
+    <nd ref="-242"/>
+    <nd ref="-243"/>
+    <nd ref="-244"/>
+    <nd ref="-245"/>
+    <nd ref="-246"/>
+    <nd ref="-247"/>
+    <nd ref="-248"/>
+    <nd ref="-249"/>
+    <nd ref="-250"/>
+    <nd ref="-251"/>
+    <nd ref="-252"/>
+    <nd ref="-253"/>
+    <nd ref="-254"/>
+    <nd ref="-255"/>
+    <nd ref="-256"/>
+    <nd ref="-257"/>
+    <nd ref="-258"/>
+    <nd ref="-259"/>
+    <nd ref="-260"/>
+    <nd ref="-261"/>
+    <nd ref="-262"/>
+    <nd ref="-263"/>
+    <nd ref="-264"/>
+    <nd ref="-265"/>
+    <nd ref="-266"/>
+    <nd ref="-267"/>
+    <nd ref="-268"/>
+    <nd ref="-269"/>
+    <nd ref="-270"/>
+    <nd ref="-271"/>
+    <nd ref="-272"/>
+    <nd ref="-273"/>
+    <nd ref="-274"/>
+    <nd ref="-275"/>
+    <nd ref="-276"/>
+    <nd ref="-277"/>
+    <nd ref="-278"/>
+    <nd ref="-279"/>
+    <nd ref="-280"/>
+    <nd ref="-281"/>
+    <nd ref="-282"/>
+    <nd ref="-283"/>
+    <nd ref="-284"/>
+    <nd ref="-285"/>
+    <nd ref="-286"/>
+    <nd ref="-287"/>
+    <nd ref="-288"/>
+    <nd ref="-289"/>
+    <nd ref="-290"/>
+    <nd ref="-291"/>
+    <nd ref="-292"/>
+    <nd ref="-293"/>
+    <nd ref="-294"/>
+    <nd ref="-295"/>
+    <nd ref="-296"/>
+    <nd ref="-297"/>
+    <nd ref="-298"/>
+    <nd ref="-299"/>
+    <nd ref="-300"/>
+    <nd ref="-301"/>
+    <nd ref="-302"/>
+    <nd ref="-303"/>
+    <nd ref="-304"/>
+    <nd ref="-305"/>
+    <nd ref="-306"/>
+    <nd ref="-307"/>
+    <nd ref="-308"/>
+    <nd ref="-309"/>
+    <nd ref="-310"/>
+    <nd ref="-311"/>
+    <nd ref="-312"/>
+    <nd ref="-313"/>
+    <nd ref="-314"/>
+    <nd ref="-315"/>
+    <nd ref="-316"/>
+    <nd ref="-317"/>
+    <nd ref="-318"/>
+    <nd ref="-319"/>
+    <nd ref="-320"/>
+    <nd ref="-321"/>
+    <nd ref="-322"/>
+    <nd ref="-323"/>
+    <nd ref="-324"/>
+    <nd ref="-325"/>
+    <nd ref="-326"/>
+    <nd ref="-327"/>
+    <nd ref="-328"/>
+    <nd ref="-329"/>
+    <nd ref="-330"/>
+    <nd ref="-331"/>
+    <nd ref="-332"/>
+    <nd ref="-333"/>
+    <nd ref="-334"/>
+    <nd ref="-335"/>
+    <nd ref="-336"/>
+    <nd ref="-337"/>
+    <nd ref="-338"/>
+    <nd ref="-339"/>
+    <nd ref="-340"/>
+    <nd ref="-341"/>
+    <nd ref="-342"/>
+    <nd ref="-343"/>
+    <nd ref="-344"/>
+    <nd ref="-345"/>
+    <nd ref="-346"/>
+    <nd ref="-347"/>
+    <nd ref="-348"/>
+    <nd ref="-349"/>
+    <nd ref="-350"/>
+    <nd ref="-351"/>
+    <nd ref="-352"/>
+    <nd ref="-353"/>
+    <nd ref="-354"/>
+    <nd ref="-355"/>
+    <nd ref="-356"/>
+    <nd ref="-357"/>
+    <nd ref="-358"/>
+    <nd ref="-359"/>
+    <nd ref="-360"/>
+    <nd ref="-361"/>
+    <nd ref="-362"/>
+    <nd ref="-363"/>
+    <nd ref="-364"/>
+    <nd ref="-365"/>
+    <nd ref="-366"/>
+    <nd ref="-367"/>
+    <nd ref="-368"/>
+    <nd ref="-369"/>
+    <nd ref="-370"/>
+    <nd ref="-10"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-371" visible="true" lon="-84.40612870887327" lat="38.02842406507559"/>
+  <node id="-372" visible="true" lon="-84.40619809181102" lat="38.02840093270331"/>
+  <node id="-373" visible="true" lon="-84.40621116300777" lat="38.02842546517608"/>
+  <node id="-374" visible="true" lon="-84.40623412801671" lat="38.02841780047850"/>
+  <node id="-375" visible="true" lon="-84.40626710337989" lat="38.02847970691866"/>
+  <node id="-376" visible="true" lon="-84.40621567141682" lat="38.02849684580150"/>
+  <node id="-377" visible="true" lon="-84.40619739061128" lat="38.02850293631535"/>
+  <node id="-378" visible="true" lon="-84.40618072242179" lat="38.02850849190033"/>
+  <node id="-379" visible="true" lon="-84.40620268025272" lat="38.02854970688835"/>
+  <node id="-380" visible="true" lon="-84.40608788646288" lat="38.02858797662361"/>
+  <node id="-381" visible="true" lon="-84.40606369567368" lat="38.02854256149973"/>
+  <node id="-382" visible="true" lon="-84.40608229042272" lat="38.02853635795498"/>
+  <node id="-383" visible="true" lon="-84.40605147789702" lat="38.02847854082805"/>
+  <node id="-384" visible="true" lon="-84.40614170969056" lat="38.02844845999024"/>
+  <way id="-5" visible="true">
+    <nd ref="-371"/>
+    <nd ref="-372"/>
+    <nd ref="-373"/>
+    <nd ref="-374"/>
+    <nd ref="-375"/>
+    <nd ref="-376"/>
+    <nd ref="-377"/>
+    <nd ref="-378"/>
+    <nd ref="-379"/>
+    <nd ref="-380"/>
+    <nd ref="-381"/>
+    <nd ref="-382"/>
+    <nd ref="-383"/>
+    <nd ref="-384"/>
+    <nd ref="-371"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:housenumber" v="6435"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Man O War Boulevard"/>
+  </way>
+  <node id="-385" visible="true" lon="-84.40581290594007" lat="38.02803296087546"/>
+  <node id="-386" visible="true" lon="-84.40581389581531" lat="38.02803292558276"/>
+  <node id="-387" visible="true" lon="-84.40581488571731" lat="38.02803290280459"/>
+  <node id="-388" visible="true" lon="-84.40581587564989" lat="38.02803289432875"/>
+  <node id="-389" visible="true" lon="-84.40581686787318" lat="38.02803290015214"/>
+  <node id="-390" visible="true" lon="-84.40581785786695" lat="38.02803292028092"/>
+  <node id="-391" visible="true" lon="-84.40581884788749" lat="38.02803295292421"/>
+  <node id="-392" visible="true" lon="-84.40581983567847" lat="38.02803299987283"/>
+  <node id="-393" visible="true" lon="-84.40582082349617" lat="38.02803305933601"/>
+  <node id="-394" visible="true" lon="-84.40582181134450" lat="38.02803313310147"/>
+  <node id="-395" visible="true" lon="-84.40582279470308" lat="38.02803322117531"/>
+  <node id="-396" visible="true" lon="-84.40582377808846" lat="38.02803332176364"/>
+  <node id="-397" visible="true" lon="-84.40582475698412" lat="38.02803343666035"/>
+  <node id="-398" visible="true" lon="-84.40582573364640" lat="38.02803356407464"/>
+  <node id="-399" visible="true" lon="-84.40582671033924" lat="38.02803370579125"/>
+  <node id="-400" visible="true" lon="-84.40582768027839" lat="38.02803386003144"/>
+  <node id="-401" visible="true" lon="-84.40582864798802" lat="38.02803402857695"/>
+  <node id="-402" visible="true" lon="-84.40582961120406" lat="38.02803420964303"/>
+  <node id="-403" visible="true" lon="-84.40583057219064" lat="38.02803440501447"/>
+  <node id="-404" visible="true" lon="-84.40583152642725" lat="38.02803461469730"/>
+  <node id="-405" visible="true" lon="-84.40583247616651" lat="38.02803483511293"/>
+  <node id="-406" visible="true" lon="-84.40583342141612" lat="38.02803506983690"/>
+  <node id="-407" visible="true" lon="-84.40583436217211" lat="38.02803531708140"/>
+  <node id="-408" visible="true" lon="-84.40583529617444" lat="38.02803557684960"/>
+  <node id="-409" visible="true" lon="-84.40583622568326" lat="38.02803584913831"/>
+  <node id="-410" visible="true" lon="-84.40583714618208" lat="38.02803613574145"/>
+  <node id="-411" visible="true" lon="-84.40583806218733" lat="38.02803643486517"/>
+  <node id="-412" visible="true" lon="-84.40583897369902" lat="38.02803674650946"/>
+  <node id="-413" visible="true" lon="-84.40583987393293" lat="38.02803706889561"/>
+  <node id="-414" visible="true" lon="-84.40584076967713" lat="38.02803740559010"/>
+  <node id="-415" visible="true" lon="-84.40584165640745" lat="38.02803775481127"/>
+  <node id="-416" visible="true" lon="-84.40584253638026" lat="38.02803811476822"/>
+  <node id="-417" visible="true" lon="-84.40584340734311" lat="38.02803848903960"/>
+  <node id="-418" visible="true" lon="-84.40584427154458" lat="38.02803887225896"/>
+  <node id="-419" visible="true" lon="-84.40584512447205" lat="38.02803926800801"/>
+  <node id="-420" visible="true" lon="-84.40584597064966" lat="38.02803967806842"/>
+  <node id="-421" visible="true" lon="-84.40584680780579" lat="38.02804009707990"/>
+  <node id="-422" visible="true" lon="-84.40584763368791" lat="38.02804052862103"/>
+  <node id="-423" visible="true" lon="-84.40584845055241" lat="38.02804097090103"/>
+  <node id="-424" visible="true" lon="-84.40584925840304" lat="38.02804142570761"/>
+  <node id="-425" visible="true" lon="-84.40585005723216" lat="38.02804188946525"/>
+  <node id="-426" visible="true" lon="-84.40585084478730" lat="38.02804236575253"/>
+  <node id="-427" visible="true" lon="-84.40585161880446" lat="38.02804285278473"/>
+  <node id="-428" visible="true" lon="-84.40585238606411" lat="38.02804335055272"/>
+  <node id="-429" visible="true" lon="-84.40585313978580" lat="38.02804385906558"/>
+  <node id="-430" visible="true" lon="-84.40585388222586" lat="38.02804437653254"/>
+  <node id="-431" visible="true" lon="-84.40585461565206" lat="38.02804490652609"/>
+  <node id="-432" visible="true" lon="-84.40585533553264" lat="38.02804544368903"/>
+  <node id="-433" visible="true" lon="-84.40585604187527" lat="38.02804599159683"/>
+  <node id="-434" visible="true" lon="-84.40585673694005" lat="38.02804655024644"/>
+  <node id="-435" visible="true" lon="-84.40585742072317" lat="38.02804711785014"/>
+  <node id="-436" visible="true" lon="-84.40585809096451" lat="38.02804769441100"/>
+  <node id="-437" visible="true" lon="-84.40585874766410" lat="38.02804827992888"/>
+  <node id="-438" visible="true" lon="-84.40585939308198" lat="38.02804887440087"/>
+  <node id="-439" visible="true" lon="-84.40586002496191" lat="38.02804947961776"/>
+  <node id="-440" visible="true" lon="-84.40586064329622" lat="38.02805009200396"/>
+  <node id="-441" visible="true" lon="-84.40586124808873" lat="38.02805071334727"/>
+  <node id="-442" visible="true" lon="-84.40586183707542" lat="38.02805134186291"/>
+  <node id="-443" visible="true" lon="-84.40586241478050" lat="38.02805197933260"/>
+  <node id="-444" visible="true" lon="-84.40586297667978" lat="38.02805262397462"/>
+  <node id="-445" visible="true" lon="-84.40586352503732" lat="38.02805327757377"/>
+  <node id="-446" visible="true" lon="-84.40586405984536" lat="38.02805393655443"/>
+  <node id="-447" visible="true" lon="-84.40586457885145" lat="38.02805460449525"/>
+  <node id="-448" visible="true" lon="-84.40586508204794" lat="38.02805527782058"/>
+  <node id="-449" visible="true" lon="-84.40586557170263" lat="38.02805596010302"/>
+  <node id="-450" visible="true" lon="-84.40586604554770" lat="38.02805664776998"/>
+  <node id="-451" visible="true" lon="-84.40586650584714" lat="38.02805734260633"/>
+  <node id="-452" visible="true" lon="-84.40586694808064" lat="38.02805804461796"/>
+  <node id="-453" visible="true" lon="-84.40586737676090" lat="38.02805875022336"/>
+  <node id="-454" visible="true" lon="-84.40586778737519" lat="38.02805946300409"/>
+  <node id="-455" visible="true" lon="-84.40586818444005" lat="38.02806018116638"/>
+  <node id="-456" visible="true" lon="-84.40586856569531" lat="38.02806090471320"/>
+  <node id="-457" visible="true" lon="-84.40586893114092" lat="38.02806163364461"/>
+  <node id="-458" visible="true" lon="-84.40586927851297" lat="38.02806236617573"/>
+  <node id="-459" visible="true" lon="-84.40586961233937" lat="38.02806310587621"/>
+  <node id="-460" visible="true" lon="-84.40586992808839" lat="38.02806384738869"/>
+  <node id="-461" visible="true" lon="-84.40587022576760" lat="38.02806459428874"/>
+  <node id="-462" visible="true" lon="-84.40587050989350" lat="38.02806534478251"/>
+  <node id="-463" visible="true" lon="-84.40587077594972" lat="38.02806610066386"/>
+  <node id="-464" visible="true" lon="-84.40587102618865" lat="38.02806685835414"/>
+  <node id="-465" visible="true" lon="-84.40587125835398" lat="38.02806761964425"/>
+  <node id="-466" visible="true" lon="-84.40587147470586" lat="38.02806838453112"/>
+  <node id="-467" visible="true" lon="-84.40587167298415" lat="38.02806915301775"/>
+  <node id="-468" visible="true" lon="-84.40587185544517" lat="38.02806992331339"/>
+  <node id="-469" visible="true" lon="-84.40587202208897" lat="38.02807069541797"/>
+  <node id="-470" visible="true" lon="-84.40587217065909" lat="38.02807147112232"/>
+  <node id="-471" visible="true" lon="-84.40587229888790" lat="38.02807224685389"/>
+  <node id="-472" visible="true" lon="-84.40587241356339" lat="38.02807302617925"/>
+  <node id="-473" visible="true" lon="-84.40587251015762" lat="38.02807380552880"/>
+  <node id="-474" visible="true" lon="-84.40587258867444" lat="38.02807458669032"/>
+  <node id="-475" visible="true" lon="-84.40587265363412" lat="38.02807536965777"/>
+  <node id="-476" visible="true" lon="-84.40587269824860" lat="38.02807615086468"/>
+  <node id="-477" visible="true" lon="-84.40587272478945" lat="38.02807693567139"/>
+  <node id="-478" visible="true" lon="-84.40587273550543" lat="38.02807771871148"/>
+  <node id="-479" visible="true" lon="-84.40587272814010" lat="38.02807850177576"/>
+  <node id="-480" visible="true" lon="-84.40587270495374" lat="38.02807928486123"/>
+  <node id="-481" visible="true" lon="-84.40587266368607" lat="38.02808006797091"/>
+  <node id="-482" visible="true" lon="-84.40587260207704" lat="38.02808085110782"/>
+  <node id="-483" visible="true" lon="-84.40587252690320" lat="38.02808163247504"/>
+  <node id="-484" visible="true" lon="-84.40587243364432" lat="38.02808241207875"/>
+  <node id="-485" visible="true" lon="-84.40587232230035" lat="38.02808318991885"/>
+  <node id="-486" visible="true" lon="-84.40587219739540" lat="38.02808396777708"/>
+  <node id="-487" visible="true" lon="-84.40587205214524" lat="38.02808474387476"/>
+  <node id="-488" visible="true" lon="-84.40587188880619" lat="38.02808551642104"/>
+  <node id="-489" visible="true" lon="-84.40587170964221" lat="38.02808628720076"/>
+  <node id="-490" visible="true" lon="-84.40587151464948" lat="38.02808705442606"/>
+  <node id="-491" visible="true" lon="-84.40587130157550" lat="38.02808782167556"/>
+  <node id="-492" visible="true" lon="-84.40587107266894" lat="38.02808858358287"/>
+  <node id="-493" visible="true" lon="-84.40587082567342" lat="38.02808934193878"/>
+  <node id="-494" visible="true" lon="-84.40587056285300" lat="38.02809009852810"/>
+  <node id="-495" visible="true" lon="-84.40587028193990" lat="38.02809084977824"/>
+  <node id="-496" visible="true" lon="-84.40586998745817" lat="38.02809159747097"/>
+  <node id="-497" visible="true" lon="-84.40586967488369" lat="38.02809233982452"/>
+  <node id="-498" visible="true" lon="-84.40586934422413" lat="38.02809308041449"/>
+  <node id="-499" visible="true" lon="-84.40586899998833" lat="38.02809381387142"/>
+  <node id="-500" visible="true" lon="-84.40586863766363" lat="38.02809454377701"/>
+  <node id="-501" visible="true" lon="-84.40586825950633" lat="38.02809526834039"/>
+  <node id="-502" visible="true" lon="-84.40586786551646" lat="38.02809598756156"/>
+  <node id="-503" visible="true" lon="-84.40586745795413" lat="38.02809670143755"/>
+  <node id="-504" visible="true" lon="-84.40586703229907" lat="38.02809740997434"/>
+  <node id="-505" visible="true" lon="-84.40586659306781" lat="38.02809811137813"/>
+  <node id="-506" visible="true" lon="-84.40586613574379" lat="38.02809880744275"/>
+  <node id="-507" visible="true" lon="-84.40586566484353" lat="38.02809949637434"/>
+  <node id="-508" visible="true" lon="-84.40586517810684" lat="38.02810017817598"/>
+  <node id="-509" visible="true" lon="-84.40586467779774" lat="38.02810085463236"/>
+  <node id="-510" visible="true" lon="-84.40586416165220" lat="38.02810152395880"/>
+  <node id="-511" visible="true" lon="-84.40586362966647" lat="38.02810218436744"/>
+  <node id="-512" visible="true" lon="-84.40586308410825" lat="38.02810283943086"/>
+  <node id="-513" visible="true" lon="-84.40586252497002" lat="38.02810348557346"/>
+  <node id="-514" visible="true" lon="-84.40586194999536" lat="38.02810412458609"/>
+  <node id="-515" visible="true" lon="-84.40586136370081" lat="38.02810475467489"/>
+  <node id="-516" visible="true" lon="-84.40586076156980" lat="38.02810537763371"/>
+  <node id="-517" visible="true" lon="-84.40586014585872" lat="38.02810599167174"/>
+  <node id="-518" visible="true" lon="-84.40585951656760" lat="38.02810659678891"/>
+  <node id="-519" visible="true" lon="-84.40585887370020" lat="38.02810719477313"/>
+  <node id="-520" visible="true" lon="-84.40585821950901" lat="38.02810778204569"/>
+  <node id="-521" visible="true" lon="-84.40585755173780" lat="38.02810836039747"/>
+  <node id="-522" visible="true" lon="-84.40585687038653" lat="38.02810892982843"/>
+  <node id="-523" visible="true" lon="-84.40585617771529" lat="38.02810949033556"/>
+  <node id="-524" visible="true" lon="-84.40585547372034" lat="38.02811004013106"/>
+  <node id="-525" visible="true" lon="-84.40585475614529" lat="38.02811058100576"/>
+  <node id="-526" visible="true" lon="-84.40585402498634" lat="38.02811111117190"/>
+  <node id="-527" visible="true" lon="-84.40585328476381" lat="38.02811163062336"/>
+  <node id="-528" visible="true" lon="-84.40585253322135" lat="38.02811214115098"/>
+  <node id="-529" visible="true" lon="-84.40585176809502" lat="38.02811264097004"/>
+  <node id="-530" visible="true" lon="-84.40585099616523" lat="38.02811313007139"/>
+  <node id="-531" visible="true" lon="-84.40585021064773" lat="38.02811360667638"/>
+  <node id="-532" visible="true" lon="-84.40584941381032" lat="38.02811407435752"/>
+  <node id="-533" visible="true" lon="-84.40584860790931" lat="38.02811453132402"/>
+  <node id="-534" visible="true" lon="-84.40584779294088" lat="38.02811497578812"/>
+  <node id="-535" visible="true" lon="-84.40584696890886" lat="38.02811540953751"/>
+  <node id="-536" visible="true" lon="-84.40584613354929" lat="38.02811583078753"/>
+  <node id="-537" visible="true" lon="-84.40584528912613" lat="38.02811624132288"/>
+  <node id="-538" visible="true" lon="-84.40584443789957" lat="38.02811664114054"/>
+  <node id="-539" visible="true" lon="-84.40584357534540" lat="38.02811702845881"/>
+  <node id="-540" visible="true" lon="-84.40584270598399" lat="38.02811740327162"/>
+  <node id="-541" visible="true" lon="-84.40584182755516" lat="38.02811776558197"/>
+  <node id="-542" visible="true" lon="-84.40584094232295" lat="38.02811811717469"/>
+  <node id="-543" visible="true" lon="-84.40584004801947" lat="38.02811845447713"/>
+  <node id="-544" visible="true" lon="-84.40583914917268" lat="38.02811878105889"/>
+  <node id="-545" visible="true" lon="-84.40583823899843" lat="38.02811909514124"/>
+  <node id="-546" visible="true" lon="-84.40583732427703" lat="38.02811939671510"/>
+  <node id="-547" visible="true" lon="-84.40583642307449" lat="38.02811967860511"/>
+  <node id="-548" visible="true" lon="-84.40583547666878" lat="38.02811996055556"/>
+  <node id="-549" visible="true" lon="-84.40583454378198" lat="38.02812022282225"/>
+  <node id="-550" visible="true" lon="-84.40583360408793" lat="38.02812047258340"/>
+  <node id="-551" visible="true" lon="-84.40583265984678" lat="38.02812070983607"/>
+  <node id="-552" visible="true" lon="-84.40583171105855" lat="38.02812093458031"/>
+  <node id="-553" visible="true" lon="-84.40583075771941" lat="38.02812114502820"/>
+  <node id="-554" visible="true" lon="-84.40582979756914" lat="38.02812134118285"/>
+  <node id="-555" visible="true" lon="-84.40582883513582" lat="38.02812152661381"/>
+  <node id="-556" visible="true" lon="-84.40582786814777" lat="38.02812169596069"/>
+  <node id="-557" visible="true" lon="-84.40582689887661" lat="38.02812185458379"/>
+  <node id="-558" visible="true" lon="-84.40582592279438" lat="38.02812199891369"/>
+  <node id="-559" visible="true" lon="-84.40582494668155" lat="38.02812212894124"/>
+  <node id="-560" visible="true" lon="-84.40582396828175" lat="38.02812224645726"/>
+  <node id="-561" visible="true" lon="-84.40582298533110" lat="38.02812234967701"/>
+  <node id="-562" visible="true" lon="-84.40582200235369" lat="38.02812244038220"/>
+  <node id="-563" visible="true" lon="-84.40582101482535" lat="38.02812251679111"/>
+  <node id="-564" visible="true" lon="-84.40582002726643" lat="38.02812257889772"/>
+  <node id="-565" visible="true" lon="-84.40581903968071" lat="38.02812262848977"/>
+  <node id="-566" visible="true" lon="-84.40581804980425" lat="38.02812266378255"/>
+  <node id="-567" visible="true" lon="-84.40581705990104" lat="38.02812268656074"/>
+  <node id="-568" visible="true" lon="-84.40581606770330" lat="38.02812269325184"/>
+  <node id="-569" visible="true" lon="-84.40581507774272" lat="38.02812268921318"/>
+  <node id="-570" visible="true" lon="-84.40581408774776" lat="38.02812266908442"/>
+  <node id="-571" visible="true" lon="-84.40581309772600" lat="38.02812263644105"/>
+  <node id="-572" visible="true" lon="-84.40581210993378" lat="38.02812258949236"/>
+  <node id="-573" visible="true" lon="-84.40581112211488" lat="38.02812253002912"/>
+  <node id="-574" visible="true" lon="-84.40581013426537" lat="38.02812245626355"/>
+  <node id="-575" visible="true" lon="-84.40580915090558" lat="38.02812236818961"/>
+  <node id="-576" visible="true" lon="-84.40580816751903" lat="38.02812226760116"/>
+  <node id="-577" visible="true" lon="-84.40580718862219" lat="38.02812215270428"/>
+  <node id="-578" visible="true" lon="-84.40580620969860" lat="38.02812202529290"/>
+  <node id="-579" visible="true" lon="-84.40580523526475" lat="38.02812188357310"/>
+  <node id="-580" visible="true" lon="-84.40580426532065" lat="38.02812172754498"/>
+  <node id="-581" visible="true" lon="-84.40580329761376" lat="38.02812156078701"/>
+  <node id="-582" visible="true" lon="-84.40580233439280" lat="38.02812137793291"/>
+  <node id="-583" visible="true" lon="-84.40580137566916" lat="38.02812118434604"/>
+  <node id="-584" visible="true" lon="-84.40580041917515" lat="38.02812097645374"/>
+  <node id="-585" visible="true" lon="-84.40579946717085" lat="38.02812075425310"/>
+  <node id="-586" visible="true" lon="-84.40579852418044" lat="38.02812051952581"/>
+  <node id="-587" visible="true" lon="-84.40579758342345" lat="38.02812027228101"/>
+  <node id="-588" visible="true" lon="-84.40579664942017" lat="38.02812001251254"/>
+  <node id="-589" visible="true" lon="-84.40579570181384" lat="38.02811973309655"/>
+  <node id="-590" visible="true" lon="-84.40579479715061" lat="38.02811945362306"/>
+  <node id="-591" visible="true" lon="-84.40579388114449" lat="38.02811915449902"/>
+  <node id="-592" visible="true" lon="-84.40579297415222" lat="38.02811884284830"/>
+  <node id="-593" visible="true" lon="-84.40579206939341" lat="38.02811851868005"/>
+  <node id="-594" visible="true" lon="-84.40579117591241" lat="38.02811818376995"/>
+  <node id="-595" visible="true" lon="-84.40579028918134" lat="38.02811783454842"/>
+  <node id="-596" visible="true" lon="-84.40578940920780" lat="38.02811747459108"/>
+  <node id="-597" visible="true" lon="-84.40578853824815" lat="38.02811710210710"/>
+  <node id="-598" visible="true" lon="-84.40578767404219" lat="38.02811671709950"/>
+  <node id="-599" visible="true" lon="-84.40578681885013" lat="38.02811631956526"/>
+  <node id="-600" visible="true" lon="-84.40578597493597" lat="38.02811591128921"/>
+  <node id="-601" visible="true" lon="-84.40578513777929" lat="38.02811549227726"/>
+  <node id="-602" visible="true" lon="-84.40578431189671" lat="38.02811506073572"/>
+  <node id="-603" visible="true" lon="-84.40578349277160" lat="38.02811461845828"/>
+  <node id="-604" visible="true" lon="-84.40578268492058" lat="38.02811416365123"/>
+  <node id="-605" visible="true" lon="-84.40578188834743" lat="38.02811369810236"/>
+  <node id="-606" visible="true" lon="-84.40578110305593" lat="38.02811322359937"/>
+  <node id="-607" visible="true" lon="-84.40578032451819" lat="38.02811273657277"/>
+  <node id="-608" visible="true" lon="-84.40577955951846" lat="38.02811223880126"/>
+  <node id="-609" visible="true" lon="-84.40577880579659" lat="38.02811173028790"/>
+  <node id="-610" visible="true" lon="-84.40577806335637" lat="38.02811121282048"/>
+  <node id="-611" visible="true" lon="-84.40577733219406" lat="38.02811068461116"/>
+  <node id="-612" visible="true" lon="-84.40577661230958" lat="38.02811014566001"/>
+  <node id="-613" visible="true" lon="-84.40577590370677" lat="38.02810959775477"/>
+  <node id="-614" visible="true" lon="-84.40577520864198" lat="38.02810903910467"/>
+  <node id="-615" visible="true" lon="-84.40577452485891" lat="38.02810847150047"/>
+  <node id="-616" visible="true" lon="-84.40577385461769" lat="38.02810789493915"/>
+  <node id="-617" visible="true" lon="-84.40577319565814" lat="38.02810730942380"/>
+  <node id="-618" visible="true" lon="-84.40577255249674" lat="38.02810671316051"/>
+  <node id="-619" visible="true" lon="-84.40577192062086" lat="38.02810610973094"/>
+  <node id="-620" visible="true" lon="-84.40577130228684" lat="38.02810549734429"/>
+  <node id="-621" visible="true" lon="-84.40577069749465" lat="38.02810487600052"/>
+  <node id="-622" visible="true" lon="-84.40577010850829" lat="38.02810424748441"/>
+  <node id="-623" visible="true" lon="-84.40576953080360" lat="38.02810361001425"/>
+  <node id="-624" visible="true" lon="-84.40576896890475" lat="38.02810296537177"/>
+  <node id="-625" visible="true" lon="-84.40576842054770" lat="38.02810231177219"/>
+  <node id="-626" visible="true" lon="-84.40576788574018" lat="38.02810165279109"/>
+  <node id="-627" visible="true" lon="-84.40576736673461" lat="38.02810098484986"/>
+  <node id="-628" visible="true" lon="-84.40576686127476" lat="38.02810030973932"/>
+  <node id="-629" visible="true" lon="-84.40576637388465" lat="38.02809962924123"/>
+  <node id="-630" visible="true" lon="-84.40576590004027" lat="38.02809894157387"/>
+  <node id="-631" visible="true" lon="-84.40576543974151" lat="38.02809824673715"/>
+  <node id="-632" visible="true" lon="-84.40576499525237" lat="38.02809754651593"/>
+  <node id="-633" visible="true" lon="-84.40576456882926" lat="38.02809683911935"/>
+  <node id="-634" visible="true" lon="-84.40576415595555" lat="38.02809612634125"/>
+  <node id="-635" visible="true" lon="-84.40576375889157" lat="38.02809540817864"/>
+  <node id="-636" visible="true" lon="-84.40576337763720" lat="38.02809468463146"/>
+  <node id="-637" visible="true" lon="-84.40576301445260" lat="38.02809395569671"/>
+  <node id="-638" visible="true" lon="-84.40576266482131" lat="38.02809322316828"/>
+  <node id="-639" visible="true" lon="-84.40576233325601" lat="38.02809248346450"/>
+  <node id="-640" visible="true" lon="-84.40576201750797" lat="38.02809174195170"/>
+  <node id="-641" visible="true" lon="-84.40576171756958" lat="38.02809099505441"/>
+  <node id="-642" visible="true" lon="-84.40576143570486" lat="38.02809024455736"/>
+  <node id="-643" visible="true" lon="-84.40576116964971" lat="38.02808948867575"/>
+  <node id="-644" visible="true" lon="-84.40576091941183" lat="38.02808873098525"/>
+  <node id="-645" visible="true" lon="-84.40576068724756" lat="38.02808796969491"/>
+  <node id="-646" visible="true" lon="-84.40576047089300" lat="38.02808720302004"/>
+  <node id="-647" visible="true" lon="-84.40576027035947" lat="38.02808643632405"/>
+  <node id="-648" visible="true" lon="-84.40576009015975" lat="38.02808566602521"/>
+  <node id="-649" visible="true" lon="-84.40575992351712" lat="38.02808489392046"/>
+  <node id="-650" visible="true" lon="-84.40575977720827" lat="38.02808411821297"/>
+  <node id="-651" visible="true" lon="-84.40575964445657" lat="38.02808334069947"/>
+  <node id="-652" visible="true" lon="-84.40575953204626" lat="38.02808256315881"/>
+  <node id="-653" visible="true" lon="-84.40575943319303" lat="38.02808178381219"/>
+  <node id="-654" visible="true" lon="-84.40575935467747" lat="38.02808100265060"/>
+  <node id="-655" visible="true" lon="-84.40575929197914" lat="38.02808021968004"/>
+  <node id="-656" visible="true" lon="-84.40575924736203" lat="38.02807943668528"/>
+  <node id="-657" visible="true" lon="-84.40575922082621" lat="38.02807865366638"/>
+  <node id="-658" visible="true" lon="-84.40575921011147" lat="38.02807787062628"/>
+  <node id="-659" visible="true" lon="-84.40575921747801" lat="38.02807708756199"/>
+  <node id="-660" visible="true" lon="-84.40575924066177" lat="38.02807630268873"/>
+  <node id="-661" visible="true" lon="-84.40575928193066" lat="38.02807551957911"/>
+  <node id="-662" visible="true" lon="-84.40575934128459" lat="38.02807473823308"/>
+  <node id="-663" visible="true" lon="-84.40575941645956" lat="38.02807395686591"/>
+  <node id="-664" visible="true" lon="-84.40575951197985" lat="38.02807317725930"/>
+  <node id="-665" visible="true" lon="-84.40575962106107" lat="38.02807239763453"/>
+  <node id="-666" visible="true" lon="-84.40575975049126" lat="38.02807162155815"/>
+  <node id="-667" visible="true" lon="-84.40575989348245" lat="38.02807084546364"/>
+  <node id="-668" visible="true" lon="-84.40576005682267" lat="38.02807007291749"/>
+  <node id="-669" visible="true" lon="-84.40576023372762" lat="38.02806930214095"/>
+  <node id="-670" visible="true" lon="-84.40576043097784" lat="38.02806853312508"/>
+  <node id="-671" visible="true" lon="-84.40576064405673" lat="38.02806776766354"/>
+  <node id="-672" visible="true" lon="-84.40576087296441" lat="38.02806700575645"/>
+  <node id="-673" visible="true" lon="-84.40576111996097" lat="38.02806624740081"/>
+  <node id="-674" visible="true" lon="-84.40576138278243" lat="38.02806549081172"/>
+  <node id="-675" visible="true" lon="-84.40576166143640" lat="38.02806473956487"/>
+  <node id="-676" visible="true" lon="-84.40576195817930" lat="38.02806399186938"/>
+  <node id="-677" visible="true" lon="-84.40576227075094" lat="38.02806324772834"/>
+  <node id="-678" visible="true" lon="-84.40576259915511" lat="38.02806250892945"/>
+  <node id="-679" visible="true" lon="-84.40576294565200" lat="38.02806177546983"/>
+  <node id="-680" visible="true" lon="-84.40576330797758" lat="38.02806104556458"/>
+  <node id="-681" visible="true" lon="-84.40576368387563" lat="38.02806032100454"/>
+  <node id="-682" visible="true" lon="-84.40576407786629" lat="38.02805960178371"/>
+  <node id="-683" visible="true" lon="-84.40576448768961" lat="38.02805888790508"/>
+  <node id="-684" visible="true" lon="-84.40576491108907" lat="38.02805818115948"/>
+  <node id="-685" visible="true" lon="-84.40576535483758" lat="38.02805747796225"/>
+  <node id="-686" visible="true" lon="-84.40576580990215" lat="38.02805678190103"/>
+  <node id="-687" visible="true" lon="-84.40576628080308" lat="38.02805609296983"/>
+  <node id="-688" visible="true" lon="-84.40576676753656" lat="38.02805540938081"/>
+  <node id="-689" visible="true" lon="-84.40576726785009" lat="38.02805473471265"/>
+  <node id="-690" visible="true" lon="-84.40576778399620" lat="38.02805406538663"/>
+  <node id="-691" visible="true" lon="-84.40576831598244" lat="38.02805340497843"/>
+  <node id="-692" visible="true" lon="-84.40576886154116" lat="38.02805274991546"/>
+  <node id="-693" visible="true" lon="-84.40576942067980" lat="38.02805210377331"/>
+  <node id="-694" visible="true" lon="-84.40576999565488" lat="38.02805146476115"/>
+  <node id="-695" visible="true" lon="-84.40577058194980" lat="38.02805083467279"/>
+  <node id="-696" visible="true" lon="-84.40577118408113" lat="38.02805021171446"/>
+  <node id="-697" visible="true" lon="-84.40577179979248" lat="38.02804959767690"/>
+  <node id="-698" visible="true" lon="-84.40577242908003" lat="38.02804899077238"/>
+  <node id="-699" visible="true" lon="-84.40577306969132" lat="38.02804839457947"/>
+  <node id="-700" visible="true" lon="-84.40577372614278" lat="38.02804780730436"/>
+  <node id="-701" visible="true" lon="-84.40577439391407" lat="38.02804722895308"/>
+  <node id="-702" visible="true" lon="-84.40577507526544" lat="38.02804665952257"/>
+  <node id="-703" visible="true" lon="-84.40577576793670" lat="38.02804609901595"/>
+  <node id="-704" visible="true" lon="-84.40577647419181" lat="38.02804554921786"/>
+  <node id="-705" visible="true" lon="-84.40577719176680" lat="38.02804500834367"/>
+  <node id="-706" visible="true" lon="-84.40577792066546" lat="38.02804447818102"/>
+  <node id="-707" visible="true" lon="-84.40577866088785" lat="38.02804395873004"/>
+  <node id="-708" visible="true" lon="-84.40577941243012" lat="38.02804344820290"/>
+  <node id="-709" visible="true" lon="-84.40578017529606" lat="38.02804294838735"/>
+  <node id="-710" visible="true" lon="-84.40578095174587" lat="38.02804245928039"/>
+  <node id="-711" visible="true" lon="-84.40578173499912" lat="38.02804198089112"/>
+  <node id="-712" visible="true" lon="-84.40578252957981" lat="38.02804151500126"/>
+  <node id="-713" visible="true" lon="-84.40578333548044" lat="38.02804105803524"/>
+  <node id="-714" visible="true" lon="-84.40578415270862" lat="38.02804061356856"/>
+  <node id="-715" visible="true" lon="-84.40578497674014" lat="38.02804017981959"/>
+  <node id="-716" visible="true" lon="-84.40578581209923" lat="38.02803975857000"/>
+  <node id="-717" visible="true" lon="-84.40578665651799" lat="38.02803934624731"/>
+  <node id="-718" visible="true" lon="-84.40578750774779" lat="38.02803894821784"/>
+  <node id="-719" visible="true" lon="-84.40578837030134" lat="38.02803856089999"/>
+  <node id="-720" visible="true" lon="-84.40578923966210" lat="38.02803818608761"/>
+  <node id="-721" visible="true" lon="-84.40579011809021" lat="38.02803782377761"/>
+  <node id="-722" visible="true" lon="-84.40579100332170" lat="38.02803747218530"/>
+  <node id="-723" visible="true" lon="-84.40579189536048" lat="38.02803713309847"/>
+  <node id="-724" visible="true" lon="-84.40579279873050" lat="38.02803680829883"/>
+  <node id="-725" visible="true" lon="-84.40579370664383" lat="38.02803649421987"/>
+  <node id="-726" visible="true" lon="-84.40579461910426" lat="38.02803619264936"/>
+  <node id="-727" visible="true" lon="-84.40579554289214" lat="38.02803590357827"/>
+  <node id="-728" visible="true" lon="-84.40579646897079" lat="38.02803562880649"/>
+  <node id="-729" visible="true" lon="-84.40579740185666" lat="38.02803536654013"/>
+  <node id="-730" visible="true" lon="-84.40579834154973" lat="38.02803511677928"/>
+  <node id="-731" visible="true" lon="-84.40579928578990" lat="38.02803487952686"/>
+  <node id="-732" visible="true" lon="-84.40580023458094" lat="38.02803465657070"/>
+  <node id="-733" visible="true" lon="-84.40580119017537" lat="38.02803444433221"/>
+  <node id="-734" visible="true" lon="-84.40580214806056" lat="38.02803424639305"/>
+  <node id="-735" visible="true" lon="-84.40580311049662" lat="38.02803406275013"/>
+  <node id="-736" visible="true" lon="-84.40580407747976" lat="38.02803389161569"/>
+  <node id="-737" visible="true" lon="-84.40580504675361" lat="38.02803373478054"/>
+  <node id="-738" visible="true" lon="-84.40580602057453" lat="38.02803359045382"/>
+  <node id="-739" visible="true" lon="-84.40580699894639" lat="38.02803346042341"/>
+  <node id="-740" visible="true" lon="-84.40580797734498" lat="38.02803334290752"/>
+  <node id="-741" visible="true" lon="-84.40580896029067" lat="38.02803323790010"/>
+  <node id="-742" visible="true" lon="-84.40580994327073" lat="38.02803314898284"/>
+  <node id="-743" visible="true" lon="-84.40581093079786" lat="38.02803307257398"/>
+  <node id="-744" visible="true" lon="-84.40581191835173" lat="38.02803300867966"/>
+  <node id="-745" visible="true" lon="-84.40581249463008" lat="38.02803297930382"/>
+  <way id="-6" visible="true">
+    <nd ref="-385"/>
+    <nd ref="-386"/>
+    <nd ref="-387"/>
+    <nd ref="-388"/>
+    <nd ref="-389"/>
+    <nd ref="-390"/>
+    <nd ref="-391"/>
+    <nd ref="-392"/>
+    <nd ref="-393"/>
+    <nd ref="-394"/>
+    <nd ref="-395"/>
+    <nd ref="-396"/>
+    <nd ref="-397"/>
+    <nd ref="-398"/>
+    <nd ref="-399"/>
+    <nd ref="-400"/>
+    <nd ref="-401"/>
+    <nd ref="-402"/>
+    <nd ref="-403"/>
+    <nd ref="-404"/>
+    <nd ref="-405"/>
+    <nd ref="-406"/>
+    <nd ref="-407"/>
+    <nd ref="-408"/>
+    <nd ref="-409"/>
+    <nd ref="-410"/>
+    <nd ref="-411"/>
+    <nd ref="-412"/>
+    <nd ref="-413"/>
+    <nd ref="-414"/>
+    <nd ref="-415"/>
+    <nd ref="-416"/>
+    <nd ref="-417"/>
+    <nd ref="-418"/>
+    <nd ref="-419"/>
+    <nd ref="-420"/>
+    <nd ref="-421"/>
+    <nd ref="-422"/>
+    <nd ref="-423"/>
+    <nd ref="-424"/>
+    <nd ref="-425"/>
+    <nd ref="-426"/>
+    <nd ref="-427"/>
+    <nd ref="-428"/>
+    <nd ref="-429"/>
+    <nd ref="-430"/>
+    <nd ref="-431"/>
+    <nd ref="-432"/>
+    <nd ref="-433"/>
+    <nd ref="-434"/>
+    <nd ref="-435"/>
+    <nd ref="-436"/>
+    <nd ref="-437"/>
+    <nd ref="-438"/>
+    <nd ref="-439"/>
+    <nd ref="-440"/>
+    <nd ref="-441"/>
+    <nd ref="-442"/>
+    <nd ref="-443"/>
+    <nd ref="-444"/>
+    <nd ref="-445"/>
+    <nd ref="-446"/>
+    <nd ref="-447"/>
+    <nd ref="-448"/>
+    <nd ref="-449"/>
+    <nd ref="-450"/>
+    <nd ref="-451"/>
+    <nd ref="-452"/>
+    <nd ref="-453"/>
+    <nd ref="-454"/>
+    <nd ref="-455"/>
+    <nd ref="-456"/>
+    <nd ref="-457"/>
+    <nd ref="-458"/>
+    <nd ref="-459"/>
+    <nd ref="-460"/>
+    <nd ref="-461"/>
+    <nd ref="-462"/>
+    <nd ref="-463"/>
+    <nd ref="-464"/>
+    <nd ref="-465"/>
+    <nd ref="-466"/>
+    <nd ref="-467"/>
+    <nd ref="-468"/>
+    <nd ref="-469"/>
+    <nd ref="-470"/>
+    <nd ref="-471"/>
+    <nd ref="-472"/>
+    <nd ref="-473"/>
+    <nd ref="-474"/>
+    <nd ref="-475"/>
+    <nd ref="-476"/>
+    <nd ref="-477"/>
+    <nd ref="-478"/>
+    <nd ref="-479"/>
+    <nd ref="-480"/>
+    <nd ref="-481"/>
+    <nd ref="-482"/>
+    <nd ref="-483"/>
+    <nd ref="-484"/>
+    <nd ref="-485"/>
+    <nd ref="-486"/>
+    <nd ref="-487"/>
+    <nd ref="-488"/>
+    <nd ref="-489"/>
+    <nd ref="-490"/>
+    <nd ref="-491"/>
+    <nd ref="-492"/>
+    <nd ref="-493"/>
+    <nd ref="-494"/>
+    <nd ref="-495"/>
+    <nd ref="-496"/>
+    <nd ref="-497"/>
+    <nd ref="-498"/>
+    <nd ref="-499"/>
+    <nd ref="-500"/>
+    <nd ref="-501"/>
+    <nd ref="-502"/>
+    <nd ref="-503"/>
+    <nd ref="-504"/>
+    <nd ref="-505"/>
+    <nd ref="-506"/>
+    <nd ref="-507"/>
+    <nd ref="-508"/>
+    <nd ref="-509"/>
+    <nd ref="-510"/>
+    <nd ref="-511"/>
+    <nd ref="-512"/>
+    <nd ref="-513"/>
+    <nd ref="-514"/>
+    <nd ref="-515"/>
+    <nd ref="-516"/>
+    <nd ref="-517"/>
+    <nd ref="-518"/>
+    <nd ref="-519"/>
+    <nd ref="-520"/>
+    <nd ref="-521"/>
+    <nd ref="-522"/>
+    <nd ref="-523"/>
+    <nd ref="-524"/>
+    <nd ref="-525"/>
+    <nd ref="-526"/>
+    <nd ref="-527"/>
+    <nd ref="-528"/>
+    <nd ref="-529"/>
+    <nd ref="-530"/>
+    <nd ref="-531"/>
+    <nd ref="-532"/>
+    <nd ref="-533"/>
+    <nd ref="-534"/>
+    <nd ref="-535"/>
+    <nd ref="-536"/>
+    <nd ref="-537"/>
+    <nd ref="-538"/>
+    <nd ref="-539"/>
+    <nd ref="-540"/>
+    <nd ref="-541"/>
+    <nd ref="-542"/>
+    <nd ref="-543"/>
+    <nd ref="-544"/>
+    <nd ref="-545"/>
+    <nd ref="-546"/>
+    <nd ref="-547"/>
+    <nd ref="-548"/>
+    <nd ref="-549"/>
+    <nd ref="-550"/>
+    <nd ref="-551"/>
+    <nd ref="-552"/>
+    <nd ref="-553"/>
+    <nd ref="-554"/>
+    <nd ref="-555"/>
+    <nd ref="-556"/>
+    <nd ref="-557"/>
+    <nd ref="-558"/>
+    <nd ref="-559"/>
+    <nd ref="-560"/>
+    <nd ref="-561"/>
+    <nd ref="-562"/>
+    <nd ref="-563"/>
+    <nd ref="-564"/>
+    <nd ref="-565"/>
+    <nd ref="-566"/>
+    <nd ref="-567"/>
+    <nd ref="-568"/>
+    <nd ref="-569"/>
+    <nd ref="-570"/>
+    <nd ref="-571"/>
+    <nd ref="-572"/>
+    <nd ref="-573"/>
+    <nd ref="-574"/>
+    <nd ref="-575"/>
+    <nd ref="-576"/>
+    <nd ref="-577"/>
+    <nd ref="-578"/>
+    <nd ref="-579"/>
+    <nd ref="-580"/>
+    <nd ref="-581"/>
+    <nd ref="-582"/>
+    <nd ref="-583"/>
+    <nd ref="-584"/>
+    <nd ref="-585"/>
+    <nd ref="-586"/>
+    <nd ref="-587"/>
+    <nd ref="-588"/>
+    <nd ref="-589"/>
+    <nd ref="-590"/>
+    <nd ref="-591"/>
+    <nd ref="-592"/>
+    <nd ref="-593"/>
+    <nd ref="-594"/>
+    <nd ref="-595"/>
+    <nd ref="-596"/>
+    <nd ref="-597"/>
+    <nd ref="-598"/>
+    <nd ref="-599"/>
+    <nd ref="-600"/>
+    <nd ref="-601"/>
+    <nd ref="-602"/>
+    <nd ref="-603"/>
+    <nd ref="-604"/>
+    <nd ref="-605"/>
+    <nd ref="-606"/>
+    <nd ref="-607"/>
+    <nd ref="-608"/>
+    <nd ref="-609"/>
+    <nd ref="-610"/>
+    <nd ref="-611"/>
+    <nd ref="-612"/>
+    <nd ref="-613"/>
+    <nd ref="-614"/>
+    <nd ref="-615"/>
+    <nd ref="-616"/>
+    <nd ref="-617"/>
+    <nd ref="-618"/>
+    <nd ref="-619"/>
+    <nd ref="-620"/>
+    <nd ref="-621"/>
+    <nd ref="-622"/>
+    <nd ref="-623"/>
+    <nd ref="-624"/>
+    <nd ref="-625"/>
+    <nd ref="-626"/>
+    <nd ref="-627"/>
+    <nd ref="-628"/>
+    <nd ref="-629"/>
+    <nd ref="-630"/>
+    <nd ref="-631"/>
+    <nd ref="-632"/>
+    <nd ref="-633"/>
+    <nd ref="-634"/>
+    <nd ref="-635"/>
+    <nd ref="-636"/>
+    <nd ref="-637"/>
+    <nd ref="-638"/>
+    <nd ref="-639"/>
+    <nd ref="-640"/>
+    <nd ref="-641"/>
+    <nd ref="-642"/>
+    <nd ref="-643"/>
+    <nd ref="-644"/>
+    <nd ref="-645"/>
+    <nd ref="-646"/>
+    <nd ref="-647"/>
+    <nd ref="-648"/>
+    <nd ref="-649"/>
+    <nd ref="-650"/>
+    <nd ref="-651"/>
+    <nd ref="-652"/>
+    <nd ref="-653"/>
+    <nd ref="-654"/>
+    <nd ref="-655"/>
+    <nd ref="-656"/>
+    <nd ref="-657"/>
+    <nd ref="-658"/>
+    <nd ref="-659"/>
+    <nd ref="-660"/>
+    <nd ref="-661"/>
+    <nd ref="-662"/>
+    <nd ref="-663"/>
+    <nd ref="-664"/>
+    <nd ref="-665"/>
+    <nd ref="-666"/>
+    <nd ref="-667"/>
+    <nd ref="-668"/>
+    <nd ref="-669"/>
+    <nd ref="-670"/>
+    <nd ref="-671"/>
+    <nd ref="-672"/>
+    <nd ref="-673"/>
+    <nd ref="-674"/>
+    <nd ref="-675"/>
+    <nd ref="-676"/>
+    <nd ref="-677"/>
+    <nd ref="-678"/>
+    <nd ref="-679"/>
+    <nd ref="-680"/>
+    <nd ref="-681"/>
+    <nd ref="-682"/>
+    <nd ref="-683"/>
+    <nd ref="-684"/>
+    <nd ref="-685"/>
+    <nd ref="-686"/>
+    <nd ref="-687"/>
+    <nd ref="-688"/>
+    <nd ref="-689"/>
+    <nd ref="-690"/>
+    <nd ref="-691"/>
+    <nd ref="-692"/>
+    <nd ref="-693"/>
+    <nd ref="-694"/>
+    <nd ref="-695"/>
+    <nd ref="-696"/>
+    <nd ref="-697"/>
+    <nd ref="-698"/>
+    <nd ref="-699"/>
+    <nd ref="-700"/>
+    <nd ref="-701"/>
+    <nd ref="-702"/>
+    <nd ref="-703"/>
+    <nd ref="-704"/>
+    <nd ref="-705"/>
+    <nd ref="-706"/>
+    <nd ref="-707"/>
+    <nd ref="-708"/>
+    <nd ref="-709"/>
+    <nd ref="-710"/>
+    <nd ref="-711"/>
+    <nd ref="-712"/>
+    <nd ref="-713"/>
+    <nd ref="-714"/>
+    <nd ref="-715"/>
+    <nd ref="-716"/>
+    <nd ref="-717"/>
+    <nd ref="-718"/>
+    <nd ref="-719"/>
+    <nd ref="-720"/>
+    <nd ref="-721"/>
+    <nd ref="-722"/>
+    <nd ref="-723"/>
+    <nd ref="-724"/>
+    <nd ref="-725"/>
+    <nd ref="-726"/>
+    <nd ref="-727"/>
+    <nd ref="-728"/>
+    <nd ref="-729"/>
+    <nd ref="-730"/>
+    <nd ref="-731"/>
+    <nd ref="-732"/>
+    <nd ref="-733"/>
+    <nd ref="-734"/>
+    <nd ref="-735"/>
+    <nd ref="-736"/>
+    <nd ref="-737"/>
+    <nd ref="-738"/>
+    <nd ref="-739"/>
+    <nd ref="-740"/>
+    <nd ref="-741"/>
+    <nd ref="-742"/>
+    <nd ref="-743"/>
+    <nd ref="-744"/>
+    <nd ref="-745"/>
+    <nd ref="-385"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-746" visible="true" lon="-84.41020407319492" lat="38.02608056635104"/>
+  <node id="-747" visible="true" lon="-84.41024344048664" lat="38.02593914580362"/>
+  <node id="-748" visible="true" lon="-84.41036537195414" lat="38.02596036891183"/>
+  <node id="-749" visible="true" lon="-84.41032600263145" lat="38.02610179129123"/>
+  <node id="-750" visible="true" lon="-84.41028663541206" lat="38.02624321186565"/>
+  <node id="-751" visible="true" lon="-84.41016470349024" lat="38.02622198688744"/>
+  <way id="-7" visible="true">
+    <nd ref="-746"/>
+    <nd ref="-747"/>
+    <nd ref="-748"/>
+    <nd ref="-749"/>
+    <nd ref="-750"/>
+    <nd ref="-751"/>
+    <nd ref="-746"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <node id="-752" visible="true" lon="-84.40592364786710" lat="38.02658556440031">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="132"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-753" visible="true" lon="-84.40592150512516" lat="38.02669532540465">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="235"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-754" visible="true" lon="-84.40590724946983" lat="38.02670538296562">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="335"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-755" visible="true" lon="-84.40589616432526" lat="38.02671418124746">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="435"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-756" visible="true" lon="-84.40588525758501" lat="38.02606376898936">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="416"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-757" visible="true" lon="-84.40588300884069" lat="38.02649794889265">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="430"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-758" visible="true" lon="-84.40587836269225" lat="38.02605457643583">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="316"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-759" visible="true" lon="-84.40587192640984" lat="38.02650800220115">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="330"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-760" visible="true" lon="-84.40586988974074" lat="38.02604831440364">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="216"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-761" visible="true" lon="-84.40586068612625" lat="38.02603963446141">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="116"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-762" visible="true" lon="-84.40585820859894" lat="38.02652224247795">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="230"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-763" visible="true" lon="-84.40584362988876" lat="38.02662850532032">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="233"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-764" visible="true" lon="-84.40582831471397" lat="38.02663772760142">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="333"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-765" visible="true" lon="-84.40581926981149" lat="38.02611572662901">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="418"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-766" visible="true" lon="-84.40581617362717" lat="38.02664736397715">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="433"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-767" visible="true" lon="-84.40580973644946" lat="38.02610821097897">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="318"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-768" visible="true" lon="-84.40580513206137" lat="38.02643029209613">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="428"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-769" visible="true" lon="-84.40579966617581" lat="38.02609693094899">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="218"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-770" visible="true" lon="-84.40579256735923" lat="38.02599236870531">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="215"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-771" visible="true" lon="-84.40579087375816" lat="38.02643909461402">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="328"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-772" visible="true" lon="-84.40578716136885" lat="38.02608757426795">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="118"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-773" visible="true" lon="-84.40578295735610" lat="38.02644579692461">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="228"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-774" visible="true" lon="-84.40577150422423" lat="38.02645160470500">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="128"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-775" visible="true" lon="-84.40576098337812" lat="38.02655625309243">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="231"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-776" visible="true" lon="-84.40575433471858" lat="38.02616642421475">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="420"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-777" visible="true" lon="-84.40574672951638" lat="38.02656714731976">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="331"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-778" visible="true" lon="-84.40574479599094" lat="38.02615639850156">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="320"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-779" visible="true" lon="-84.40573631677951" lat="38.02614720805883">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="220"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-780" visible="true" lon="-84.40573352801653" lat="38.02657553007280">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="431"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-781" visible="true" lon="-84.40572809775769" lat="38.02613497443933">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="120"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-782" visible="true" lon="-84.40572671362159" lat="38.02635552412107">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="426"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-783" visible="true" lon="-84.40571918939868" lat="38.02604977286267">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="217"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-784" visible="true" lon="-84.40571404012775" lat="38.02636348782166">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="326"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-785" visible="true" lon="-84.40570700459405" lat="38.02603891399673">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="317"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-786" visible="true" lon="-84.40570400916413" lat="38.02637061129889">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="226"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-787" visible="true" lon="-84.40569535133669" lat="38.02602930945130">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="417"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-788" visible="true" lon="-84.40569509152360" lat="38.02637942454121">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="126"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-789" visible="true" lon="-84.40568099076789" lat="38.02648734401096">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="229"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-790" visible="true" lon="-84.40566726666664" lat="38.02649865586448">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="329"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-791" visible="true" lon="-84.40565984095217" lat="38.02618706731978">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="122"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-792" visible="true" lon="-84.40565353719863" lat="38.02650745765846">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="429"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-793" visible="true" lon="-84.40562520754887" lat="38.02611849444293">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="219"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-794" visible="true" lon="-84.40561196680916" lat="38.02610847366675">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="319"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-795" visible="true" lon="-84.40560281134756" lat="38.02627789026341">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="423"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-796" visible="true" lon="-84.40560190103339" lat="38.02609928533456">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="419"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-797" visible="true" lon="-84.40559411860282" lat="38.02641635234693">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="227"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-798" visible="true" lon="-84.40559221847289" lat="38.02626953932317">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="323"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-799" visible="true" lon="-84.40558532985119" lat="38.02626327515324">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="223"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-800" visible="true" lon="-84.40557774392514" lat="38.02642473932263">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="327"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-801" visible="true" lon="-84.40557714828205" lat="38.02625269875963">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="123"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-802" visible="true" lon="-84.40556560016093" lat="38.02643312064337">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="427"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-803" visible="true" lon="-84.40552278568107" lat="38.02619434085907">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="221"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-804" visible="true" lon="-84.40551060088151" lat="38.02618348197265">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="321"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-805" visible="true" lon="-84.40549894584123" lat="38.02617304072164">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="421"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-806" visible="true" lon="-84.40549823228950" lat="38.02633324246337">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="225"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-807" visible="true" lon="-84.40548450503606" lat="38.02634413595541">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="325"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-808" visible="true" lon="-84.40547183151779" lat="38.02635209962968">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="425"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-809" visible="true" lon="-84.40543715375803" lat="38.02626692707447">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="124"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-810" visible="true" lon="-84.40542302219252" lat="38.02627687535514">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="224"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-811" visible="true" lon="-84.40541405072427" lat="38.02628483408152">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="324"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-812" visible="true" lon="-84.40540508282334" lat="38.02629446617910">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="424"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-813" visible="true" lon="-84.40566734748117" lat="38.02619692591623">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="222"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-814" visible="true" lon="-84.40567484979489" lat="38.02620481079148">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="322"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-815" visible="true" lon="-84.40568422136306" lat="38.02621170630377">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="422"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-816" visible="true" lon="-84.40675519341725" lat="38.02642435437697">
+    <tag k="addr:housenumber" v="2785"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-817" visible="true" lon="-84.40738075854247" lat="38.02668075823066">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="401"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-818" visible="true" lon="-84.40736628243324" lat="38.02669224829284">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="301"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-819" visible="true" lon="-84.40735451749448" lat="38.02670015015907">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="201"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-820" visible="true" lon="-84.40733641460641" lat="38.02671092821259">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="101"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-821" visible="true" lon="-84.40743708302455" lat="38.02673411929935">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="403"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-822" visible="true" lon="-84.40726651837362" lat="38.02674455095757">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="102"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-823" visible="true" lon="-84.40742532738098" lat="38.02674632259648">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="303"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-824" visible="true" lon="-84.40741084661909" lat="38.02675566195227">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="203"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-825" visible="true" lon="-84.40725618977686" lat="38.02675614267184">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="202"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-826" visible="true" lon="-84.40724623123930" lat="38.02676117446328">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="302"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-827" visible="true" lon="-84.40739493448967" lat="38.02676467428675">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="103"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-828" visible="true" lon="-84.40723356615862" lat="38.02677194515707">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="402"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-829" visible="true" lon="-84.40749294196650" lat="38.02679896398187">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="305"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-830" visible="true" lon="-84.40747876071970" lat="38.02680675828555">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="205"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-831" visible="true" lon="-84.40733812582272" lat="38.02681363297174">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="104"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-832" visible="true" lon="-84.40745932404482" lat="38.02681530341748">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="105"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-833" visible="true" lon="-84.40732639682891" lat="38.02682458476585">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="204"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-834" visible="true" lon="-84.40731735388196" lat="38.02683391676253">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="304"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-835" visible="true" lon="-84.40730740462539" lat="38.02684324998287">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="404"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-836" visible="true" lon="-84.40744218865757" lat="38.02688891761990">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="108"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-837" visible="true" lon="-84.40743385014822" lat="38.02690000428841">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="208"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-838" visible="true" lon="-84.40742027566500" lat="38.02690934241992">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="308"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-839" visible="true" lon="-84.40740941700524" lat="38.02691724306634">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="408"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-840" visible="true" lon="-84.40735001955478" lat="38.02697837656896">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="410"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-841" visible="true" lon="-84.40736121779305" lat="38.02698747025433">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="310"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-842" visible="true" lon="-84.40737031311981" lat="38.02699610374174">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="210"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-843" visible="true" lon="-84.40737861954217" lat="38.02700468108528">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="110"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-844" visible="true" lon="-84.40728172635565" lat="38.02702286337787">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="412"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-845" visible="true" lon="-84.40729132510604" lat="38.02703122802208">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="312"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-846" visible="true" lon="-84.40730286150685" lat="38.02703992436564">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="212"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-847" visible="true" lon="-84.40731217769421" lat="38.02704721850025">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="112"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-848" visible="true" lon="-84.40742264495752" lat="38.02706864968458">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="211"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-849" visible="true" lon="-84.40720983906614" lat="38.02707659253906">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="414"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-850" visible="true" lon="-84.40743241752006" lat="38.02707794909929">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="311"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-851" visible="true" lon="-84.40744454056934" lat="38.02708617802097">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="411"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-852" visible="true" lon="-84.40722263751009" lat="38.02708674960338">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="314"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-853" visible="true" lon="-84.40723308617994" lat="38.02709830610771">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="214"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-854" visible="true" lon="-84.40713278772319" lat="38.02712529419212">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="416"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-855" visible="true" lon="-84.40714122398191" lat="38.02713329749491">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="316"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-856" visible="true" lon="-84.40714984034699" lat="38.02714097338742">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="216"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-857" visible="true" lon="-84.40716067269186" lat="38.02714808670834">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="116"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-858" visible="true" lon="-84.40706090974166" lat="38.02717400311830">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="418"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-859" visible="true" lon="-84.40706964593851" lat="38.02718274974463">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="318"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-860" visible="true" lon="-84.40708079486029" lat="38.02719098538150">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="218"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-861" visible="true" lon="-84.40709127264961" lat="38.02719927913227">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="118"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-862" visible="true" lon="-84.40699714081067" lat="38.02722051101695">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="420"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-863" visible="true" lon="-84.40700705740198" lat="38.02722953852815">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="320"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-864" visible="true" lon="-84.40701744038020" lat="38.02723893548323">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="220"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-865" visible="true" lon="-84.40702691876939" lat="38.02724808336591">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="120"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-866" visible="true" lon="-84.40732724696799" lat="38.02712826394455">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="213"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-867" visible="true" lon="-84.40734458222694" lat="38.02713874560764">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="313"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-868" visible="true" lon="-84.40735519745485" lat="38.02714996934600">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="413"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-869" visible="true" lon="-84.40722358981212" lat="38.02720755681776">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="215"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-870" visible="true" lon="-84.40723833034498" lat="38.02721694786927">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="315"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-871" visible="true" lon="-84.40724912473839" lat="38.02722741156215">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="415"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-872" visible="true" lon="-84.40714551017658" lat="38.02726682931482">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="217"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-873" visible="true" lon="-84.40716043368126" lat="38.02727826894297">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="317"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-874" visible="true" lon="-84.40716881607635" lat="38.02728539093324">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="417"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-875" visible="true" lon="-84.40705681431241" lat="38.02733228754958">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="219"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-876" visible="true" lon="-84.40706832406448" lat="38.02734224256032">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="319"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-877" visible="true" lon="-84.40708006013652" lat="38.02735024141624">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="419"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-878" visible="true" lon="-84.40696600823590" lat="38.02729746395560">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="122"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-879" visible="true" lon="-84.40687148964577" lat="38.02735958493248">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="123"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-880" visible="true" lon="-84.40685845198972" lat="38.02735064564069">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="223"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-881" visible="true" lon="-84.40684942354423" lat="38.02734157580125">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="323"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-882" visible="true" lon="-84.40684174589767" lat="38.02733319959406">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="423"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-883" visible="true" lon="-84.40694153172143" lat="38.02741429184612">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="221"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-884" visible="true" lon="-84.40695763776991" lat="38.02742805761617">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="321"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-885" visible="true" lon="-84.40696719990052" lat="38.02743620243749">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="421"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-886" visible="true" lon="-84.40663133989737" lat="38.02719417420983">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="128"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-887" visible="true" lon="-84.40664279307744" lat="38.02718836634502">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="228"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-888" visible="true" lon="-84.40665070948113" lat="38.02718166397612">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="328"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-889" visible="true" lon="-84.40666496782575" lat="38.02717286135319">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="428"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-890" visible="true" lon="-84.40672159495720" lat="38.02727242257301">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="126"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-891" visible="true" lon="-84.40673051258288" lat="38.02726360925234">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="226"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-892" visible="true" lon="-84.40674054356909" lat="38.02725648568688">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="326"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-893" visible="true" lon="-84.40675321710604" lat="38.02724852187484">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="426"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-894" visible="true" lon="-84.40658910093407" lat="38.02725654642368">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="229"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-895" visible="true" lon="-84.40657537682894" lat="38.02726785838387">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="329"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-896" visible="true" lon="-84.40668576644750" lat="38.02733405319731">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="227"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-897" visible="true" lon="-84.40666939168922" lat="38.02734244032622">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="327"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-898" visible="true" lon="-84.40665724789764" lat="38.02735082176051">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="427"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-899" visible="true" lon="-84.40677178273573" lat="38.02742748203411">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="325"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-900" visible="true" lon="-84.40678551000082" lat="38.02741658839076">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="225"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-901" visible="true" lon="-84.40675910916973" lat="38.02743544584818">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="425"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-902" visible="true" lon="-84.40685729973758" lat="38.02747786315041">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="124"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-903" visible="true" lon="-84.40684316813110" lat="38.02748781160303">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="224"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-904" visible="true" lon="-84.40683419666888" lat="38.02749577043843">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="324"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-905" visible="true" lon="-84.40682522880668" lat="38.02750540264502">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="424"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-906" visible="true" lon="-84.40695694959453" lat="38.02729011760012">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="222"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-907" visible="true" lon="-84.40694770086070" lat="38.02728160943302">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="322"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-908" visible="true" lon="-84.40693838017837" lat="38.02727327477828">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="422"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-909" visible="true" lon="-84.40656896492627" lat="38.02709963544161">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="430"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-910" visible="true" lon="-84.40655788249848" lat="38.02710968881519">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="330"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-911" visible="true" lon="-84.40654416470836" lat="38.02712392917249">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="230"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-912" visible="true" lon="-84.40650574427688" lat="38.02703850810052">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="432"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-913" visible="true" lon="-84.40649519161742" lat="38.02704897910026">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="332"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-914" visible="true" lon="-84.40648410110039" lat="38.02705526738022">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="232"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-915" visible="true" lon="-84.40647433462580" lat="38.02706347754786">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="132"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-916" visible="true" lon="-84.40642244167179" lat="38.02696963079386">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="434"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-917" visible="true" lon="-84.40641399371106" lat="38.02697508061662">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="334"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-918" visible="true" lon="-84.40640343745532" lat="38.02698387823622">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="234"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-919" visible="true" lon="-84.40639198429290" lat="38.02699284690014">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="134"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-920" visible="true" lon="-84.40636172393151" lat="38.02691410117579">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="436"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-921" visible="true" lon="-84.40634905489874" lat="38.02692415666015">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="336"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-922" visible="true" lon="-84.40633932358504" lat="38.02704565043665">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="235"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-923" visible="true" lon="-84.40633796708117" lat="38.02693169995510">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="236"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-924" visible="true" lon="-84.40633509494781" lat="38.02600082723629">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="402"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-925" visible="true" lon="-84.40632655256870" lat="38.02693866801743">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="136"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-926" visible="true" lon="-84.40632506791884" lat="38.02705570804864">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="335"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-927" visible="true" lon="-84.40631398277142" lat="38.02706450637018">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="435"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-928" visible="true" lon="-84.40626247072537" lat="38.02698798634857">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="237"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-929" visible="true" lon="-84.40624874482577" lat="38.02699846158445">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="337"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-930" visible="true" lon="-84.40623396028749" lat="38.02700851989500">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="437"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-931" visible="true" lon="-84.40609119936020" lat="38.02667418441236">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="436"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-932" visible="true" lon="-84.40607853033185" lat="38.02668423986737">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="336"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-933" visible="true" lon="-84.40606744252274" lat="38.02669178313661">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="236"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-934" visible="true" lon="-84.40605602802198" lat="38.02669875117247">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="136"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-935" visible="true" lon="-84.40604563852057" lat="38.02663450814714">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="434"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-936" visible="true" lon="-84.40603719057050" lat="38.02663995794260">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="334"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-937" visible="true" lon="-84.40602663431777" lat="38.02664875552816">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="234"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-938" visible="true" lon="-84.40601518116164" lat="38.02665772415509">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="134"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-939" visible="true" lon="-84.40599195845557" lat="38.02675379028468">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="237"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-940" visible="true" lon="-84.40597823256117" lat="38.02676426548873">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="337"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-941" visible="true" lon="-84.40596344803306" lat="38.02677432376503">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="437"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-942" visible="true" lon="-84.40596054251206" lat="38.02601460569865">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="414"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-943" visible="true" lon="-84.40595505750092" lat="38.02656059510103">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="432"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-944" visible="true" lon="-84.40594741219735" lat="38.02600339235293">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="314"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-945" visible="true" lon="-84.40594450483154" lat="38.02657106605110">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="332"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-946" visible="true" lon="-84.40593428188669" lat="38.02599217900574">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="214"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-947" visible="true" lon="-84.40593341433969" lat="38.02657735427868">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="232"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-948" visible="true" lon="-84.40642566990024" lat="38.02711209767505">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="233"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-949" visible="true" lon="-84.40641035469744" lat="38.02712132003253">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="333"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-950" visible="true" lon="-84.40639821360705" lat="38.02713095646880">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="433"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-951" visible="true" lon="-84.40651451598212" lat="38.02719217521851">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="231"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-952" visible="true" lon="-84.40650026210872" lat="38.02720306953781">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="331"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-953" visible="true" lon="-84.40648706058033" lat="38.02721145237607">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="431"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-954" visible="true" lon="-84.40656164732566" lat="38.02727666028474">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="429"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-955" visible="true" lon="-84.40622417590278" lat="38.02569717599312">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="407"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-956" visible="true" lon="-84.40621000029270" lat="38.02570756243888">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="307"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-957" visible="true" lon="-84.40619909953907" lat="38.02571794448973">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="207"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-958" visible="true" lon="-84.40618543325211" lat="38.02573187187241">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="107"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-959" visible="true" lon="-84.40628544944957" lat="38.02574893090127">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="406"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-960" visible="true" lon="-84.40605173354601" lat="38.02575529248050">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="409"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-961" visible="true" lon="-84.40627564443352" lat="38.02576017499385">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="306"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-962" visible="true" lon="-84.40606595915612" lat="38.02576823314483">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="309"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-963" visible="true" lon="-84.40626146881854" lat="38.02577056144583">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="206"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-964" visible="true" lon="-84.40608346559452" lat="38.02578289642017">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="209"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-965" visible="true" lon="-84.40624668003224" lat="38.02578379131396">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="106"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-966" visible="true" lon="-84.40634454725644" lat="38.02580414450768">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="405"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-967" visible="true" lon="-84.40633364465465" lat="38.02581366306826">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="305"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-968" visible="true" lon="-84.40631946347564" lat="38.02582145723101">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="205"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-969" visible="true" lon="-84.40630002692765" lat="38.02583000216976">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="105"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-970" visible="true" lon="-84.40595577983748" lat="38.02583058712099">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="411"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-971" visible="true" lon="-84.40618630608652" lat="38.02583223397444">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="108"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-972" visible="true" lon="-84.40596781665180" lat="38.02584093842525">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="311"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-973" visible="true" lon="-84.40617796750701" lat="38.02584332055343">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="208"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-974" visible="true" lon="-84.40616439305971" lat="38.02585265853889">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="308"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-975" visible="true" lon="-84.40641000362089" lat="38.02585447779962">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="403"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-976" visible="true" lon="-84.40598751599126" lat="38.02585905458650">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="211"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-977" visible="true" lon="-84.40615353442125" lat="38.02586055906856">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="408"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-978" visible="true" lon="-84.40639824794719" lat="38.02586668099343">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="303"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-979" visible="true" lon="-84.40638376722848" lat="38.02587602022183">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="203"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-980" visible="true" lon="-84.40636785516413" lat="38.02588503241620">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="103"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-981" visible="true" lon="-84.40606743514834" lat="38.02588647418330">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="110"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-982" visible="true" lon="-84.40587290487302" lat="38.02589204093839">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="413"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-983" visible="true" lon="-84.40608152440871" lat="38.02589694429488">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="210"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-984" visible="true" lon="-84.40646357971863" lat="38.02590315543066">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="401"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-985" visible="true" lon="-84.40588822436116" lat="38.02590498016001">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="313"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-986" visible="true" lon="-84.40609246777885" lat="38.02590643354668">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="310"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-987" visible="true" lon="-84.40589916770736" lat="38.02591446942998">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="213"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-988" visible="true" lon="-84.40644910361934" lat="38.02591464537915">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="301"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-989" visible="true" lon="-84.40610013402242" lat="38.02591592719096">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="410"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-990" visible="true" lon="-84.40643733870665" lat="38.02592254715293">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="201"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-991" visible="true" lon="-84.40630681463158" lat="38.02592827533658">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="104"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-992" visible="true" lon="-84.40599982202710" lat="38.02593180495827">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="112"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-993" visible="true" lon="-84.40641923587611" lat="38.02593332506418">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="101"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-994" visible="true" lon="-84.40629508562526" lat="38.02593922702719">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="204"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-995" visible="true" lon="-84.40601172798932" lat="38.02594542094813">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="212"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-996" visible="true" lon="-84.40628604265612" lat="38.02594855894405">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="304"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-997" visible="true" lon="-84.40602376483055" lat="38.02595577224655">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="312"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-998" visible="true" lon="-84.40627609338833" lat="38.02595789207663">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="404"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-999" visible="true" lon="-84.40603360917713" lat="38.02596180716754">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="412"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1000" visible="true" lon="-84.40636804715180" lat="38.02597343329027">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="102"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1001" visible="true" lon="-84.40577508410435" lat="38.02597691693751">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="415"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1002" visible="true" lon="-84.40578197271530" lat="38.02598318109630">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="315"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1003" visible="true" lon="-84.40635771852139" lat="38.02598502492516">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="202"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1004" visible="true" lon="-84.40634776002726" lat="38.02599005663992">
+    <tag k="addr:housenumber" v="2795"/>
+    <tag k="addr:unit" v="302"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1005" visible="true" lon="-84.41180070502524" lat="38.02407340539794">
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Fitzgerald Court"/>
+  </node>
+  <node id="-1006" visible="true" lon="-84.40993403461420" lat="38.02449741617880">
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:unit" v="150"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Fitzgerald Court"/>
+  </node>
+  <node id="-1007" visible="true" lon="-84.40992313371810" lat="38.02457330699611">
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:unit" v="125"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Fitzgerald Court"/>
+  </node>
+  <node id="-1008" visible="true" lon="-84.40991195773819" lat="38.02462993647737">
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:unit" v="100"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Fitzgerald Court"/>
+  </node>
+  <node id="-1009" visible="true" lon="-84.41136122416859" lat="38.02590799887832">
+    <tag k="addr:housenumber" v="1510"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Conservation Way"/>
+  </node>
+  <node id="-1010" visible="true" lon="-84.40838762596857" lat="38.02622434891180">
+    <tag k="addr:housenumber" v="2600"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1011" visible="true" lon="-84.40909514777094" lat="38.02684446098949">
+    <tag k="addr:housenumber" v="2500"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1012" visible="true" lon="-84.41191654772565" lat="38.02764496547998">
+    <tag k="addr:housenumber" v="2350"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1013" visible="true" lon="-84.41020817858849" lat="38.02778320100443">
+    <tag k="addr:housenumber" v="2400"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1014" visible="true" lon="-84.41062692923595" lat="38.02825402827127">
+    <tag k="addr:housenumber" v="2300"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1015" visible="true" lon="-84.40925700381973" lat="38.02920267645852">
+    <tag k="addr:housenumber" v="2345"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1016" visible="true" lon="-84.41075463747954" lat="38.03087615301466">
+    <tag k="addr:housenumber" v="2185"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1017" visible="true" lon="-84.40941202108925" lat="38.02718502102341">
+    <tag k="addr:housenumber" v="2450"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1018" visible="true" lon="-84.40728542048586" lat="38.02516508481248">
+    <tag k="addr:housenumber" v="2800"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1019" visible="true" lon="-84.40766196750704" lat="38.02811909022378">
+    <tag k="addr:housenumber" v="2575"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1020" visible="true" lon="-84.40819611105992" lat="38.02545704956613">
+    <tag k="addr:housenumber" v="1700"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Fitzgerald Court"/>
+  </node>
+  <node id="-1021" visible="true" lon="-84.40750384456425" lat="38.02678944531308">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="405"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1022" visible="true" lon="-84.40752008961161" lat="38.02686333438484">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="106"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1023" visible="true" lon="-84.40753487838576" lat="38.02685010435547">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="206"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1024" visible="true" lon="-84.40754905402925" lat="38.02683971774886">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="306"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1025" visible="true" lon="-84.40755885899408" lat="38.02682847354951">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="406"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1026" visible="true" lon="-84.40760073565011" lat="38.02693136351273">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="107"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1027" visible="true" lon="-84.40761440189152" lat="38.02691743596453">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="207"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1028" visible="true" lon="-84.40762530262295" lat="38.02690705378163">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="307"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1029" visible="true" lon="-84.40763947826463" lat="38.02689666716407">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="407"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1030" visible="true" lon="-84.40750720607387" lat="38.02700199715196">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="209"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1031" visible="true" lon="-84.40752093378265" lat="38.02701334896181">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="309"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+  <node id="-1032" visible="true" lon="-84.40753087398483" lat="38.02702178106061">
+    <tag k="addr:housenumber" v="2775"/>
+    <tag k="addr:unit" v="409"/>
+    <tag k="addr:city" v="Lexington"/>
+    <tag k="addr:state" v="KY"/>
+    <tag k="addr:street" v="Polo Club Boulevard"/>
+  </node>
+</osm>
