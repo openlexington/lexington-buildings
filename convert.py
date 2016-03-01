@@ -77,28 +77,25 @@ def convert(buildingIn, addressIn, osmOut):
             else:
                 return t
 
-        if all (k in address for k in ('HOUSENO', 'APT', 'STRNAME', 'TYPE', 'DIR')):
-            result['addr:housenumber'] = str(address['HOUSENO'])
-            if address['APT']: # alpha-suffix to address
-                result['addr:unit'] = str(address['APT'])
-            if re.match('^(\d+)\w\w$', address['STRNAME']): # Test for 2ND, 14TH, 21ST
-                streetname = address['STRNAME'].lower()
+        if all (k in address for k in ('STADD', 'UNIT', 'STNAME', 'STTYPE', 'STDIR')):
+            result['addr:housenumber'] = str(address['STADD'])
+            if address['UNIT']: # alpha-suffix to address
+                result['addr:unit'] = str(address['UNIT'])
+            if re.match('^(\d+)\w\w$', address['STNAME']): # Test for 2ND, 14TH, 21ST
+                streetname = address['STNAME'].lower()
             else:
-                if address['STRNAME']: # check if it exists
-                    streetname = address['STRNAME'].title()
+                if address['STNAME']: # check if it exists
+                    streetname = address['STNAME'].title()
                 else:
                     return result
-            if address['TYPE']: # again check for existence
+            if address['STTYPE']: # again check for existence
                 result['addr:street'] = "%s%s %s" % \
-                    (direction(address['DIR']),
+                    (direction(address['STDIR']),
                     streetname,
-                    streettype(address['TYPE']) )
+                    streettype(address['STTYPE']) )
             else: # small number of streets have no type
-                result['addr:street'] = "%s%s" % (direction(address['DIR']), streetname)
-            if address['ZIPCODE']:
-                result['addr:postcode'] = str(int(address['ZIPCODE']))
-            if address['MUNI_NAME']:
-                result['addr:city'] = str(address['MUNI_NAME']).title()
+                result['addr:street'] = "%s%s" % (direction(address['STDIR']), streetname)
+            result['addr:city'] = "Lexington"
             result['addr:state'] = "KY"
         return result
 
@@ -175,8 +172,8 @@ def convert(buildingIn, addressIn, osmOut):
                 way = relation
             way.append(etree.Element('tag', k='building', v='yes'))
     # lojic:bgnum tag for building identifier
-            if 'BG_NUM' in building['properties']:
-                way.append(etree.Element('tag', k='lojic:bgnum', v=str(int(building['properties']['BG_NUM']))))
+            # if 'BG_NUM' in building['properties']:
+            #     way.append(etree.Element('tag', k='lojic:bgnum', v=str(int(building['properties']['BG_NUM']))))
 ##            bg_elev is rooftop elevation in feet, not building height
 #            if 'BG_ELEV' in building['properties']:
 #                height = round(((building['properties']['BG_ELEV'] * 12) * 0.0254), 1)
@@ -238,17 +235,17 @@ def convertTown(buildingFile):
         print "doing file " + 'osm/buildings-addresses-%s.osm' % (matches[0])
         convert(
             buildingFile,
-            'chunks/addresses-%s.shp' % (matches[0]),
+            'chunks/AddressPoint-%s.shp' % (matches[0]),
             'osm/buildings-addresses-%s.osm' % (matches[0]))
 
 
 if __name__ == '__main__':
-# Run conversions. Expects an chunks/addresses-[tract id].shp for each
+# Run conversions. Expects an chunks/AddressPoint-[tract id].shp for each
 # chunks/buildings-[tract id].shp. Optinally convert only one census tract.
     if (len(argv) == 2):
         convert(
             'chunks/buildings-%s.shp' % argv[1],
-            'chunks/addresses-%s.shp' % argv[1],
+            'chunks/AddressPoint-%s.shp' % argv[1],
             'osm/buildings-addresses-%s.osm' % argv[1])
     else:
         buildingFiles = glob("chunks/buildings-*.shp")
